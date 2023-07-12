@@ -22,7 +22,7 @@ et al., 2018) and Twitter-17 (Yu et al., 2020).
 ### Training for H-Index
 
 ```
-sh rain.sh
+sh train.sh
 ```
 
 ### Evaluation
