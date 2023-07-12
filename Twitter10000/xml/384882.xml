@@ -1,0 +1,38 @@
+<annotation>
+	<folder>2-split</folder>
+	<filename>384882.jpg</filename>
+	<path>D:\研究生\图片标记\twitter2015_1114_4\img_split_4\2-split\384882.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>600</width>
+		<height>436</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>Confederate flag</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>390</xmin>
+			<ymin>243</ymin>
+			<xmax>526</xmax>
+			<ymax>388</ymax>
+		</bndbox>
+	</object>
+	<object>
+		<name>Capitol</name>
+		<pose>Unspecified</pose>
+		<truncated>1</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>48</xmin>
+			<ymin>7</ymin>
+			<xmax>389</xmax>
+			<ymax>436</ymax>
+		</bndbox>
+	</object>
+</annotation>

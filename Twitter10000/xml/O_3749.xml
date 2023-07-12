@@ -1,0 +1,26 @@
+<annotation>
+	<folder>3-split</folder>
+	<filename>O_3749.jpg</filename>
+	<path>C:\Users\lenovo\Documents\【001】准研\work\dataset\Twitter2017\split10\img_split_vinvl_10\3-split\O_3749.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>575</width>
+		<height>1024</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>Justin Biebers</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>5</xmin>
+			<ymin>182</ymin>
+			<xmax>474</xmax>
+			<ymax>592</ymax>
+		</bndbox>
+	</object>
+</annotation>

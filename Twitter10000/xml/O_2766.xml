@@ -1,0 +1,38 @@
+<annotation>
+	<folder>3-split</folder>
+	<filename>O_2766.jpg</filename>
+	<path>C:\Users\lenovo\Documents\【001】准研\work\dataset\Twitter2017\split10\img_split_vinvl_10\3-split\O_2766.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>500</width>
+		<height>493</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>James Brown</name>
+		<pose>Unspecified</pose>
+		<truncated>1</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>224</xmin>
+			<ymin>71</ymin>
+			<xmax>418</xmax>
+			<ymax>493</ymax>
+		</bndbox>
+	</object>
+	<object>
+		<name>Johnny Carson</name>
+		<pose>Unspecified</pose>
+		<truncated>1</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>68</xmin>
+			<ymin>51</ymin>
+			<xmax>249</xmax>
+			<ymax>493</ymax>
+		</bndbox>
+	</object>
+</annotation>

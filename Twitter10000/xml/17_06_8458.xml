@@ -1,0 +1,38 @@
+<annotation>
+	<folder>6-split</folder>
+	<filename>17_06_8458.jpg</filename>
+	<path>D:\研究生\图片标记\twitter2017_split10\img_split_vinvl_10\6-split\17_06_8458.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>296</width>
+		<height>394</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>Nicky Rockets</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>229</xmin>
+			<ymin>83</ymin>
+			<xmax>257</xmax>
+			<ymax>114</ymax>
+		</bndbox>
+	</object>
+	<object>
+		<name>Nicky Rockets</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>143</xmin>
+			<ymin>111</ymin>
+			<xmax>167</xmax>
+			<ymax>135</ymax>
+		</bndbox>
+	</object>
+</annotation>

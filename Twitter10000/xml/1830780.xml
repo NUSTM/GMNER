@@ -1,0 +1,38 @@
+<annotation>
+	<folder>11-split</folder>
+	<filename>1830780.jpg</filename>
+	<path>D:\研究生\图片标记\twitter2015\img_split_11\11-split\1830780.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>600</width>
+		<height>788</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>Tim Duncan</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>11</xmin>
+			<ymin>232</ymin>
+			<xmax>524</xmax>
+			<ymax>738</ymax>
+		</bndbox>
+	</object>
+	<object>
+		<name>CP3</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>386</xmin>
+			<ymin>137</ymin>
+			<xmax>593</xmax>
+			<ymax>737</ymax>
+		</bndbox>
+	</object>
+</annotation>

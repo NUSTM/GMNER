@@ -1,0 +1,38 @@
+<annotation>
+	<folder>1-split</folder>
+	<filename>20136.jpg</filename>
+	<path>C:\Users\lenovo\Documents\【001】准研\work\dataset\Twitter2015\img_split_11\1-split\20136.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>426</width>
+		<height>568</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>Roger Federer</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>112</xmin>
+			<ymin>179</ymin>
+			<xmax>288</xmax>
+			<ymax>467</ymax>
+		</bndbox>
+	</object>
+	<object>
+		<name>Times Square</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>289</xmin>
+			<ymin>204</ymin>
+			<xmax>338</xmax>
+			<ymax>563</ymax>
+		</bndbox>
+	</object>
+</annotation>

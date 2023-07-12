@@ -1,0 +1,26 @@
+<annotation>
+	<folder>3-split</folder>
+	<filename>1086668.jpg</filename>
+	<path>D:\Desktop\Document\Postgraduate\NUSTM\数据标注\twitter2015_1114_3\img_split_3\3-split\1086668.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>399</width>
+		<height>485</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>Rolling Stone</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>7</xmin>
+			<ymin>10</ymin>
+			<xmax>391</xmax>
+			<ymax>94</ymax>
+		</bndbox>
+	</object>
+</annotation>

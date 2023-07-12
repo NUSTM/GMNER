@@ -1,0 +1,38 @@
+<annotation>
+	<folder>4-split</folder>
+	<filename>92140.jpg</filename>
+	<path>C:\Users\lenovo\Documents\【001】准研\work\dataset\Twitter2015\img_split_11\4-split\92140.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>600</width>
+		<height>600</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>Dr . John Bosman</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>241</xmin>
+			<ymin>329</ymin>
+			<xmax>397</xmax>
+			<ymax>577</ymax>
+		</bndbox>
+	</object>
+	<object>
+		<name>Dr . John Bosman</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>311</xmin>
+			<ymin>106</ymin>
+			<xmax>526</xmax>
+			<ymax>347</ymax>
+		</bndbox>
+	</object>
+</annotation>

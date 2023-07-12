@@ -1,0 +1,38 @@
+<annotation>
+	<folder>9-split</folder>
+	<filename>17_06_13235.jpg</filename>
+	<path>D:\研究生\图片标记\twitter2017_split10\img_split_vinvl_10\9-split\17_06_13235.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>1200</width>
+		<height>800</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>Hootie Jones</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>191</xmin>
+			<ymin>25</ymin>
+			<xmax>860</xmax>
+			<ymax>799</ymax>
+		</bndbox>
+	</object>
+	<object>
+		<name>The Alabama Football</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>570</xmin>
+			<ymin>404</ymin>
+			<xmax>599</xmax>
+			<ymax>427</ymax>
+		</bndbox>
+	</object>
+</annotation>

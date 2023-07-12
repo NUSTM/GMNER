@@ -1,0 +1,38 @@
+<annotation>
+	<folder>1-split</folder>
+	<filename>O_1124.jpg</filename>
+	<path>C:\Users\lenovo\Documents\【001】准研\work\dataset\Twitter2017\split10\img_split_vinvl_10\1-split\O_1124.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>749</width>
+		<height>1020</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>Justin</name>
+		<pose>Unspecified</pose>
+		<truncated>1</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>213</xmin>
+			<ymin>109</ymin>
+			<xmax>544</xmax>
+			<ymax>1020</ymax>
+		</bndbox>
+	</object>
+	<object>
+		<name>Justin Bieber</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>210</xmin>
+			<ymin>110</ymin>
+			<xmax>546</xmax>
+			<ymax>1019</ymax>
+		</bndbox>
+	</object>
+</annotation>

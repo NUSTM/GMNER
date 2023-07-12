@@ -1,0 +1,26 @@
+<annotation>
+	<folder>3-split</folder>
+	<filename>651850.jpg</filename>
+	<path>C:\Users\lenovo\Documents\work\dataset\twitter2015_1114_4\img_split_4\3-split\651850.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>586</width>
+		<height>682</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>Minseok</name>
+		<pose>Unspecified</pose>
+		<truncated>1</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>100</xmin>
+			<ymin>26</ymin>
+			<xmax>516</xmax>
+			<ymax>682</ymax>
+		</bndbox>
+	</object>
+</annotation>

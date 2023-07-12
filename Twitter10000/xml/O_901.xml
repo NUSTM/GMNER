@@ -1,0 +1,26 @@
+<annotation>
+	<folder>dev</folder>
+	<filename>O_901_region.jpg</filename>
+	<path>D:\PyCharm\BERT_NER\data\images\twitter2017_region\dev\O_901_region.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>440</width>
+		<height>220</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>Sean Hannity</name>
+		<pose>Unspecified</pose>
+		<truncated>1</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>296</xmin>
+			<ymin>3</ymin>
+			<xmax>440</xmax>
+			<ymax>176</ymax>
+		</bndbox>
+	</object>
+</annotation>

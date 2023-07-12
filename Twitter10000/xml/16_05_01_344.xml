@@ -1,0 +1,26 @@
+<annotation>
+	<folder>train</folder>
+	<filename>16_05_01_344_region.jpg</filename>
+	<path>D:\PyCharm\BERT_NER\data\images\twitter2017_region\train\16_05_01_344_region.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>900</width>
+		<height>1200</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>Phil Campbells</name>
+		<pose>Unspecified</pose>
+		<truncated>1</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>298</xmin>
+			<ymin>169</ymin>
+			<xmax>668</xmax>
+			<ymax>1200</ymax>
+		</bndbox>
+	</object>
+</annotation>

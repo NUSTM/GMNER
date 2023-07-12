@@ -1,0 +1,26 @@
+<annotation>
+	<folder>4-split</folder>
+	<filename>90023.jpg</filename>
+	<path>C:\Users\lenovo\Documents\【001】准研\work\dataset\Twitter2015\img_split_11\4-split\90023.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>478</width>
+		<height>720</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>Brigitte Bardot</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>36</xmin>
+			<ymin>299</ymin>
+			<xmax>319</xmax>
+			<ymax>677</ymax>
+		</bndbox>
+	</object>
+</annotation>

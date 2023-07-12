@@ -1,0 +1,38 @@
+<annotation>
+	<folder>dev</folder>
+	<filename>O_2033_region.jpg</filename>
+	<path>D:\PyCharm\BERT_NER\data\images\twitter2017_region\dev\O_2033_region.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>577</width>
+		<height>787</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>taylor swift</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>286</xmin>
+			<ymin>239</ymin>
+			<xmax>531</xmax>
+			<ymax>533</ymax>
+		</bndbox>
+	</object>
+	<object>
+		<name>Justin Bieber</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>31</xmin>
+			<ymin>237</ymin>
+			<xmax>287</xmax>
+			<ymax>538</ymax>
+		</bndbox>
+	</object>
+</annotation>

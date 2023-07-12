@@ -1,0 +1,38 @@
+<annotation>
+	<folder>5-split</folder>
+	<filename>17_06_707.jpg</filename>
+	<path>C:\Users\lenovo\Documents\【001】准研\work\dataset\Twitter2017\split10\img_split_vinvl_10\5-split\17_06_707.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>1000</width>
+		<height>678</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>Lionel Messi</name>
+		<pose>Unspecified</pose>
+		<truncated>1</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>481</xmin>
+			<ymin>96</ymin>
+			<xmax>996</xmax>
+			<ymax>678</ymax>
+		</bndbox>
+	</object>
+	<object>
+		<name>antonellaRoccuzzo</name>
+		<pose>Unspecified</pose>
+		<truncated>1</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>88</xmin>
+			<ymin>154</ymin>
+			<xmax>527</xmax>
+			<ymax>678</ymax>
+		</bndbox>
+	</object>
+</annotation>

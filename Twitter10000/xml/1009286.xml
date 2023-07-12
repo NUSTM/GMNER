@@ -1,0 +1,26 @@
+<annotation>
+	<folder>4-split</folder>
+	<filename>1009286.jpg</filename>
+	<path>C:\Users\lenovo\Documents\work\dataset\twitter2015_1114_4\img_split_4\4-split\1009286.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>600</width>
+		<height>591</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>Gen . Dick Olum</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>208</xmin>
+			<ymin>169</ymin>
+			<xmax>373</xmax>
+			<ymax>561</ymax>
+		</bndbox>
+	</object>
+</annotation>

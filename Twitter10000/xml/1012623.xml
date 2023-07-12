@@ -1,0 +1,50 @@
+<annotation>
+	<folder>9-split</folder>
+	<filename>1012623.jpg</filename>
+	<path>D:\研究生\图片标记\twitter2015\img_split_11\9-split\1012623.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>600</width>
+		<height>450</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>Nicholas sparks</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>42</xmin>
+			<ymin>268</ymin>
+			<xmax>108</xmax>
+			<ymax>295</ymax>
+		</bndbox>
+	</object>
+	<object>
+		<name>Nicholas sparks</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>150</xmin>
+			<ymin>282</ymin>
+			<xmax>259</xmax>
+			<ymax>300</ymax>
+		</bndbox>
+	</object>
+	<object>
+		<name>Nicholas sparks</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>274</xmin>
+			<ymin>307</ymin>
+			<xmax>383</xmax>
+			<ymax>322</ymax>
+		</bndbox>
+	</object>
+</annotation>

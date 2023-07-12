@@ -1,0 +1,26 @@
+<annotation>
+	<folder>1-split</folder>
+	<filename>64004.jpg</filename>
+	<path>D:\Desktop\Document\Postgraduate\NUSTM\数据标注\twitter2015_1114_3\img_split_3\1-split\64004.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>599</width>
+		<height>391</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>Google</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>361</xmin>
+			<ymin>48</ymin>
+			<xmax>539</xmax>
+			<ymax>111</ymax>
+		</bndbox>
+	</object>
+</annotation>

@@ -1,0 +1,26 @@
+<annotation>
+	<folder>5-split</folder>
+	<filename>117375.jpg</filename>
+	<path>C:\Users\lenovo\Documents\【001】准研\work\dataset\Twitter2015\img_split_11\5-split\117375.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>600</width>
+		<height>900</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>Cappuccino</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>365</xmin>
+			<ymin>623</ymin>
+			<xmax>566</xmax>
+			<ymax>839</ymax>
+		</bndbox>
+	</object>
+</annotation>

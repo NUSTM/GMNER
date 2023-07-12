@@ -1,0 +1,26 @@
+<annotation>
+	<folder>1-split</folder>
+	<filename>67293.jpg</filename>
+	<path>D:\研究生\图片标记\twitter2015_1114_4\img_split_4\1-split\67293.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>500</width>
+		<height>667</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>Angelina Jolie</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>3</xmin>
+			<ymin>3</ymin>
+			<xmax>495</xmax>
+			<ymax>663</ymax>
+		</bndbox>
+	</object>
+</annotation>

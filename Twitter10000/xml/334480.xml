@@ -1,0 +1,26 @@
+<annotation>
+	<folder>6-split</folder>
+	<filename>334480.jpg</filename>
+	<path>D:\研究生\图片标记\twitter2015\img_split_11\6-split\334480.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>600</width>
+		<height>450</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>Stuart</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>134</xmin>
+			<ymin>167</ymin>
+			<xmax>211</xmax>
+			<ymax>410</ymax>
+		</bndbox>
+	</object>
+</annotation>

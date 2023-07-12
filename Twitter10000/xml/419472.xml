@@ -1,0 +1,26 @@
+<annotation>
+	<folder>6-split</folder>
+	<filename>419472.jpg</filename>
+	<path>D:\研究生\图片标记\twitter2015\img_split_11\6-split\419472.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>600</width>
+		<height>369</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>Lee Jonghyun</name>
+		<pose>Unspecified</pose>
+		<truncated>1</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>158</xmin>
+			<ymin>55</ymin>
+			<xmax>571</xmax>
+			<ymax>369</ymax>
+		</bndbox>
+	</object>
+</annotation>

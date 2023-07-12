@@ -1,0 +1,38 @@
+<annotation>
+	<folder>2-split</folder>
+	<filename>72864.jpg</filename>
+	<path>D:\研究生\图片标记\twitter2015_1114_4\img_split_4\2-split\72864.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>580</width>
+		<height>1199</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>Tribune</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>37</xmin>
+			<ymin>53</ymin>
+			<xmax>540</xmax>
+			<ymax>126</ymax>
+		</bndbox>
+	</object>
+	<object>
+		<name>Jay Cutler</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>21</xmin>
+			<ymin>461</ymin>
+			<xmax>350</xmax>
+			<ymax>698</ymax>
+		</bndbox>
+	</object>
+</annotation>

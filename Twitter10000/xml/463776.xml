@@ -1,0 +1,26 @@
+<annotation>
+	<folder>3-split</folder>
+	<filename>463776.jpg</filename>
+	<path>C:\Users\lenovo\Documents\work\dataset\twitter2015_1114_4\img_split_4\3-split\463776.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>409</width>
+		<height>562</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>Zac Efron</name>
+		<pose>Unspecified</pose>
+		<truncated>1</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>92</xmin>
+			<ymin>3</ymin>
+			<xmax>346</xmax>
+			<ymax>562</ymax>
+		</bndbox>
+	</object>
+</annotation>

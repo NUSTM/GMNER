@@ -1,0 +1,26 @@
+<annotation>
+	<folder>7-split</folder>
+	<filename>535188.jpg</filename>
+	<path>D:\研究生\图片标记\twitter2015\img_split_11\7-split\535188.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>592</width>
+		<height>790</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>LeBron</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>177</xmin>
+			<ymin>88</ymin>
+			<xmax>317</xmax>
+			<ymax>685</ymax>
+		</bndbox>
+	</object>
+</annotation>

@@ -1,0 +1,38 @@
+<annotation>
+	<folder>train</folder>
+	<filename>16_05_21_1069_region.jpg</filename>
+	<path>D:\PyCharm\BERT_NER\data\images\twitter2017_region\train\16_05_21_1069_region.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>634</width>
+		<height>1006</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>Kim Kardashian</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>252</xmin>
+			<ymin>97</ymin>
+			<xmax>518</xmax>
+			<ymax>916</ymax>
+		</bndbox>
+	</object>
+	<object>
+		<name>Kanye</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>95</xmin>
+			<ymin>68</ymin>
+			<xmax>338</xmax>
+			<ymax>888</ymax>
+		</bndbox>
+	</object>
+</annotation>

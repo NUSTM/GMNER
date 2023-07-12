@@ -1,0 +1,26 @@
+<annotation>
+	<folder>6-split</folder>
+	<filename>428273.jpg</filename>
+	<path>D:\研究生\图片标记\twitter2015\img_split_11\6-split\428273.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>600</width>
+		<height>600</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>Donald Trump</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>224</xmin>
+			<ymin>84</ymin>
+			<xmax>353</xmax>
+			<ymax>480</ymax>
+		</bndbox>
+	</object>
+</annotation>

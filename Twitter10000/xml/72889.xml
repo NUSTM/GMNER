@@ -1,0 +1,26 @@
+<annotation>
+	<folder>1-split</folder>
+	<filename>72889.jpg</filename>
+	<path>D:\Desktop\Document\Postgraduate\NUSTM\数据标注\twitter2015_1114_3\img_split_3\1-split\72889.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>600</width>
+		<height>903</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>Rotterdam Dockwise Vanguard</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>398</xmin>
+			<ymin>221</ymin>
+			<xmax>410</xmax>
+			<ymax>250</ymax>
+		</bndbox>
+	</object>
+</annotation>

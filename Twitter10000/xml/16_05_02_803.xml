@@ -1,0 +1,26 @@
+<annotation>
+	<folder>7-split</folder>
+	<filename>16_05_02_803.jpg</filename>
+	<path>D:\研究生\图片标记\twitter2017_split10\img_split_vinvl_10\7-split\16_05_02_803.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>893</width>
+		<height>461</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>Spurs</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>545</xmin>
+			<ymin>147</ymin>
+			<xmax>638</xmax>
+			<ymax>346</ymax>
+		</bndbox>
+	</object>
+</annotation>

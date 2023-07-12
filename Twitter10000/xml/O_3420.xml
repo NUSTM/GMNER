@@ -1,0 +1,50 @@
+<annotation>
+	<folder>dev</folder>
+	<filename>O_3420_region.jpg</filename>
+	<path>D:\PyCharm\BERT_NER\data\images\twitter2017_region\dev\O_3420_region.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>600</width>
+		<height>338</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>John Miller</name>
+		<pose>Unspecified</pose>
+		<truncated>1</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>18</xmin>
+			<ymin>31</ymin>
+			<xmax>203</xmax>
+			<ymax>338</ymax>
+		</bndbox>
+	</object>
+	<object>
+		<name>Donald Trump</name>
+		<pose>Unspecified</pose>
+		<truncated>1</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>207</xmin>
+			<ymin>38</ymin>
+			<xmax>398</xmax>
+			<ymax>338</ymax>
+		</bndbox>
+	</object>
+	<object>
+		<name>John Barron</name>
+		<pose>Unspecified</pose>
+		<truncated>1</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>370</xmin>
+			<ymin>41</ymin>
+			<xmax>548</xmax>
+			<ymax>338</ymax>
+		</bndbox>
+	</object>
+</annotation>

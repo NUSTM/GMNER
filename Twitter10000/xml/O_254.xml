@@ -1,0 +1,38 @@
+<annotation>
+	<folder>1-split</folder>
+	<filename>O_254.jpg</filename>
+	<path>/home/lzy/Documents/dataset/twitter2017/twitter2017_split10/img_split_vinvl_10/1-split/O_254.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>1200</width>
+		<height>1200</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>Gabrielle Union</name>
+		<pose>Unspecified</pose>
+		<truncated>1</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>28</xmin>
+			<ymin>97</ymin>
+			<xmax>746</xmax>
+			<ymax>1200</ymax>
+		</bndbox>
+	</object>
+	<object>
+		<name>Gabrielle Union</name>
+		<pose>Unspecified</pose>
+		<truncated>1</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>813</xmin>
+			<ymin>27</ymin>
+			<xmax>1150</xmax>
+			<ymax>1200</ymax>
+		</bndbox>
+	</object>
+</annotation>

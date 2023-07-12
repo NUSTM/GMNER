@@ -1,0 +1,26 @@
+<annotation>
+	<folder>9-split</folder>
+	<filename>17_06_12148.jpg</filename>
+	<path>D:\研究生\图片标记\twitter2017_split10\img_split_vinvl_10\9-split\17_06_12148.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>636</width>
+		<height>382</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>Antoine Griezmann</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>66</xmin>
+			<ymin>8</ymin>
+			<xmax>426</xmax>
+			<ymax>381</ymax>
+		</bndbox>
+	</object>
+</annotation>

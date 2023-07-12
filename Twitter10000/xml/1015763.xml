@@ -1,0 +1,26 @@
+<annotation>
+	<folder>9-split</folder>
+	<filename>1015763.jpg</filename>
+	<path>D:\研究生\图片标记\twitter2015\img_split_11\9-split\1015763.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>502</width>
+		<height>281</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>Kanye</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>174</xmin>
+			<ymin>30</ymin>
+			<xmax>333</xmax>
+			<ymax>280</ymax>
+		</bndbox>
+	</object>
+</annotation>

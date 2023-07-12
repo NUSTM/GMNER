@@ -1,0 +1,26 @@
+<annotation>
+	<folder>9-split</folder>
+	<filename>933190.jpg</filename>
+	<path>D:\研究生\图片标记\twitter2015\img_split_11\9-split\933190.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>600</width>
+		<height>338</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>Atmospheric River</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>9</xmin>
+			<ymin>74</ymin>
+			<xmax>587</xmax>
+			<ymax>337</ymax>
+		</bndbox>
+	</object>
+</annotation>

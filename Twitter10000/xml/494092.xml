@@ -1,0 +1,26 @@
+<annotation>
+	<folder>6-split</folder>
+	<filename>494092.jpg</filename>
+	<path>D:\研究生\图片标记\twitter2015\img_split_11\6-split\494092.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>599</width>
+		<height>367</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>Disney Princesses</name>
+		<pose>Unspecified</pose>
+		<truncated>1</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>7</xmin>
+			<ymin>7</ymin>
+			<xmax>586</xmax>
+			<ymax>367</ymax>
+		</bndbox>
+	</object>
+</annotation>

@@ -1,0 +1,26 @@
+<annotation>
+	<folder>8-split</folder>
+	<filename>16_05_30_577.jpg</filename>
+	<path>D:\研究生\图片标记\twitter2017_split10\img_split_vinvl_10\8-split\16_05_30_577.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>488</width>
+		<height>246</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>Madison Community Band</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>50</xmin>
+			<ymin>92</ymin>
+			<xmax>475</xmax>
+			<ymax>214</ymax>
+		</bndbox>
+	</object>
+</annotation>

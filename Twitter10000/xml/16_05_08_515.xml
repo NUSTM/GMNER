@@ -1,0 +1,26 @@
+<annotation>
+	<folder>train</folder>
+	<filename>16_05_08_515_region.jpg</filename>
+	<path>D:\PyCharm\BERT_NER\data\images\twitter2017_region\train\16_05_08_515_region.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>1200</width>
+		<height>675</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>Ashford Town Ladies</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>273</xmin>
+			<ymin>198</ymin>
+			<xmax>854</xmax>
+			<ymax>497</ymax>
+		</bndbox>
+	</object>
+</annotation>

@@ -1,0 +1,26 @@
+<annotation>
+	<folder>8-split</folder>
+	<filename>730890.jpg</filename>
+	<path>D:\研究生\图片标记\twitter2015\img_split_11\8-split\730890.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>509</width>
+		<height>320</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>Curiosity</name>
+		<pose>Unspecified</pose>
+		<truncated>1</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>1</xmin>
+			<ymin>174</ymin>
+			<xmax>245</xmax>
+			<ymax>320</ymax>
+		</bndbox>
+	</object>
+</annotation>

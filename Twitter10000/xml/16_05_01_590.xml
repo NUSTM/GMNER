@@ -1,0 +1,26 @@
+<annotation>
+	<folder>train</folder>
+	<filename>16_05_01_590_region.jpg</filename>
+	<path>D:\PyCharm\BERT_NER\data\images\twitter2017_region\train\16_05_01_590_region.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>602</width>
+		<height>604</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>dannflorek</name>
+		<pose>Unspecified</pose>
+		<truncated>1</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>1</xmin>
+			<ymin>51</ymin>
+			<xmax>291</xmax>
+			<ymax>604</ymax>
+		</bndbox>
+	</object>
+</annotation>

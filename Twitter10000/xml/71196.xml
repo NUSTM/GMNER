@@ -1,0 +1,26 @@
+<annotation>
+	<folder>3-split</folder>
+	<filename>71196.jpg</filename>
+	<path>C:\Users\lenovo\Documents\【001】准研\work\dataset\Twitter2015\img_split_11\3-split\71196.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>600</width>
+		<height>617</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>Jared Spurgeon</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>159</xmin>
+			<ymin>33</ymin>
+			<xmax>578</xmax>
+			<ymax>539</ymax>
+		</bndbox>
+	</object>
+</annotation>

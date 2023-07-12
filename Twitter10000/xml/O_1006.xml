@@ -1,0 +1,38 @@
+<annotation>
+	<folder>dev</folder>
+	<filename>O_1006_region.jpg</filename>
+	<path>D:\PyCharm\BERT_NER\data\images\twitter2017_region\dev\O_1006_region.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>600</width>
+		<height>337</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>Vladimir Putin</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>27</xmin>
+			<ymin>5</ymin>
+			<xmax>208</xmax>
+			<ymax>208</ymax>
+		</bndbox>
+	</object>
+	<object>
+		<name>Donald Trump</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>200</xmin>
+			<ymin>2</ymin>
+			<xmax>409</xmax>
+			<ymax>156</ymax>
+		</bndbox>
+	</object>
+</annotation>

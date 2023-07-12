@@ -1,0 +1,26 @@
+<annotation>
+	<folder>1-split</folder>
+	<filename>O_998.jpg</filename>
+	<path>C:\Users\lenovo\Documents\【001】准研\work\dataset\Twitter2017\split10\img_split_vinvl_10\1-split\O_998.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>1200</width>
+		<height>1098</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>Taylor Swift</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>420</xmin>
+			<ymin>383</ymin>
+			<xmax>745</xmax>
+			<ymax>741</ymax>
+		</bndbox>
+	</object>
+</annotation>

@@ -1,0 +1,26 @@
+<annotation>
+	<folder>1-split</folder>
+	<filename>O_276.jpg</filename>
+	<path>/home/lzy/Documents/dataset/twitter2017/twitter2017_split10/img_split_vinvl_10/1-split/O_276.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>572</width>
+		<height>400</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>David Beckham</name>
+		<pose>Unspecified</pose>
+		<truncated>1</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>69</xmin>
+			<ymin>15</ymin>
+			<xmax>512</xmax>
+			<ymax>400</ymax>
+		</bndbox>
+	</object>
+</annotation>

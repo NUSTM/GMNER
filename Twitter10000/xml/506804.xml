@@ -1,0 +1,26 @@
+<annotation>
+	<folder>2-split</folder>
+	<filename>506804.jpg</filename>
+	<path>D:\Desktop\Document\Postgraduate\NUSTM\数据标注\twitter2015_1114_3\img_split_3\2-split\506804.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>600</width>
+		<height>369</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>Preds</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>270</xmin>
+			<ymin>129</ymin>
+			<xmax>292</xmax>
+			<ymax>147</ymax>
+		</bndbox>
+	</object>
+</annotation>

@@ -1,0 +1,26 @@
+<annotation>
+	<folder>2-split</folder>
+	<filename>33225.jpg</filename>
+	<path>C:\Users\lenovo\Documents\【001】准研\work\dataset\Twitter2015\img_split_11\2-split\33225.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>480</width>
+		<height>310</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>Martin Luther King</name>
+		<pose>Unspecified</pose>
+		<truncated>1</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>124</xmin>
+			<ymin>56</ymin>
+			<xmax>348</xmax>
+			<ymax>310</ymax>
+		</bndbox>
+	</object>
+</annotation>

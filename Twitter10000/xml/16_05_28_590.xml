@@ -1,0 +1,26 @@
+<annotation>
+	<folder>dev</folder>
+	<filename>16_05_28_590_region.jpg</filename>
+	<path>D:\PyCharm\BERT_NER\data\images\twitter2017_region\dev\16_05_28_590_region.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>777</width>
+		<height>1200</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>Kingsmen</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>296</xmin>
+			<ymin>65</ymin>
+			<xmax>582</xmax>
+			<ymax>437</ymax>
+		</bndbox>
+	</object>
+</annotation>

@@ -1,0 +1,26 @@
+<annotation>
+	<folder>3-split</folder>
+	<filename>70916.jpg</filename>
+	<path>C:\Users\lenovo\Documents\【001】准研\work\dataset\Twitter2015\img_split_11\3-split\70916.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>600</width>
+		<height>375</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>Ben Bishop</name>
+		<pose>Unspecified</pose>
+		<truncated>1</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>348</xmin>
+			<ymin>116</ymin>
+			<xmax>600</xmax>
+			<ymax>375</ymax>
+		</bndbox>
+	</object>
+</annotation>

@@ -1,0 +1,26 @@
+<annotation>
+	<folder>train</folder>
+	<filename>16_05_02_696_region.jpg</filename>
+	<path>D:\PyCharm\BERT_NER\data\images\twitter2017_region\train\16_05_02_696_region.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>639</width>
+		<height>726</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>Alicia Keys</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>117</xmin>
+			<ymin>9</ymin>
+			<xmax>546</xmax>
+			<ymax>663</ymax>
+		</bndbox>
+	</object>
+</annotation>

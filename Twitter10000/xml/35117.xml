@@ -1,0 +1,38 @@
+<annotation>
+	<folder>1-split</folder>
+	<filename>35117.jpg</filename>
+	<path>D:\研究生\图片标记\twitter2015_1114_4\img_split_4\1-split\35117.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>600</width>
+		<height>592</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>Martin Garrix</name>
+		<pose>Unspecified</pose>
+		<truncated>1</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>214</xmin>
+			<ymin>324</ymin>
+			<xmax>553</xmax>
+			<ymax>592</ymax>
+		</bndbox>
+	</object>
+	<object>
+		<name>Mexico</name>
+		<pose>Unspecified</pose>
+		<truncated>1</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>233</xmin>
+			<ymin>385</ymin>
+			<xmax>600</xmax>
+			<ymax>592</ymax>
+		</bndbox>
+	</object>
+</annotation>

@@ -1,0 +1,26 @@
+<annotation>
+	<folder>8-split</folder>
+	<filename>854350.jpg</filename>
+	<path>D:\研究生\图片标记\twitter2015\img_split_11\8-split\854350.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>600</width>
+		<height>546</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>David Wright</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>124</xmin>
+			<ymin>2</ymin>
+			<xmax>596</xmax>
+			<ymax>541</ymax>
+		</bndbox>
+	</object>
+</annotation>

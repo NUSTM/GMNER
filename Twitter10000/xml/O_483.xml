@@ -1,0 +1,26 @@
+<annotation>
+	<folder>1-split</folder>
+	<filename>O_483.jpg</filename>
+	<path>C:\Users\lenovo\Documents\【001】准研\work\dataset\Twitter2017\split10\img_split_vinvl_10\1-split\O_483.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>600</width>
+		<height>800</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>Kim Kardashian</name>
+		<pose>Unspecified</pose>
+		<truncated>1</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>75</xmin>
+			<ymin>5</ymin>
+			<xmax>535</xmax>
+			<ymax>800</ymax>
+		</bndbox>
+	</object>
+</annotation>

@@ -1,0 +1,26 @@
+<annotation>
+	<folder>1-split</folder>
+	<filename>O_234.jpg</filename>
+	<path>/home/lzy/Documents/dataset/twitter2017/twitter2017_split10/img_split_vinvl_10/1-split/O_234.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>1053</width>
+		<height>718</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>harry styles</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>492</xmin>
+			<ymin>4</ymin>
+			<xmax>975</xmax>
+			<ymax>675</ymax>
+		</bndbox>
+	</object>
+</annotation>

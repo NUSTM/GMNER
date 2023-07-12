@@ -1,0 +1,26 @@
+<annotation>
+	<folder>3-split</folder>
+	<filename>470248.jpg</filename>
+	<path>C:\Users\lenovo\Documents\work\dataset\twitter2015_1114_4\img_split_4\3-split\470248.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>420</width>
+		<height>630</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>Kylie Jenner</name>
+		<pose>Unspecified</pose>
+		<truncated>1</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>11</xmin>
+			<ymin>18</ymin>
+			<xmax>420</xmax>
+			<ymax>630</ymax>
+		</bndbox>
+	</object>
+</annotation>

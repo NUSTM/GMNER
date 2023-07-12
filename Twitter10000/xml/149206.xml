@@ -1,0 +1,26 @@
+<annotation>
+	<folder>5-split</folder>
+	<filename>149206.jpg</filename>
+	<path>C:\Users\lenovo\Documents\【001】准研\work\dataset\Twitter2015\img_split_11\5-split\149206.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>600</width>
+		<height>246</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>Messi</name>
+		<pose>Unspecified</pose>
+		<truncated>1</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>263</xmin>
+			<ymin>15</ymin>
+			<xmax>350</xmax>
+			<ymax>246</ymax>
+		</bndbox>
+	</object>
+</annotation>

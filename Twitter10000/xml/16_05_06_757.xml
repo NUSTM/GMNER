@@ -1,0 +1,26 @@
+<annotation>
+	<folder>7-split</folder>
+	<filename>16_05_06_757.jpg</filename>
+	<path>D:\研究生\图片标记\twitter2017_split10\img_split_vinvl_10\7-split\16_05_06_757.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>768</width>
+		<height>526</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>WSU Cougars</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>431</xmin>
+			<ymin>216</ymin>
+			<xmax>454</xmax>
+			<ymax>244</ymax>
+		</bndbox>
+	</object>
+</annotation>

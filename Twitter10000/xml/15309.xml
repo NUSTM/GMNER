@@ -1,0 +1,26 @@
+<annotation>
+	<folder>1-split</folder>
+	<filename>15309.jpg</filename>
+	<path>C:\Users\lenovo\Documents\【001】准研\work\dataset\Twitter2015\img_split_11\1-split\15309.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>600</width>
+		<height>585</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>Brownie Sundae</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>84</xmin>
+			<ymin>35</ymin>
+			<xmax>565</xmax>
+			<ymax>533</ymax>
+		</bndbox>
+	</object>
+</annotation>

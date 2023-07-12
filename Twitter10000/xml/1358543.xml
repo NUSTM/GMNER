@@ -1,0 +1,26 @@
+<annotation>
+	<folder>4-split</folder>
+	<filename>1358543.jpg</filename>
+	<path>C:\Users\lenovo\Documents\work\dataset\twitter2015_1114_4\img_split_4\4-split\1358543.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>600</width>
+		<height>422</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>Dave Grohl</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>193</xmin>
+			<ymin>76</ymin>
+			<xmax>310</xmax>
+			<ymax>369</ymax>
+		</bndbox>
+	</object>
+</annotation>

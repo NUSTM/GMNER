@@ -1,0 +1,26 @@
+<annotation>
+	<folder>1-split</folder>
+	<filename>109931.jpg</filename>
+	<path>D:\Desktop\Document\Postgraduate\NUSTM\数据标注\twitter2015_1114_3\img_split_3\1-split\109931.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>600</width>
+		<height>399</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>Virtustream</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>54</xmin>
+			<ymin>168</ymin>
+			<xmax>235</xmax>
+			<ymax>248</ymax>
+		</bndbox>
+	</object>
+</annotation>

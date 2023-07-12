@@ -1,0 +1,26 @@
+<annotation>
+	<folder>9-split</folder>
+	<filename>17_06_13936.jpg</filename>
+	<path>D:\研究生\图片标记\twitter2017_split10\img_split_vinvl_10\9-split\17_06_13936.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>1200</width>
+		<height>998</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>amyatfamous</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>551</xmin>
+			<ymin>393</ymin>
+			<xmax>773</xmax>
+			<ymax>978</ymax>
+		</bndbox>
+	</object>
+</annotation>

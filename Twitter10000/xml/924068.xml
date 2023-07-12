@@ -1,0 +1,50 @@
+<annotation>
+	<folder>9-split</folder>
+	<filename>924068.jpg</filename>
+	<path>D:\研究生\图片标记\twitter2015\img_split_11\9-split\924068.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>558</width>
+		<height>744</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>Mayor Steve Adler</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>253</xmin>
+			<ymin>241</ymin>
+			<xmax>381</xmax>
+			<ymax>350</ymax>
+		</bndbox>
+	</object>
+	<object>
+		<name>Save Texas Schools</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>61</xmin>
+			<ymin>222</ymin>
+			<xmax>288</xmax>
+			<ymax>315</ymax>
+		</bndbox>
+	</object>
+	<object>
+		<name>Save Texas Schools</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>268</xmin>
+			<ymin>341</ymin>
+			<xmax>374</xmax>
+			<ymax>387</ymax>
+		</bndbox>
+	</object>
+</annotation>

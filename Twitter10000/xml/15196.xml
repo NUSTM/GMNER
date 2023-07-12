@@ -1,0 +1,26 @@
+<annotation>
+	<folder>1-split</folder>
+	<filename>15196.jpg</filename>
+	<path>D:\研究生\图片标记\twitter2015_1114_4\img_split_4\1-split\15196.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>600</width>
+		<height>418</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>Honey BBQ Chicken Strip</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>20</xmin>
+			<ymin>98</ymin>
+			<xmax>530</xmax>
+			<ymax>410</ymax>
+		</bndbox>
+	</object>
+</annotation>

@@ -1,0 +1,26 @@
+<annotation>
+	<folder>8-split</folder>
+	<filename>16_05_20_392.jpg</filename>
+	<path>D:\研究生\图片标记\twitter2017_split10\img_split_vinvl_10\8-split\16_05_20_392.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>1200</width>
+		<height>1200</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>Capital Ukrainian Festival</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>59</xmin>
+			<ymin>55</ymin>
+			<xmax>725</xmax>
+			<ymax>375</ymax>
+		</bndbox>
+	</object>
+</annotation>

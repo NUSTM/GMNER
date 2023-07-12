@@ -1,0 +1,38 @@
+<annotation>
+	<folder>6-split</folder>
+	<filename>442194.jpg</filename>
+	<path>D:\研究生\图片标记\twitter2015\img_split_11\6-split\442194.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>600</width>
+		<height>450</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>Verlander</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>268</xmin>
+			<ymin>165</ymin>
+			<xmax>291</xmax>
+			<ymax>231</ymax>
+		</bndbox>
+	</object>
+	<object>
+		<name>Doug Teter</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>236</xmin>
+			<ymin>166</ymin>
+			<xmax>262</xmax>
+			<ymax>230</ymax>
+		</bndbox>
+	</object>
+</annotation>

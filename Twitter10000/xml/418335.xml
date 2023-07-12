@@ -1,0 +1,26 @@
+<annotation>
+	<folder>6-split</folder>
+	<filename>418335.jpg</filename>
+	<path>D:\研究生\图片标记\twitter2015\img_split_11\6-split\418335.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>600</width>
+		<height>800</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>Coble</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>189</xmin>
+			<ymin>138</ymin>
+			<xmax>428</xmax>
+			<ymax>313</ymax>
+		</bndbox>
+	</object>
+</annotation>

@@ -1,0 +1,26 @@
+<annotation>
+	<folder>8-split</folder>
+	<filename>881101.jpg</filename>
+	<path>D:\研究生\图片标记\twitter2015\img_split_11\8-split\881101.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>500</width>
+		<height>322</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>Clive</name>
+		<pose>Unspecified</pose>
+		<truncated>1</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>183</xmin>
+			<ymin>24</ymin>
+			<xmax>499</xmax>
+			<ymax>322</ymax>
+		</bndbox>
+	</object>
+</annotation>

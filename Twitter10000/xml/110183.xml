@@ -1,0 +1,26 @@
+<annotation>
+	<folder>2-split</folder>
+	<filename>110183.jpg</filename>
+	<path>D:\研究生\图片标记\twitter2015_1114_4\img_split_4\2-split\110183.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>460</width>
+		<height>701</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>Harry Potter</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>290</xmin>
+			<ymin>510</ymin>
+			<xmax>450</xmax>
+			<ymax>699</ymax>
+		</bndbox>
+	</object>
+</annotation>

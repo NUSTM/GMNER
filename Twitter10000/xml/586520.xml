@@ -1,0 +1,26 @@
+<annotation>
+	<folder>2-split</folder>
+	<filename>586520.jpg</filename>
+	<path>D:\Desktop\Document\Postgraduate\NUSTM\数据标注\twitter2015_1114_3\img_split_3\2-split\586520.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>600</width>
+		<height>300</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>Twitter</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>244</xmin>
+			<ymin>34</ymin>
+			<xmax>331</xmax>
+			<ymax>123</ymax>
+		</bndbox>
+	</object>
+</annotation>

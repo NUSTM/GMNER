@@ -1,0 +1,26 @@
+<annotation>
+	<folder>1-split</folder>
+	<filename>O_214.jpg</filename>
+	<path>C:\Users\lenovo\Documents\【001】准研\work\dataset\twitter2017_split14\img_split\1-split\O_214.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>800</width>
+		<height>1200</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>Kevin Durant</name>
+		<pose>Unspecified</pose>
+		<truncated>1</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>254</xmin>
+			<ymin>183</ymin>
+			<xmax>601</xmax>
+			<ymax>1200</ymax>
+		</bndbox>
+	</object>
+</annotation>

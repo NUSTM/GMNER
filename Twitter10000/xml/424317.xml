@@ -1,0 +1,26 @@
+<annotation>
+	<folder>6-split</folder>
+	<filename>424317.jpg</filename>
+	<path>D:\研究生\图片标记\twitter2015\img_split_11\6-split\424317.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>600</width>
+		<height>310</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>Google</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>263</xmin>
+			<ymin>8</ymin>
+			<xmax>336</xmax>
+			<ymax>34</ymax>
+		</bndbox>
+	</object>
+</annotation>

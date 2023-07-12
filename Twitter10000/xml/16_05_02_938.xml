@@ -1,0 +1,26 @@
+<annotation>
+	<folder>train</folder>
+	<filename>16_05_02_938_region.jpg</filename>
+	<path>D:\PyCharm\BERT_NER\data\images\twitter2017_region\train\16_05_02_938_region.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>768</width>
+		<height>511</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>Cutcliffe</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>220</xmin>
+			<ymin>22</ymin>
+			<xmax>480</xmax>
+			<ymax>504</ymax>
+		</bndbox>
+	</object>
+</annotation>

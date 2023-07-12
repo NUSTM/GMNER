@@ -1,0 +1,26 @@
+<annotation>
+	<folder>7-split</folder>
+	<filename>16_05_09_109.jpg</filename>
+	<path>D:\研究生\图片标记\twitter2017_split10\img_split_vinvl_10\7-split\16_05_09_109.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>640</width>
+		<height>427</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>ComplexCon</name>
+		<pose>Unspecified</pose>
+		<truncated>1</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>117</xmin>
+			<ymin>85</ymin>
+			<xmax>351</xmax>
+			<ymax>427</ymax>
+		</bndbox>
+	</object>
+</annotation>

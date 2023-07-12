@@ -1,0 +1,26 @@
+<annotation>
+	<folder>4-split</folder>
+	<filename>1763111.jpg</filename>
+	<path>C:\Users\lenovo\Documents\work\dataset\twitter2015_1114_4\img_split_4\4-split\1763111.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>600</width>
+		<height>338</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>Patrick Dempsey</name>
+		<pose>Unspecified</pose>
+		<truncated>1</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>169</xmin>
+			<ymin>1</ymin>
+			<xmax>549</xmax>
+			<ymax>338</ymax>
+		</bndbox>
+	</object>
+</annotation>

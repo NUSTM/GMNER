@@ -1,0 +1,38 @@
+<annotation>
+	<folder>1-split</folder>
+	<filename>7093.jpg</filename>
+	<path>D:\研究生\图片标记\twitter2015_1114_4\img_split_4\1-split\7093.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>500</width>
+		<height>500</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>Jackson Wang</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>19</xmin>
+			<ymin>47</ymin>
+			<xmax>424</xmax>
+			<ymax>236</ymax>
+		</bndbox>
+	</object>
+	<object>
+		<name>Jackson Wang</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>244</xmin>
+			<ymin>248</ymin>
+			<xmax>464</xmax>
+			<ymax>489</ymax>
+		</bndbox>
+	</object>
+</annotation>

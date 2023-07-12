@@ -1,0 +1,26 @@
+<annotation>
+	<folder>8-split</folder>
+	<filename>774201.jpg</filename>
+	<path>D:\研究生\图片标记\twitter2015\img_split_11\8-split\774201.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>600</width>
+		<height>856</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>Mike Fiers</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>184</xmin>
+			<ymin>80</ymin>
+			<xmax>534</xmax>
+			<ymax>783</ymax>
+		</bndbox>
+	</object>
+</annotation>

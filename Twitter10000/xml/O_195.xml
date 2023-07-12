@@ -1,0 +1,38 @@
+<annotation>
+	<folder>1-split</folder>
+	<filename>O_195.jpg</filename>
+	<path>C:\Users\lenovo\Documents\【001】准研\work\dataset\twitter2017_split14\img_split\1-split\O_195.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>680</width>
+		<height>450</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>Kim Kardashian</name>
+		<pose>Unspecified</pose>
+		<truncated>1</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>56</xmin>
+			<ymin>66</ymin>
+			<xmax>432</xmax>
+			<ymax>450</ymax>
+		</bndbox>
+	</object>
+	<object>
+		<name>Kanye West</name>
+		<pose>Unspecified</pose>
+		<truncated>1</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>347</xmin>
+			<ymin>7</ymin>
+			<xmax>634</xmax>
+			<ymax>450</ymax>
+		</bndbox>
+	</object>
+</annotation>

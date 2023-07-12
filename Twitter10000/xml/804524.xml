@@ -1,0 +1,26 @@
+<annotation>
+	<folder>8-split</folder>
+	<filename>804524.jpg</filename>
+	<path>D:\研究生\图片标记\twitter2015\img_split_11\8-split\804524.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>598</width>
+		<height>286</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>Claude</name>
+		<pose>Unspecified</pose>
+		<truncated>1</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>205</xmin>
+			<ymin>60</ymin>
+			<xmax>311</xmax>
+			<ymax>286</ymax>
+		</bndbox>
+	</object>
+</annotation>

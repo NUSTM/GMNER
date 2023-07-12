@@ -1,0 +1,26 @@
+<annotation>
+	<folder>dev</folder>
+	<filename>17_06_15602_region.jpg</filename>
+	<path>D:\PyCharm\BERT_NER\data\images\twitter2017_region\dev\17_06_15602_region.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>594</width>
+		<height>396</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>LeBron James</name>
+		<pose>Unspecified</pose>
+		<truncated>1</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>110</xmin>
+			<ymin>7</ymin>
+			<xmax>368</xmax>
+			<ymax>396</ymax>
+		</bndbox>
+	</object>
+</annotation>

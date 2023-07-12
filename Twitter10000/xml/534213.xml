@@ -1,0 +1,50 @@
+<annotation>
+	<folder>7-split</folder>
+	<filename>534213.jpg</filename>
+	<path>D:\研究生\图片标记\twitter2015\img_split_11\7-split\534213.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>600</width>
+		<height>424</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>James Harden</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>322</xmin>
+			<ymin>17</ymin>
+			<xmax>504</xmax>
+			<ymax>384</ymax>
+		</bndbox>
+	</object>
+	<object>
+		<name>Klay Thompson</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>31</xmin>
+			<ymin>46</ymin>
+			<xmax>311</xmax>
+			<ymax>388</ymax>
+		</bndbox>
+	</object>
+	<object>
+		<name>Drew League</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>479</xmin>
+			<ymin>330</ymin>
+			<xmax>568</xmax>
+			<ymax>420</ymax>
+		</bndbox>
+	</object>
+</annotation>

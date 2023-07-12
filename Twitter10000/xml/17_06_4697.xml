@@ -1,0 +1,26 @@
+<annotation>
+	<folder>5-split</folder>
+	<filename>17_06_4697.jpg</filename>
+	<path>C:\Users\lenovo\Documents\【001】准研\work\dataset\Twitter2017\split10\img_split_vinvl_10\5-split\17_06_4697.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>468</width>
+		<height>327</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>Cavaliers</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>122</xmin>
+			<ymin>125</ymin>
+			<xmax>149</xmax>
+			<ymax>147</ymax>
+		</bndbox>
+	</object>
+</annotation>

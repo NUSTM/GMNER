@@ -1,0 +1,26 @@
+<annotation>
+	<folder>7-split</folder>
+	<filename>557354.jpg</filename>
+	<path>D:\研究生\图片标记\twitter2015\img_split_11\7-split\557354.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>540</width>
+		<height>540</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>Tracey McKinney</name>
+		<pose>Unspecified</pose>
+		<truncated>1</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>228</xmin>
+			<ymin>44</ymin>
+			<xmax>501</xmax>
+			<ymax>540</ymax>
+		</bndbox>
+	</object>
+</annotation>

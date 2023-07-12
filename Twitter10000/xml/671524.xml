@@ -1,0 +1,26 @@
+<annotation>
+	<folder>8-split</folder>
+	<filename>671524.jpg</filename>
+	<path>D:\研究生\图片标记\twitter2015\img_split_11\8-split\671524.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>461</width>
+		<height>254</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>Deepika Padukone</name>
+		<pose>Unspecified</pose>
+		<truncated>1</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>82</xmin>
+			<ymin>1</ymin>
+			<xmax>352</xmax>
+			<ymax>254</ymax>
+		</bndbox>
+	</object>
+</annotation>

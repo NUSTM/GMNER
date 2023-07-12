@@ -1,0 +1,26 @@
+<annotation>
+	<folder>8-split</folder>
+	<filename>735482.jpg</filename>
+	<path>D:\研究生\图片标记\twitter2015\img_split_11\8-split\735482.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>576</width>
+		<height>1024</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>Doris Lessing</name>
+		<pose>Unspecified</pose>
+		<truncated>1</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>5</xmin>
+			<ymin>173</ymin>
+			<xmax>576</xmax>
+			<ymax>863</ymax>
+		</bndbox>
+	</object>
+</annotation>

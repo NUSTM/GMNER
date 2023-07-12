@@ -1,0 +1,26 @@
+<annotation>
+	<folder>3-split</folder>
+	<filename>425665.jpg</filename>
+	<path>C:\Users\lenovo\Documents\work\dataset\twitter2015_1114_4\img_split_4\3-split\425665.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>600</width>
+		<height>338</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>Mason Winfield</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>267</xmin>
+			<ymin>78</ymin>
+			<xmax>349</xmax>
+			<ymax>231</ymax>
+		</bndbox>
+	</object>
+</annotation>

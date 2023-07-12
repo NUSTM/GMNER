@@ -1,0 +1,26 @@
+<annotation>
+	<folder>6-split</folder>
+	<filename>16_05_01_284.jpg</filename>
+	<path>D:\研究生\图片标记\twitter2017_split10\img_split_vinvl_10\6-split\16_05_01_284.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>710</width>
+		<height>470</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>Udderbelly Festival Southbank</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>286</xmin>
+			<ymin>161</ymin>
+			<xmax>434</xmax>
+			<ymax>198</ymax>
+		</bndbox>
+	</object>
+</annotation>

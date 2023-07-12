@@ -1,0 +1,26 @@
+<annotation>
+	<folder>8-split</folder>
+	<filename>803910.jpg</filename>
+	<path>D:\研究生\图片标记\twitter2015\img_split_11\8-split\803910.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>338</width>
+		<height>329</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>Clippy</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>172</xmin>
+			<ymin>192</ymin>
+			<xmax>221</xmax>
+			<ymax>294</ymax>
+		</bndbox>
+	</object>
+</annotation>

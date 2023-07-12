@@ -1,0 +1,26 @@
+<annotation>
+	<folder>6-split</folder>
+	<filename>501321.jpg</filename>
+	<path>D:\研究生\图片标记\twitter2015\img_split_11\6-split\501321.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>600</width>
+		<height>448</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>Space Shuttle</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>239</xmin>
+			<ymin>167</ymin>
+			<xmax>327</xmax>
+			<ymax>200</ymax>
+		</bndbox>
+	</object>
+</annotation>

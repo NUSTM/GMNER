@@ -1,0 +1,26 @@
+<annotation>
+	<folder>3-split</folder>
+	<filename>564725.jpg</filename>
+	<path>C:\Users\lenovo\Documents\work\dataset\twitter2015_1114_4\img_split_4\3-split\564725.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>500</width>
+		<height>310</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>Lelisa Desisa</name>
+		<pose>Unspecified</pose>
+		<truncated>1</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>187</xmin>
+			<ymin>12</ymin>
+			<xmax>381</xmax>
+			<ymax>310</ymax>
+		</bndbox>
+	</object>
+</annotation>

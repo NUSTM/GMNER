@@ -1,0 +1,26 @@
+<annotation>
+	<folder>9-split</folder>
+	<filename>1083165.jpg</filename>
+	<path>D:\研究生\图片标记\twitter2015\img_split_11\9-split\1083165.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>600</width>
+		<height>600</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>Littlecote house</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>59</xmin>
+			<ymin>177</ymin>
+			<xmax>549</xmax>
+			<ymax>499</ymax>
+		</bndbox>
+	</object>
+</annotation>

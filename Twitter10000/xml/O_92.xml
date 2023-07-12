@@ -1,0 +1,26 @@
+<annotation>
+	<folder>1-split</folder>
+	<filename>O_92.jpg</filename>
+	<path>C:\Users\lenovo\Documents\【001】准研\work\dataset\twitter2017_split14\img_split\1-split\O_92.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>500</width>
+		<height>611</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>Sergio Ramos</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>14</xmin>
+			<ymin>2</ymin>
+			<xmax>484</xmax>
+			<ymax>597</ymax>
+		</bndbox>
+	</object>
+</annotation>

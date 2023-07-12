@@ -1,0 +1,26 @@
+<annotation>
+	<folder>7-split</folder>
+	<filename>16_05_09_946.jpg</filename>
+	<path>D:\研究生\图片标记\twitter2017_split10\img_split_vinvl_10\7-split\16_05_09_946.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>600</width>
+		<height>800</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>Liam</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>241</xmin>
+			<ymin>308</ymin>
+			<xmax>444</xmax>
+			<ymax>795</ymax>
+		</bndbox>
+	</object>
+</annotation>

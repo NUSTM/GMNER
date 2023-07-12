@@ -1,0 +1,26 @@
+<annotation>
+	<folder>10-split</folder>
+	<filename>1285655.jpg</filename>
+	<path>D:\研究生\图片标记\twitter2015\img_split_11\10-split\1285655.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>460</width>
+		<height>470</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>Seth</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>193</xmin>
+			<ymin>87</ymin>
+			<xmax>234</xmax>
+			<ymax>135</ymax>
+		</bndbox>
+	</object>
+</annotation>

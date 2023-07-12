@@ -1,0 +1,26 @@
+<annotation>
+	<folder>6-split</folder>
+	<filename>442052.jpg</filename>
+	<path>D:\研究生\图片标记\twitter2015\img_split_11\6-split\442052.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>600</width>
+		<height>450</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>Tigers</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>487</xmin>
+			<ymin>172</ymin>
+			<xmax>554</xmax>
+			<ymax>244</ymax>
+		</bndbox>
+	</object>
+</annotation>

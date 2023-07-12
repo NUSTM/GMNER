@@ -1,0 +1,38 @@
+<annotation>
+	<folder>2-split</folder>
+	<filename>363969.jpg</filename>
+	<path>D:\研究生\图片标记\twitter2015_1114_4\img_split_4\2-split\363969.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>599</width>
+		<height>448</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>Austin Brock</name>
+		<pose>Unspecified</pose>
+		<truncated>1</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>258</xmin>
+			<ymin>68</ymin>
+			<xmax>407</xmax>
+			<ymax>448</ymax>
+		</bndbox>
+	</object>
+	<object>
+		<name>Mr Tuff</name>
+		<pose>Unspecified</pose>
+		<truncated>1</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>159</xmin>
+			<ymin>31</ymin>
+			<xmax>287</xmax>
+			<ymax>448</ymax>
+		</bndbox>
+	</object>
+</annotation>

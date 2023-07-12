@@ -1,0 +1,38 @@
+<annotation>
+	<folder>7-split</folder>
+	<filename>541630.jpg</filename>
+	<path>D:\研究生\图片标记\twitter2015\img_split_11\7-split\541630.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>581</width>
+		<height>605</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>Dominique Ward</name>
+		<pose>Unspecified</pose>
+		<truncated>1</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>4</xmin>
+			<ymin>207</ymin>
+			<xmax>394</xmax>
+			<ymax>605</ymax>
+		</bndbox>
+	</object>
+	<object>
+		<name>BHHSRealEstate</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>129</xmin>
+			<ymin>51</ymin>
+			<xmax>208</xmax>
+			<ymax>131</ymax>
+		</bndbox>
+	</object>
+</annotation>

@@ -1,0 +1,26 @@
+<annotation>
+	<folder>4-split</folder>
+	<filename>1073787.jpg</filename>
+	<path>C:\Users\lenovo\Documents\work\dataset\twitter2015_1114_4\img_split_4\4-split\1073787.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>600</width>
+		<height>338</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>GRONK</name>
+		<pose>Unspecified</pose>
+		<truncated>1</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>128</xmin>
+			<ymin>50</ymin>
+			<xmax>468</xmax>
+			<ymax>338</ymax>
+		</bndbox>
+	</object>
+</annotation>

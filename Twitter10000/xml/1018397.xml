@@ -1,0 +1,26 @@
+<annotation>
+	<folder>4-split</folder>
+	<filename>1018397.jpg</filename>
+	<path>C:\Users\lenovo\Documents\work\dataset\twitter2015_1114_4\img_split_4\4-split\1018397.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>403</width>
+		<height>403</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>Whitney Houston</name>
+		<pose>Unspecified</pose>
+		<truncated>1</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>93</xmin>
+			<ymin>1</ymin>
+			<xmax>381</xmax>
+			<ymax>403</ymax>
+		</bndbox>
+	</object>
+</annotation>

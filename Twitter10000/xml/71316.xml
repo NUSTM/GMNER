@@ -1,0 +1,38 @@
+<annotation>
+	<folder>1-split</folder>
+	<filename>71316.jpg</filename>
+	<path>D:\研究生\图片标记\twitter2015_1114_4\img_split_4\1-split\71316.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>600</width>
+		<height>339</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>Andrew Shaw</name>
+		<pose>Unspecified</pose>
+		<truncated>1</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>309</xmin>
+			<ymin>53</ymin>
+			<xmax>435</xmax>
+			<ymax>339</ymax>
+		</bndbox>
+	</object>
+	<object>
+		<name>Bryan Bickell</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>168</xmin>
+			<ymin>58</ymin>
+			<xmax>238</xmax>
+			<ymax>251</ymax>
+		</bndbox>
+	</object>
+</annotation>

@@ -1,0 +1,26 @@
+<annotation>
+	<folder>dev</folder>
+	<filename>O_1708_region.jpg</filename>
+	<path>D:\PyCharm\BERT_NER\data\images\twitter2017_region\dev\O_1708_region.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>577</width>
+		<height>1024</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>Michelle Williams</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>147</xmin>
+			<ymin>74</ymin>
+			<xmax>408</xmax>
+			<ymax>906</ymax>
+		</bndbox>
+	</object>
+</annotation>

@@ -1,0 +1,38 @@
+<annotation>
+	<folder>6-split</folder>
+	<filename>325967.jpg</filename>
+	<path>D:\研究生\图片标记\twitter2015\img_split_11\6-split\325967.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>600</width>
+		<height>290</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>NFL</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>285</xmin>
+			<ymin>161</ymin>
+			<xmax>302</xmax>
+			<ymax>180</ymax>
+		</bndbox>
+	</object>
+	<object>
+		<name>Eric Berry</name>
+		<pose>Unspecified</pose>
+		<truncated>1</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>181</xmin>
+			<ymin>6</ymin>
+			<xmax>454</xmax>
+			<ymax>290</ymax>
+		</bndbox>
+	</object>
+</annotation>

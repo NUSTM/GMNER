@@ -1,0 +1,26 @@
+<annotation>
+	<folder>1-split</folder>
+	<filename>O_316.jpg</filename>
+	<path>/home/lzy/Documents/dataset/twitter2017/twitter2017_split10/img_split_vinvl_10/1-split/O_316.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>600</width>
+		<height>800</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>Donald Trump</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>217</xmin>
+			<ymin>233</ymin>
+			<xmax>441</xmax>
+			<ymax>567</ymax>
+		</bndbox>
+	</object>
+</annotation>

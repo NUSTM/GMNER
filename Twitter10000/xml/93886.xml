@@ -1,0 +1,26 @@
+<annotation>
+	<folder>4-split</folder>
+	<filename>93886.jpg</filename>
+	<path>C:\Users\lenovo\Documents\【001】准研\work\dataset\Twitter2015\img_split_11\4-split\93886.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>310</width>
+		<height>436</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>Lou Gehrig</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>25</xmin>
+			<ymin>39</ymin>
+			<xmax>288</xmax>
+			<ymax>297</ymax>
+		</bndbox>
+	</object>
+</annotation>

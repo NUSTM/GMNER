@@ -1,0 +1,26 @@
+<annotation>
+	<folder>7-split</folder>
+	<filename>16_05_07_616.jpg</filename>
+	<path>D:\研究生\图片标记\twitter2017_split10\img_split_vinvl_10\7-split\16_05_07_616.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>634</width>
+		<height>951</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>Heidi Klum</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>278</xmin>
+			<ymin>89</ymin>
+			<xmax>611</xmax>
+			<ymax>881</ymax>
+		</bndbox>
+	</object>
+</annotation>

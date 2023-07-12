@@ -1,0 +1,26 @@
+<annotation>
+	<folder>1-split</folder>
+	<filename>O_72.jpg</filename>
+	<path>C:\Users\lenovo\Documents\【001】准研\work\dataset\twitter2017_split14\img_split\1-split\O_72.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>600</width>
+		<height>898</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>Taylor Swift</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>193</xmin>
+			<ymin>39</ymin>
+			<xmax>430</xmax>
+			<ymax>871</ymax>
+		</bndbox>
+	</object>
+</annotation>

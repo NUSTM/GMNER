@@ -1,0 +1,26 @@
+<annotation>
+	<folder>4-split</folder>
+	<filename>17_06_354.jpg</filename>
+	<path>C:\Users\lenovo\Documents\【001】准研\work\dataset\Twitter2017\split10\img_split_vinvl_10\4-split\17_06_354.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>675</width>
+		<height>1200</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>Xian</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>5</xmin>
+			<ymin>276</ymin>
+			<xmax>380</xmax>
+			<ymax>1024</ymax>
+		</bndbox>
+	</object>
+</annotation>

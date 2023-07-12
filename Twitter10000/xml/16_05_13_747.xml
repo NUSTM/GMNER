@@ -1,0 +1,26 @@
+<annotation>
+	<folder>dev</folder>
+	<filename>16_05_13_747_region.jpg</filename>
+	<path>D:\PyCharm\BERT_NER\data\images\twitter2017_region\dev\16_05_13_747_region.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>480</width>
+		<height>240</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>Sutter</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>201</xmin>
+			<ymin>59</ymin>
+			<xmax>321</xmax>
+			<ymax>183</ymax>
+		</bndbox>
+	</object>
+</annotation>

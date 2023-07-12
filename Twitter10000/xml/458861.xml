@@ -1,0 +1,26 @@
+<annotation>
+	<folder>6-split</folder>
+	<filename>458861.jpg</filename>
+	<path>D:\研究生\图片标记\twitter2015\img_split_11\6-split\458861.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>600</width>
+		<height>600</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>Ed Westwick</name>
+		<pose>Unspecified</pose>
+		<truncated>1</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>2</xmin>
+			<ymin>101</ymin>
+			<xmax>530</xmax>
+			<ymax>600</ymax>
+		</bndbox>
+	</object>
+</annotation>

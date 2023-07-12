@@ -1,0 +1,26 @@
+<annotation>
+	<folder>9-split</folder>
+	<filename>17_06_10816.jpg</filename>
+	<path>D:\研究生\图片标记\twitter2017_split10\img_split_vinvl_10\9-split\17_06_10816.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>650</width>
+		<height>186</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>Essence Festival</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>2</xmin>
+			<ymin>109</ymin>
+			<xmax>112</xmax>
+			<ymax>169</ymax>
+		</bndbox>
+	</object>
+</annotation>

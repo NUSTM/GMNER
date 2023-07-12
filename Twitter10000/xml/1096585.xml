@@ -1,0 +1,26 @@
+<annotation>
+	<folder>9-split</folder>
+	<filename>1096585.jpg</filename>
+	<path>D:\研究生\图片标记\twitter2015\img_split_11\9-split\1096585.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>600</width>
+		<height>450</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>Giles statue</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>166</xmin>
+			<ymin>40</ymin>
+			<xmax>315</xmax>
+			<ymax>231</ymax>
+		</bndbox>
+	</object>
+</annotation>

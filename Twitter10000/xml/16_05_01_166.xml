@@ -1,0 +1,26 @@
+<annotation>
+	<folder>dev</folder>
+	<filename>16_05_01_166_region.jpg</filename>
+	<path>D:\PyCharm\BERT_NER\data\images\twitter2017_region\dev\16_05_01_166_region.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>323</width>
+		<height>569</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>GranblueFantasy</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>4</xmin>
+			<ymin>3</ymin>
+			<xmax>313</xmax>
+			<ymax>488</ymax>
+		</bndbox>
+	</object>
+</annotation>

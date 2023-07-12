@@ -1,0 +1,26 @@
+<annotation>
+	<folder>dev</folder>
+	<filename>O_1669_region.jpg</filename>
+	<path>D:\PyCharm\BERT_NER\data\images\twitter2017_region\dev\O_1669_region.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>657</width>
+		<height>370</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>Lil Wayne</name>
+		<pose>Unspecified</pose>
+		<truncated>1</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>119</xmin>
+			<ymin>1</ymin>
+			<xmax>551</xmax>
+			<ymax>370</ymax>
+		</bndbox>
+	</object>
+</annotation>

@@ -1,0 +1,38 @@
+<annotation>
+	<folder>11-split</folder>
+	<filename>1908210.jpg</filename>
+	<path>D:\研究生\图片标记\twitter2015\img_split_11\11-split\1908210.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>600</width>
+		<height>675</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>Elder Arthur R . Johnson</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>322</xmin>
+			<ymin>181</ymin>
+			<xmax>518</xmax>
+			<ymax>385</ymax>
+		</bndbox>
+	</object>
+	<object>
+		<name>ONLY BELIEVE</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>3</xmin>
+			<ymin>2</ymin>
+			<xmax>596</xmax>
+			<ymax>463</ymax>
+		</bndbox>
+	</object>
+</annotation>

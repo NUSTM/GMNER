@@ -1,0 +1,26 @@
+<annotation>
+	<folder>8-split</folder>
+	<filename>822293.jpg</filename>
+	<path>D:\研究生\图片标记\twitter2015\img_split_11\8-split\822293.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>581</width>
+		<height>767</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>Goldman Sachs</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>186</xmin>
+			<ymin>46</ymin>
+			<xmax>395</xmax>
+			<ymax>705</ymax>
+		</bndbox>
+	</object>
+</annotation>

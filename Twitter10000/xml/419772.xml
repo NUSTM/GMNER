@@ -1,0 +1,26 @@
+<annotation>
+	<folder>6-split</folder>
+	<filename>419772.jpg</filename>
+	<path>D:\研究生\图片标记\twitter2015\img_split_11\6-split\419772.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>600</width>
+		<height>400</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>Facebook</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>154</xmin>
+			<ymin>114</ymin>
+			<xmax>446</xmax>
+			<ymax>210</ymax>
+		</bndbox>
+	</object>
+</annotation>

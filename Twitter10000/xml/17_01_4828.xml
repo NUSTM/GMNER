@@ -1,0 +1,26 @@
+<annotation>
+	<folder>dev</folder>
+	<filename>17_01_4828_region.jpg</filename>
+	<path>D:\PyCharm\BERT_NER\data\images\twitter2017_region\dev\17_01_4828_region.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>1024</width>
+		<height>768</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>jfradioshow</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>475</xmin>
+			<ymin>233</ymin>
+			<xmax>783</xmax>
+			<ymax>556</ymax>
+		</bndbox>
+	</object>
+</annotation>

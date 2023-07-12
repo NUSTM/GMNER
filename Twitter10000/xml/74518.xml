@@ -1,0 +1,26 @@
+<annotation>
+	<folder>2-split</folder>
+	<filename>74518.jpg</filename>
+	<path>D:\研究生\图片标记\twitter2015_1114_4\img_split_4\2-split\74518.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>598</width>
+		<height>399</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>Tryon</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>11</xmin>
+			<ymin>71</ymin>
+			<xmax>402</xmax>
+			<ymax>392</ymax>
+		</bndbox>
+	</object>
+</annotation>

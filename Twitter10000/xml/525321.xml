@@ -1,0 +1,38 @@
+<annotation>
+	<folder>7-split</folder>
+	<filename>525321.jpg</filename>
+	<path>D:\研究生\图片标记\twitter2015\img_split_11\7-split\525321.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>600</width>
+		<height>838</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>Clint Eastwood</name>
+		<pose>Unspecified</pose>
+		<truncated>1</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>2</xmin>
+			<ymin>178</ymin>
+			<xmax>440</xmax>
+			<ymax>838</ymax>
+		</bndbox>
+	</object>
+	<object>
+		<name>Duane Michals</name>
+		<pose>Unspecified</pose>
+		<truncated>1</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>288</xmin>
+			<ymin>171</ymin>
+			<xmax>600</xmax>
+			<ymax>838</ymax>
+		</bndbox>
+	</object>
+</annotation>

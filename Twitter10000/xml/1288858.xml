@@ -1,0 +1,26 @@
+<annotation verified="yes">
+	<folder>4-split</folder>
+	<filename>1288858.jpg</filename>
+	<path>C:\Users\lenovo\Documents\work\dataset\twitter2015_1114_4\img_split_4\4-split\1288858.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>598</width>
+		<height>482</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>Katharine</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>94</xmin>
+			<ymin>105</ymin>
+			<xmax>292</xmax>
+			<ymax>299</ymax>
+		</bndbox>
+	</object>
+</annotation>

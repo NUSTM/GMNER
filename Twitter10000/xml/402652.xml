@@ -1,0 +1,38 @@
+<annotation>
+	<folder>6-split</folder>
+	<filename>402652.jpg</filename>
+	<path>D:\研究生\图片标记\twitter2015\img_split_11\6-split\402652.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>600</width>
+		<height>415</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>Kris Jenner</name>
+		<pose>Unspecified</pose>
+		<truncated>1</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>303</xmin>
+			<ymin>14</ymin>
+			<xmax>600</xmax>
+			<ymax>415</ymax>
+		</bndbox>
+	</object>
+	<object>
+		<name>Kendall Jenner</name>
+		<pose>Unspecified</pose>
+		<truncated>1</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>44</xmin>
+			<ymin>1</ymin>
+			<xmax>320</xmax>
+			<ymax>415</ymax>
+		</bndbox>
+	</object>
+</annotation>

@@ -1,0 +1,38 @@
+<annotation>
+	<folder>7-split</folder>
+	<filename>535302.jpg</filename>
+	<path>D:\研究生\图片标记\twitter2015\img_split_11\7-split\535302.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>480</width>
+		<height>270</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>Carmelo Anthony</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>177</xmin>
+			<ymin>41</ymin>
+			<xmax>391</xmax>
+			<ymax>251</ymax>
+		</bndbox>
+	</object>
+	<object>
+		<name>Justise Winslo</name>
+		<pose>Unspecified</pose>
+		<truncated>1</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>104</xmin>
+			<ymin>48</ymin>
+			<xmax>235</xmax>
+			<ymax>270</ymax>
+		</bndbox>
+	</object>
+</annotation>

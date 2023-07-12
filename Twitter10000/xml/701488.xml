@@ -1,0 +1,26 @@
+<annotation>
+	<folder>8-split</folder>
+	<filename>701488.jpg</filename>
+	<path>D:\研究生\图片标记\twitter2015\img_split_11\8-split\701488.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>600</width>
+		<height>430</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>Tyler Carron</name>
+		<pose>Unspecified</pose>
+		<truncated>1</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>76</xmin>
+			<ymin>114</ymin>
+			<xmax>292</xmax>
+			<ymax>430</ymax>
+		</bndbox>
+	</object>
+</annotation>

@@ -1,0 +1,26 @@
+<annotation>
+	<folder>dev</folder>
+	<filename>16_05_10_290_region.jpg</filename>
+	<path>D:\PyCharm\BERT_NER\data\images\twitter2017_region\dev\16_05_10_290_region.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>800</width>
+		<height>480</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>Pearl Jam</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>322</xmin>
+			<ymin>128</ymin>
+			<xmax>530</xmax>
+			<ymax>396</ymax>
+		</bndbox>
+	</object>
+</annotation>

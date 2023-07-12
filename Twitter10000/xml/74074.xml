@@ -1,0 +1,26 @@
+<annotation>
+	<folder>4-split</folder>
+	<filename>74074.jpg</filename>
+	<path>C:\Users\lenovo\Documents\【001】准研\work\dataset\Twitter2015\img_split_11\4-split\74074.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>600</width>
+		<height>600</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>Carolina</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>131</xmin>
+			<ymin>118</ymin>
+			<xmax>480</xmax>
+			<ymax>279</ymax>
+		</bndbox>
+	</object>
+</annotation>

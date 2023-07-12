@@ -1,0 +1,26 @@
+<annotation>
+	<folder>5-split</folder>
+	<filename>119519.jpg</filename>
+	<path>C:\Users\lenovo\Documents\【001】准研\work\dataset\Twitter2015\img_split_11\5-split\119519.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>499</width>
+		<height>280</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>Dave Franco</name>
+		<pose>Unspecified</pose>
+		<truncated>1</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>136</xmin>
+			<ymin>10</ymin>
+			<xmax>456</xmax>
+			<ymax>280</ymax>
+		</bndbox>
+	</object>
+</annotation>

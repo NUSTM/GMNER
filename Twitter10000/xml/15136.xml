@@ -1,0 +1,26 @@
+<annotation>
+	<folder>1-split</folder>
+	<filename>15136.jpg</filename>
+	<path>C:\Users\lenovo\Documents\【001】准研\work\dataset\Twitter2015\img_split_11\1-split\15136.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>600</width>
+		<height>450</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>3D bookbag</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>161</xmin>
+			<ymin>108</ymin>
+			<xmax>463</xmax>
+			<ymax>341</ymax>
+		</bndbox>
+	</object>
+</annotation>

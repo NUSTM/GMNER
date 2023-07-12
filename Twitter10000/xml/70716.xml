@@ -1,0 +1,26 @@
+<annotation>
+	<folder>3-split</folder>
+	<filename>70716.jpg</filename>
+	<path>C:\Users\lenovo\Documents\【001】准研\work\dataset\Twitter2015\img_split_11\3-split\70716.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>600</width>
+		<height>369</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>Chris Sale</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>353</xmin>
+			<ymin>136</ymin>
+			<xmax>427</xmax>
+			<ymax>332</ymax>
+		</bndbox>
+	</object>
+</annotation>

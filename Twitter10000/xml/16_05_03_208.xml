@@ -1,0 +1,38 @@
+<annotation>
+	<folder>7-split</folder>
+	<filename>16_05_03_208.jpg</filename>
+	<path>D:\研究生\图片标记\twitter2017_split10\img_split_vinvl_10\7-split\16_05_03_208.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>960</width>
+		<height>1200</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>Adam Pilachowski</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>226</xmin>
+			<ymin>198</ymin>
+			<xmax>841</xmax>
+			<ymax>1029</ymax>
+		</bndbox>
+	</object>
+	<object>
+		<name>South Hadley</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>435</xmin>
+			<ymin>223</ymin>
+			<xmax>478</xmax>
+			<ymax>261</ymax>
+		</bndbox>
+	</object>
+</annotation>

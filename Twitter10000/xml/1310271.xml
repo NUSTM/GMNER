@@ -1,0 +1,26 @@
+<annotation>
+	<folder>10-split</folder>
+	<filename>1310271.jpg</filename>
+	<path>D:\研究生\图片标记\twitter2015\img_split_11\10-split\1310271.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>599</width>
+		<height>300</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>Kevin Durant</name>
+		<pose>Unspecified</pose>
+		<truncated>1</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>340</xmin>
+			<ymin>16</ymin>
+			<xmax>599</xmax>
+			<ymax>300</ymax>
+		</bndbox>
+	</object>
+</annotation>

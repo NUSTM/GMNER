@@ -1,0 +1,26 @@
+<annotation>
+	<folder>1-split</folder>
+	<filename>12739.jpg</filename>
+	<path>C:\Users\lenovo\Documents\【001】准研\work\dataset\Twitter2015\img_split_11\1-split\12739.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>600</width>
+		<height>914</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>Allen Iverson</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>106</xmin>
+			<ymin>226</ymin>
+			<xmax>377</xmax>
+			<ymax>844</ymax>
+		</bndbox>
+	</object>
+</annotation>

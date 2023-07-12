@@ -1,0 +1,26 @@
+<annotation>
+	<folder>2-split</folder>
+	<filename>251525.jpg</filename>
+	<path>D:\研究生\图片标记\twitter2015_1114_4\img_split_4\2-split\251525.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>600</width>
+		<height>600</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>Niall</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>362</xmin>
+			<ymin>14</ymin>
+			<xmax>597</xmax>
+			<ymax>598</ymax>
+		</bndbox>
+	</object>
+</annotation>

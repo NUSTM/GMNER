@@ -1,0 +1,26 @@
+<annotation>
+	<folder>1-split</folder>
+	<filename>O_292.jpg</filename>
+	<path>/home/lzy/Documents/dataset/twitter2017/twitter2017_split10/img_split_vinvl_10/1-split/O_292.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>850</width>
+		<height>566</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>Justin Trudeau</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>242</xmin>
+			<ymin>12</ymin>
+			<xmax>577</xmax>
+			<ymax>564</ymax>
+		</bndbox>
+	</object>
+</annotation>

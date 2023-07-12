@@ -1,0 +1,26 @@
+<annotation>
+	<folder>9-split</folder>
+	<filename>17_06_14576.jpg</filename>
+	<path>D:\研究生\图片标记\twitter2017_split10\img_split_vinvl_10\9-split\17_06_14576.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>1024</width>
+		<height>800</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>John Michael Talbot</name>
+		<pose>Unspecified</pose>
+		<truncated>1</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>456</xmin>
+			<ymin>700</ymin>
+			<xmax>558</xmax>
+			<ymax>800</ymax>
+		</bndbox>
+	</object>
+</annotation>

@@ -1,0 +1,26 @@
+<annotation>
+	<folder>7-split</folder>
+	<filename>526280.jpg</filename>
+	<path>D:\研究生\图片标记\twitter2015\img_split_11\7-split\526280.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>599</width>
+		<height>346</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>Bob Lazar</name>
+		<pose>Unspecified</pose>
+		<truncated>1</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>160</xmin>
+			<ymin>1</ymin>
+			<xmax>596</xmax>
+			<ymax>346</ymax>
+		</bndbox>
+	</object>
+</annotation>

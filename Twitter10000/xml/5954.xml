@@ -1,0 +1,26 @@
+<annotation>
+	<folder>1-split</folder>
+	<filename>5954.jpg</filename>
+	<path>D:\研究生\图片标记\twitter2015_1114_4\img_split_4\1-split\5954.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>600</width>
+		<height>776</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>NYMag</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>9</xmin>
+			<ymin>13</ymin>
+			<xmax>584</xmax>
+			<ymax>757</ymax>
+		</bndbox>
+	</object>
+</annotation>

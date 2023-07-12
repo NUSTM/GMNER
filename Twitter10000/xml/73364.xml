@@ -1,0 +1,26 @@
+<annotation>
+	<folder>3-split</folder>
+	<filename>73364.jpg</filename>
+	<path>C:\Users\lenovo\Documents\【001】准研\work\dataset\Twitter2015\img_split_11\3-split\73364.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>494</width>
+		<height>278</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>CT6</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>119</xmin>
+			<ymin>99</ymin>
+			<xmax>425</xmax>
+			<ymax>213</ymax>
+		</bndbox>
+	</object>
+</annotation>

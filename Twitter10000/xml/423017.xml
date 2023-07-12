@@ -1,0 +1,38 @@
+<annotation>
+	<folder>6-split</folder>
+	<filename>423017.jpg</filename>
+	<path>D:\研究生\图片标记\twitter2015\img_split_11\6-split\423017.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>600</width>
+		<height>400</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>Anthony Duclair</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>55</xmin>
+			<ymin>49</ymin>
+			<xmax>284</xmax>
+			<ymax>367</ymax>
+		</bndbox>
+	</object>
+	<object>
+		<name>Coyotes</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>407</xmin>
+			<ymin>101</ymin>
+			<xmax>446</xmax>
+			<ymax>131</ymax>
+		</bndbox>
+	</object>
+</annotation>

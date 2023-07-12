@@ -1,0 +1,26 @@
+<annotation>
+	<folder>9-split</folder>
+	<filename>1022229.jpg</filename>
+	<path>D:\研究生\图片标记\twitter2015\img_split_11\9-split\1022229.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>396</width>
+		<height>594</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>Lana Del Rey</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>72</xmin>
+			<ymin>75</ymin>
+			<xmax>354</xmax>
+			<ymax>593</ymax>
+		</bndbox>
+	</object>
+</annotation>

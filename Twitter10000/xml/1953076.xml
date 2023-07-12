@@ -1,0 +1,26 @@
+<annotation>
+	<folder>11-split</folder>
+	<filename>1953076.jpg</filename>
+	<path>D:\研究生\图片标记\twitter2015\img_split_11\11-split\1953076.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>519</width>
+		<height>358</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>Nani</name>
+		<pose>Unspecified</pose>
+		<truncated>1</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>1</xmin>
+			<ymin>29</ymin>
+			<xmax>517</xmax>
+			<ymax>358</ymax>
+		</bndbox>
+	</object>
+</annotation>

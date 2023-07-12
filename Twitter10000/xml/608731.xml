@@ -1,0 +1,26 @@
+<annotation>
+	<folder>3-split</folder>
+	<filename>608731.jpg</filename>
+	<path>C:\Users\lenovo\Documents\work\dataset\twitter2015_1114_4\img_split_4\3-split\608731.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>576</width>
+		<height>1024</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>Coach Jay Harbaugh</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>13</xmin>
+			<ymin>20</ymin>
+			<xmax>575</xmax>
+			<ymax>940</ymax>
+		</bndbox>
+	</object>
+</annotation>

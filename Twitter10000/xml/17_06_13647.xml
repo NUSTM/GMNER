@@ -1,0 +1,26 @@
+<annotation>
+	<folder>9-split</folder>
+	<filename>17_06_13647.jpg</filename>
+	<path>D:\研究生\图片标记\twitter2017_split10\img_split_vinvl_10\9-split\17_06_13647.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>900</width>
+		<height>1200</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>GaryBarlow</name>
+		<pose>Unspecified</pose>
+		<truncated>1</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>323</xmin>
+			<ymin>612</ymin>
+			<xmax>593</xmax>
+			<ymax>1200</ymax>
+		</bndbox>
+	</object>
+</annotation>

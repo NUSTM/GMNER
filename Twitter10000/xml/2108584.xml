@@ -1,0 +1,26 @@
+<annotation>
+	<folder>4-split</folder>
+	<filename>2108584.jpg</filename>
+	<path>C:\Users\lenovo\Documents\work\dataset\twitter2015_1114_4\img_split_4\4-split\2108584.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>600</width>
+		<height>600</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>Taim Hassan</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>209</xmin>
+			<ymin>255</ymin>
+			<xmax>455</xmax>
+			<ymax>534</ymax>
+		</bndbox>
+	</object>
+</annotation>

@@ -1,0 +1,26 @@
+<annotation>
+	<folder>dev</folder>
+	<filename>O_4697_region.jpg</filename>
+	<path>D:\PyCharm\BERT_NER\data\images\twitter2017_region\dev\O_4697_region.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>1137</width>
+		<height>640</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>J . K . Rowling</name>
+		<pose>Unspecified</pose>
+		<truncated>1</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>349</xmin>
+			<ymin>1</ymin>
+			<xmax>1044</xmax>
+			<ymax>640</ymax>
+		</bndbox>
+	</object>
+</annotation>

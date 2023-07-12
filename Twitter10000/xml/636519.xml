@@ -1,0 +1,26 @@
+<annotation>
+	<folder>2-split</folder>
+	<filename>636519.jpg</filename>
+	<path>D:\Desktop\Document\Postgraduate\NUSTM\数据标注\twitter2015_1114_3\img_split_3\2-split\636519.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>600</width>
+		<height>338</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>CBSNLive</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>464</xmin>
+			<ymin>282</ymin>
+			<xmax>580</xmax>
+			<ymax>323</ymax>
+		</bndbox>
+	</object>
+</annotation>

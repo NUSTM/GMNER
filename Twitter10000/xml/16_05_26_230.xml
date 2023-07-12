@@ -1,0 +1,26 @@
+<annotation>
+	<folder>8-split</folder>
+	<filename>16_05_26_230.jpg</filename>
+	<path>D:\研究生\图片标记\twitter2017_split10\img_split_vinvl_10\8-split\16_05_26_230.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>550</width>
+		<height>400</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>Fremont Street</name>
+		<pose>Unspecified</pose>
+		<truncated>1</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>1</xmin>
+			<ymin>30</ymin>
+			<xmax>550</xmax>
+			<ymax>336</ymax>
+		</bndbox>
+	</object>
+</annotation>

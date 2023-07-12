@@ -1,0 +1,38 @@
+<annotation>
+	<folder>7-split</folder>
+	<filename>573511.jpg</filename>
+	<path>D:\研究生\图片标记\twitter2015\img_split_11\7-split\573511.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>600</width>
+		<height>800</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>Richard Sherman</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>15</xmin>
+			<ymin>95</ymin>
+			<xmax>389</xmax>
+			<ymax>372</ymax>
+		</bndbox>
+	</object>
+	<object>
+		<name>Joe Haden</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>294</xmin>
+			<ymin>367</ymin>
+			<xmax>518</xmax>
+			<ymax>756</ymax>
+		</bndbox>
+	</object>
+</annotation>

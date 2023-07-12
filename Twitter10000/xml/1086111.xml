@@ -1,0 +1,26 @@
+<annotation>
+	<folder>9-split</folder>
+	<filename>1086111.jpg</filename>
+	<path>D:\研究生\图片标记\twitter2015\img_split_11\9-split\1086111.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>599</width>
+		<height>804</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>Frank N Furter</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>68</xmin>
+			<ymin>79</ymin>
+			<xmax>539</xmax>
+			<ymax>726</ymax>
+		</bndbox>
+	</object>
+</annotation>

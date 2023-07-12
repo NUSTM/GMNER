@@ -1,0 +1,26 @@
+<annotation>
+	<folder>8-split</folder>
+	<filename>810835.jpg</filename>
+	<path>D:\研究生\图片标记\twitter2015\img_split_11\8-split\810835.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>600</width>
+		<height>450</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>Gillian Boag</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>211</xmin>
+			<ymin>110</ymin>
+			<xmax>317</xmax>
+			<ymax>353</ymax>
+		</bndbox>
+	</object>
+</annotation>

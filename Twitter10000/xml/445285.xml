@@ -1,0 +1,26 @@
+<annotation>
+	<folder>6-split</folder>
+	<filename>445285.jpg</filename>
+	<path>D:\研究生\图片标记\twitter2015\img_split_11\6-split\445285.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>600</width>
+		<height>449</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>Bluefin</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>4</xmin>
+			<ymin>251</ymin>
+			<xmax>351</xmax>
+			<ymax>366</ymax>
+		</bndbox>
+	</object>
+</annotation>

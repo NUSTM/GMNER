@@ -1,0 +1,26 @@
+<annotation>
+	<folder>10-split</folder>
+	<filename>1291771.jpg</filename>
+	<path>D:\研究生\图片标记\twitter2015\img_split_11\10-split\1291771.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>600</width>
+		<height>800</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>Spike</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>43</xmin>
+			<ymin>50</ymin>
+			<xmax>585</xmax>
+			<ymax>583</ymax>
+		</bndbox>
+	</object>
+</annotation>

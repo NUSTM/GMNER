@@ -1,0 +1,38 @@
+<annotation>
+	<folder>9-split</folder>
+	<filename>1007628.jpg</filename>
+	<path>D:\研究生\图片标记\twitter2015\img_split_11\9-split\1007628.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>480</width>
+		<height>480</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>Elizabeth Warren</name>
+		<pose>Unspecified</pose>
+		<truncated>1</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>1</xmin>
+			<ymin>21</ymin>
+			<xmax>440</xmax>
+			<ymax>480</ymax>
+		</bndbox>
+	</object>
+	<object>
+		<name>warren</name>
+		<pose>Unspecified</pose>
+		<truncated>1</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>1</xmin>
+			<ymin>20</ymin>
+			<xmax>440</xmax>
+			<ymax>480</ymax>
+		</bndbox>
+	</object>
+</annotation>

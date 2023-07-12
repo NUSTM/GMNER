@@ -1,0 +1,26 @@
+<annotation>
+	<folder>dev</folder>
+	<filename>17_06_12912_region.jpg</filename>
+	<path>D:\PyCharm\BERT_NER\data\images\twitter2017_region\dev\17_06_12912_region.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>480</width>
+		<height>470</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>bogum</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>155</xmin>
+			<ymin>2</ymin>
+			<xmax>428</xmax>
+			<ymax>256</ymax>
+		</bndbox>
+	</object>
+</annotation>

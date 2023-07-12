@@ -1,0 +1,26 @@
+<annotation>
+	<folder>dev</folder>
+	<filename>O_1064_region.jpg</filename>
+	<path>D:\PyCharm\BERT_NER\data\images\twitter2017_region\dev\O_1064_region.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>850</width>
+		<height>400</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>Adam Smith</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>101</xmin>
+			<ymin>92</ymin>
+			<xmax>314</xmax>
+			<ymax>310</ymax>
+		</bndbox>
+	</object>
+</annotation>

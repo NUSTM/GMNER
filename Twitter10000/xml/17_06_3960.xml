@@ -1,0 +1,26 @@
+<annotation>
+	<folder>5-split</folder>
+	<filename>17_06_3960.jpg</filename>
+	<path>C:\Users\lenovo\Documents\【001】准研\work\dataset\Twitter2017\split10\img_split_vinvl_10\5-split\17_06_3960.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>660</width>
+		<height>371</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>Royals</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>383</xmin>
+			<ymin>127</ymin>
+			<xmax>505</xmax>
+			<ymax>199</ymax>
+		</bndbox>
+	</object>
+</annotation>

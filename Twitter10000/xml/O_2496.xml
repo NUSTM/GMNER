@@ -1,0 +1,26 @@
+<annotation>
+	<folder>2-split</folder>
+	<filename>O_2496.jpg</filename>
+	<path>C:\Users\lenovo\Documents\【001】准研\work\dataset\Twitter2017\split10\img_split_vinvl_10\2-split\O_2496.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>599</width>
+		<height>583</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>BARACK OBAMA</name>
+		<pose>Unspecified</pose>
+		<truncated>1</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>380</xmin>
+			<ymin>301</ymin>
+			<xmax>599</xmax>
+			<ymax>583</ymax>
+		</bndbox>
+	</object>
+</annotation>

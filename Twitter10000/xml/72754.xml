@@ -1,0 +1,26 @@
+<annotation>
+	<folder>3-split</folder>
+	<filename>72754.jpg</filename>
+	<path>C:\Users\lenovo\Documents\【001】准研\work\dataset\Twitter2015\img_split_11\3-split\72754.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>598</width>
+		<height>400</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>HNLMS Johan De Witt</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>307</xmin>
+			<ymin>97</ymin>
+			<xmax>498</xmax>
+			<ymax>254</ymax>
+		</bndbox>
+	</object>
+</annotation>

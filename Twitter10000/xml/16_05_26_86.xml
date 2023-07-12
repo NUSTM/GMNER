@@ -1,0 +1,26 @@
+<annotation>
+	<folder>5-split</folder>
+	<filename>16_05_26_86.jpg</filename>
+	<path>C:\Users\lenovo\Documents\【001】准研\work\dataset\Twitter2017\split10\img_split_vinvl_10\5-split\16_05_26_86.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>920</width>
+		<height>782</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>Freese</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>171</xmin>
+			<ymin>18</ymin>
+			<xmax>632</xmax>
+			<ymax>742</ymax>
+		</bndbox>
+	</object>
+</annotation>

@@ -1,0 +1,26 @@
+<annotation>
+	<folder>2-split</folder>
+	<filename>O_1958.jpg</filename>
+	<path>C:\Users\lenovo\Documents\【001】准研\work\dataset\Twitter2017\split10\img_split_vinvl_10\2-split\O_1958.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>512</width>
+		<height>379</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>Sarah Palin</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>115</xmin>
+			<ymin>28</ymin>
+			<xmax>362</xmax>
+			<ymax>246</ymax>
+		</bndbox>
+	</object>
+</annotation>

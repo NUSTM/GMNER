@@ -1,0 +1,26 @@
+<annotation>
+	<folder>6-split</folder>
+	<filename>16_05_01_270.jpg</filename>
+	<path>D:\研究生\图片标记\twitter2017_split10\img_split_vinvl_10\6-split\16_05_01_270.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>780</width>
+		<height>1200</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>MC24H ART FESTIVAL</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>44</xmin>
+			<ymin>27</ymin>
+			<xmax>740</xmax>
+			<ymax>538</ymax>
+		</bndbox>
+	</object>
+</annotation>

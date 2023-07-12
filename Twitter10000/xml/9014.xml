@@ -1,0 +1,26 @@
+<annotation>
+	<folder>1-split</folder>
+	<filename>9014.jpg</filename>
+	<path>C:\Users\lenovo\Documents\【001】准研\work\dataset\Twitter2015\img_split_11\1-split\9014.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>400</width>
+		<height>527</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>Scott Walker</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>23</xmin>
+			<ymin>125</ymin>
+			<xmax>380</xmax>
+			<ymax>513</ymax>
+		</bndbox>
+	</object>
+</annotation>

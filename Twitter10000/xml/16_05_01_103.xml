@@ -1,0 +1,26 @@
+<annotation>
+	<folder>6-split</folder>
+	<filename>16_05_01_103.jpg</filename>
+	<path>D:\研究生\图片标记\twitter2017_split10\img_split_vinvl_10\6-split\16_05_01_103.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>768</width>
+		<height>1024</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>Bill Jefferys</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>298</xmin>
+			<ymin>375</ymin>
+			<xmax>438</xmax>
+			<ymax>600</ymax>
+		</bndbox>
+	</object>
+</annotation>

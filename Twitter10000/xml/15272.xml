@@ -1,0 +1,26 @@
+<annotation>
+	<folder>1-split</folder>
+	<filename>15272.jpg</filename>
+	<path>C:\Users\lenovo\Documents\【001】准研\work\dataset\Twitter2015\img_split_11\1-split\15272.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>600</width>
+		<height>394</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>Don Lemon</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>362</xmin>
+			<ymin>36</ymin>
+			<xmax>525</xmax>
+			<ymax>310</ymax>
+		</bndbox>
+	</object>
+</annotation>

@@ -1,0 +1,26 @@
+<annotation>
+	<folder>10-split</folder>
+	<filename>17_06_15652.jpg</filename>
+	<path>D:\研究生\图片标记\twitter2017_split10\img_split_vinvl_10\10-split\17_06_15652.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>1200</width>
+		<height>675</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>CristianoRonaldo</name>
+		<pose>Unspecified</pose>
+		<truncated>1</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>505</xmin>
+			<ymin>27</ymin>
+			<xmax>743</xmax>
+			<ymax>675</ymax>
+		</bndbox>
+	</object>
+</annotation>

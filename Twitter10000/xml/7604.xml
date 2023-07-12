@@ -1,0 +1,26 @@
+<annotation>
+	<folder>1-split</folder>
+	<filename>7604.jpg</filename>
+	<path>D:\研究生\图片标记\twitter2015_1114_4\img_split_4\1-split\7604.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>600</width>
+		<height>450</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>Amy Schumer</name>
+		<pose>Unspecified</pose>
+		<truncated>1</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>208</xmin>
+			<ymin>31</ymin>
+			<xmax>513</xmax>
+			<ymax>450</ymax>
+		</bndbox>
+	</object>
+</annotation>

@@ -1,0 +1,38 @@
+<annotation>
+	<folder>11-split</folder>
+	<filename>1814005.jpg</filename>
+	<path>D:\研究生\图片标记\twitter2015\img_split_11\11-split\1814005.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>600</width>
+		<height>337</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>Gabriela Mistral</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>221</xmin>
+			<ymin>80</ymin>
+			<xmax>278</xmax>
+			<ymax>147</ymax>
+		</bndbox>
+	</object>
+	<object>
+		<name>Google</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>190</xmin>
+			<ymin>71</ymin>
+			<xmax>404</xmax>
+			<ymax>155</ymax>
+		</bndbox>
+	</object>
+</annotation>

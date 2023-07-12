@@ -1,0 +1,26 @@
+<annotation>
+	<folder>3-split</folder>
+	<filename>790763.jpg</filename>
+	<path>C:\Users\lenovo\Documents\work\dataset\twitter2015_1114_4\img_split_4\3-split\790763.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>600</width>
+		<height>424</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>Saina</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>15</xmin>
+			<ymin>11</ymin>
+			<xmax>422</xmax>
+			<ymax>337</ymax>
+		</bndbox>
+	</object>
+</annotation>

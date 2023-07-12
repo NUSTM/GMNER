@@ -1,0 +1,26 @@
+<annotation>
+	<folder>3-split</folder>
+	<filename>639638.jpg</filename>
+	<path>C:\Users\lenovo\Documents\work\dataset\twitter2015_1114_4\img_split_4\3-split\639638.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>599</width>
+		<height>401</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>Nelson</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>501</xmin>
+			<ymin>131</ymin>
+			<xmax>543</xmax>
+			<ymax>235</ymax>
+		</bndbox>
+	</object>
+</annotation>

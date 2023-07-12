@@ -1,0 +1,26 @@
+<annotation>
+	<folder>11-split</folder>
+	<filename>2130603.jpg</filename>
+	<path>D:\研究生\图片标记\twitter2015\img_split_11\11-split\2130603.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>392</width>
+		<height>612</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>Josh Dun</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>153</xmin>
+			<ymin>131</ymin>
+			<xmax>361</xmax>
+			<ymax>532</ymax>
+		</bndbox>
+	</object>
+</annotation>

@@ -1,0 +1,26 @@
+<annotation>
+	<folder>8-split</folder>
+	<filename>16_05_26_318.jpg</filename>
+	<path>D:\研究生\图片标记\twitter2017_split10\img_split_vinvl_10\8-split\16_05_26_318.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>1024</width>
+		<height>1024</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>NBA</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>970</xmin>
+			<ymin>932</ymin>
+			<xmax>1010</xmax>
+			<ymax>1010</ymax>
+		</bndbox>
+	</object>
+</annotation>

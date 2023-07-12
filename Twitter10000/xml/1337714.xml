@@ -1,0 +1,26 @@
+<annotation>
+	<folder>10-split</folder>
+	<filename>1337714.jpg</filename>
+	<path>D:\研究生\图片标记\twitter2015\img_split_11\10-split\1337714.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>500</width>
+		<height>345</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>Emily Dickinson</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>215</xmin>
+			<ymin>282</ymin>
+			<xmax>409</xmax>
+			<ymax>311</ymax>
+		</bndbox>
+	</object>
+</annotation>

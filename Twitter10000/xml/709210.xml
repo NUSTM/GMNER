@@ -1,0 +1,26 @@
+<annotation>
+	<folder>3-split</folder>
+	<filename>709210.jpg</filename>
+	<path>C:\Users\lenovo\Documents\work\dataset\twitter2015_1114_4\img_split_4\3-split\709210.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>599</width>
+		<height>482</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>Sungha</name>
+		<pose>Unspecified</pose>
+		<truncated>1</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>83</xmin>
+			<ymin>41</ymin>
+			<xmax>390</xmax>
+			<ymax>482</ymax>
+		</bndbox>
+	</object>
+</annotation>

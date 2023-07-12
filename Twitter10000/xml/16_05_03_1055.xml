@@ -1,0 +1,26 @@
+<annotation>
+	<folder>10-split</folder>
+	<filename>16_05_03_1055.jpg</filename>
+	<path>D:\研究生\图片标记\twitter2017_split10\img_split_vinvl_10\10-split\16_05_03_1055.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>739</width>
+		<height>866</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>Hornbake plaza</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>172</xmin>
+			<ymin>729</ymin>
+			<xmax>572</xmax>
+			<ymax>796</ymax>
+		</bndbox>
+	</object>
+</annotation>

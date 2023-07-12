@@ -1,0 +1,26 @@
+<annotation>
+	<folder>9-split</folder>
+	<filename>900799.jpg</filename>
+	<path>D:\研究生\图片标记\twitter2015\img_split_11\9-split\900799.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>600</width>
+		<height>338</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>Abby Dark-Star</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>206</xmin>
+			<ymin>74</ymin>
+			<xmax>302</xmax>
+			<ymax>310</ymax>
+		</bndbox>
+	</object>
+</annotation>

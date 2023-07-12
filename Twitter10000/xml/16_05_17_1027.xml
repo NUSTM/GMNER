@@ -1,0 +1,26 @@
+<annotation>
+	<folder>dev</folder>
+	<filename>16_05_17_1027_region.jpg</filename>
+	<path>D:\PyCharm\BERT_NER\data\images\twitter2017_region\dev\16_05_17_1027_region.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>400</width>
+		<height>300</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>Preakness Balloon Festival</name>
+		<pose>Unspecified</pose>
+		<truncated>1</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>60</xmin>
+			<ymin>1</ymin>
+			<xmax>326</xmax>
+			<ymax>264</ymax>
+		</bndbox>
+	</object>
+</annotation>

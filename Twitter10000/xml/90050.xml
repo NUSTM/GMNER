@@ -1,0 +1,26 @@
+<annotation>
+	<folder>4-split</folder>
+	<filename>90050.jpg</filename>
+	<path>C:\Users\lenovo\Documents\【001】准研\work\dataset\Twitter2015\img_split_11\4-split\90050.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>539</width>
+		<height>960</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>BOBBY HUTH</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>16</xmin>
+			<ymin>360</ymin>
+			<xmax>78</xmax>
+			<ymax>439</ymax>
+		</bndbox>
+	</object>
+</annotation>

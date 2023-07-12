@@ -1,0 +1,26 @@
+<annotation>
+	<folder>8-split</folder>
+	<filename>727215.jpg</filename>
+	<path>D:\研究生\图片标记\twitter2015\img_split_11\8-split\727215.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>600</width>
+		<height>448</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>David Denholm</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>284</xmin>
+			<ymin>205</ymin>
+			<xmax>343</xmax>
+			<ymax>313</ymax>
+		</bndbox>
+	</object>
+</annotation>

@@ -1,0 +1,26 @@
+<annotation>
+	<folder>3-split</folder>
+	<filename>O_3187.jpg</filename>
+	<path>C:\Users\lenovo\Documents\【001】准研\work\dataset\Twitter2017\split10\img_split_vinvl_10\3-split\O_3187.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>970</width>
+		<height>545</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>HARRY POTTER</name>
+		<pose>Unspecified</pose>
+		<truncated>1</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>279</xmin>
+			<ymin>8</ymin>
+			<xmax>713</xmax>
+			<ymax>545</ymax>
+		</bndbox>
+	</object>
+</annotation>

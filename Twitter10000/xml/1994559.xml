@@ -1,0 +1,26 @@
+<annotation>
+	<folder>11-split</folder>
+	<filename>1994559.jpg</filename>
+	<path>D:\研究生\图片标记\twitter2015\img_split_11\11-split\1994559.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>600</width>
+		<height>450</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>Bolton</name>
+		<pose>Unspecified</pose>
+		<truncated>1</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>13</xmin>
+			<ymin>156</ymin>
+			<xmax>226</xmax>
+			<ymax>450</ymax>
+		</bndbox>
+	</object>
+</annotation>

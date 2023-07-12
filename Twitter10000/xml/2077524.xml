@@ -1,0 +1,26 @@
+<annotation>
+	<folder>11-split</folder>
+	<filename>2077524.jpg</filename>
+	<path>D:\研究生\图片标记\twitter2015\img_split_11\11-split\2077524.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>500</width>
+		<height>273</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>Rondo</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>138</xmin>
+			<ymin>56</ymin>
+			<xmax>213</xmax>
+			<ymax>175</ymax>
+		</bndbox>
+	</object>
+</annotation>

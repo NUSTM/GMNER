@@ -1,0 +1,38 @@
+<annotation>
+	<folder>10-split</folder>
+	<filename>1780069.jpg</filename>
+	<path>D:\研究生\图片标记\twitter2015\img_split_11\10-split\1780069.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>600</width>
+		<height>386</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>Andy Murray</name>
+		<pose>Unspecified</pose>
+		<truncated>1</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>288</xmin>
+			<ymin>7</ymin>
+			<xmax>554</xmax>
+			<ymax>386</ymax>
+		</bndbox>
+	</object>
+	<object>
+		<name>Rafael Nadal</name>
+		<pose>Unspecified</pose>
+		<truncated>1</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>21</xmin>
+			<ymin>20</ymin>
+			<xmax>290</xmax>
+			<ymax>386</ymax>
+		</bndbox>
+	</object>
+</annotation>

@@ -1,0 +1,26 @@
+<annotation>
+	<folder>1-split</folder>
+	<filename>35921.jpg</filename>
+	<path>D:\研究生\图片标记\twitter2015_1114_4\img_split_4\1-split\35921.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>500</width>
+		<height>324</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>Joey Badass</name>
+		<pose>Unspecified</pose>
+		<truncated>1</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>22</xmin>
+			<ymin>1</ymin>
+			<xmax>405</xmax>
+			<ymax>305</ymax>
+		</bndbox>
+	</object>
+</annotation>

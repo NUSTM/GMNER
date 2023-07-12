@@ -1,0 +1,26 @@
+<annotation>
+	<folder>6-split</folder>
+	<filename>441238.jpg</filename>
+	<path>D:\研究生\图片标记\twitter2015\img_split_11\6-split\441238.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>600</width>
+		<height>600</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>LukesWingsUSA</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>262</xmin>
+			<ymin>503</ymin>
+			<xmax>350</xmax>
+			<ymax>570</ymax>
+		</bndbox>
+	</object>
+</annotation>

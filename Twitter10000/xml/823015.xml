@@ -1,0 +1,26 @@
+<annotation>
+	<folder>8-split</folder>
+	<filename>823015.jpg</filename>
+	<path>D:\研究生\图片标记\twitter2015\img_split_11\8-split\823015.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>599</width>
+		<height>281</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>Asaram Bapuji</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>21</xmin>
+			<ymin>89</ymin>
+			<xmax>122</xmax>
+			<ymax>183</ymax>
+		</bndbox>
+	</object>
+</annotation>

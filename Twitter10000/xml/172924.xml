@@ -1,0 +1,26 @@
+<annotation>
+	<folder>2-split</folder>
+	<filename>172924.jpg</filename>
+	<path>D:\Desktop\Document\Postgraduate\NUSTM\数据标注\twitter2015_1114_3\img_split_3\2-split\172924.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>600</width>
+		<height>800</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>UCAS</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>428</xmin>
+			<ymin>61</ymin>
+			<xmax>503</xmax>
+			<ymax>92</ymax>
+		</bndbox>
+	</object>
+</annotation>

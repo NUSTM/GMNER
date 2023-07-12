@@ -1,0 +1,26 @@
+<annotation>
+	<folder>6-split</folder>
+	<filename>495988.jpg</filename>
+	<path>D:\研究生\图片标记\twitter2015\img_split_11\6-split\495988.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>599</width>
+		<height>805</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>Sir Alex</name>
+		<pose>Unspecified</pose>
+		<truncated>1</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>67</xmin>
+			<ymin>143</ymin>
+			<xmax>565</xmax>
+			<ymax>805</ymax>
+		</bndbox>
+	</object>
+</annotation>

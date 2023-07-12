@@ -1,0 +1,26 @@
+<annotation>
+	<folder>9-split</folder>
+	<filename>1025069.jpg</filename>
+	<path>D:\研究生\图片标记\twitter2015\img_split_11\9-split\1025069.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>480</width>
+		<height>177</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>Fowry Hotel</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>397</xmin>
+			<ymin>3</ymin>
+			<xmax>470</xmax>
+			<ymax>16</ymax>
+		</bndbox>
+	</object>
+</annotation>

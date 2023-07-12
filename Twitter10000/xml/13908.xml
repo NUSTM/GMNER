@@ -1,0 +1,26 @@
+<annotation>
+	<folder>1-split</folder>
+	<filename>13908.jpg</filename>
+	<path>D:\研究生\图片标记\twitter2015_1114_4\img_split_4\1-split\13908.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>600</width>
+		<height>447</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>On the Trail of Genghis Khan</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>191</xmin>
+			<ymin>28</ymin>
+			<xmax>343</xmax>
+			<ymax>274</ymax>
+		</bndbox>
+	</object>
+</annotation>

@@ -1,0 +1,26 @@
+<annotation>
+	<folder>3-split</folder>
+	<filename>796218.jpg</filename>
+	<path>C:\Users\lenovo\Documents\work\dataset\twitter2015_1114_4\img_split_4\3-split\796218.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>600</width>
+		<height>800</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>David Ramsay</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>165</xmin>
+			<ymin>89</ymin>
+			<xmax>423</xmax>
+			<ymax>425</ymax>
+		</bndbox>
+	</object>
+</annotation>

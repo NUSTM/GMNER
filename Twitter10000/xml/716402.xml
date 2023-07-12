@@ -1,0 +1,50 @@
+<annotation>
+	<folder>8-split</folder>
+	<filename>716402.jpg</filename>
+	<path>D:\研究生\图片标记\twitter2015\img_split_11\8-split\716402.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>600</width>
+		<height>600</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>Bruno Mars</name>
+		<pose>Unspecified</pose>
+		<truncated>1</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>190</xmin>
+			<ymin>1</ymin>
+			<xmax>581</xmax>
+			<ymax>384</ymax>
+		</bndbox>
+	</object>
+	<object>
+		<name>Roberto</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>65</xmin>
+			<ymin>257</ymin>
+			<xmax>532</xmax>
+			<ymax>534</ymax>
+		</bndbox>
+	</object>
+	<object>
+		<name>RIO 2</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>500</xmin>
+			<ymin>10</ymin>
+			<xmax>592</xmax>
+			<ymax>68</ymax>
+		</bndbox>
+	</object>
+</annotation>

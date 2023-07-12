@@ -1,0 +1,38 @@
+<annotation>
+	<folder>6-split</folder>
+	<filename>331803.jpg</filename>
+	<path>D:\研究生\图片标记\twitter2015\img_split_11\6-split\331803.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>599</width>
+		<height>802</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>Robert Carter</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>417</xmin>
+			<ymin>15</ymin>
+			<xmax>598</xmax>
+			<ymax>222</ymax>
+		</bndbox>
+	</object>
+	<object>
+		<name>AkamaiEdge</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>5</xmin>
+			<ymin>9</ymin>
+			<xmax>259</xmax>
+			<ymax>184</ymax>
+		</bndbox>
+	</object>
+</annotation>

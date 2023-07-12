@@ -1,0 +1,38 @@
+<annotation>
+	<folder>9-split</folder>
+	<filename>1001880.jpg</filename>
+	<path>D:\研究生\图片标记\twitter2015\img_split_11\9-split\1001880.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>600</width>
+		<height>450</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>Jan Taminiau</name>
+		<pose>Unspecified</pose>
+		<truncated>1</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>146</xmin>
+			<ymin>225</ymin>
+			<xmax>600</xmax>
+			<ymax>411</ymax>
+		</bndbox>
+	</object>
+	<object>
+		<name>Suneet Varma</name>
+		<pose>Unspecified</pose>
+		<truncated>1</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>209</xmin>
+			<ymin>82</ymin>
+			<xmax>600</xmax>
+			<ymax>249</ymax>
+		</bndbox>
+	</object>
+</annotation>

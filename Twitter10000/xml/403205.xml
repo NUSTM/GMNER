@@ -1,0 +1,26 @@
+<annotation>
+	<folder>6-split</folder>
+	<filename>403205.jpg</filename>
+	<path>D:\研究生\图片标记\twitter2015\img_split_11\6-split\403205.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>600</width>
+		<height>338</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>Michael Neidorff</name>
+		<pose>Unspecified</pose>
+		<truncated>1</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>270</xmin>
+			<ymin>28</ymin>
+			<xmax>439</xmax>
+			<ymax>338</ymax>
+		</bndbox>
+	</object>
+</annotation>

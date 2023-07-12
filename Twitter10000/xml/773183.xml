@@ -1,0 +1,26 @@
+<annotation>
+	<folder>2-split</folder>
+	<filename>773183.jpg</filename>
+	<path>D:\Desktop\Document\Postgraduate\NUSTM\数据标注\twitter2015_1114_3\img_split_3\2-split\773183.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>482</width>
+		<height>426</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>SPC Proctor</name>
+		<pose>Unspecified</pose>
+		<truncated>1</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>274</xmin>
+			<ymin>71</ymin>
+			<xmax>482</xmax>
+			<ymax>138</ymax>
+		</bndbox>
+	</object>
+</annotation>

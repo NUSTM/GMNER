@@ -1,0 +1,26 @@
+<annotation>
+	<folder>3-split</folder>
+	<filename>474860.jpg</filename>
+	<path>C:\Users\lenovo\Documents\work\dataset\twitter2015_1114_4\img_split_4\3-split\474860.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>558</width>
+		<height>585</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>Michelle Gilbert</name>
+		<pose>Unspecified</pose>
+		<truncated>1</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>181</xmin>
+			<ymin>113</ymin>
+			<xmax>372</xmax>
+			<ymax>585</ymax>
+		</bndbox>
+	</object>
+</annotation>

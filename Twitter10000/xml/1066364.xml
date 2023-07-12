@@ -1,0 +1,26 @@
+<annotation>
+	<folder>9-split</folder>
+	<filename>1066364.jpg</filename>
+	<path>D:\研究生\图片标记\twitter2015\img_split_11\9-split\1066364.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>600</width>
+		<height>337</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>Robin Williams</name>
+		<pose>Unspecified</pose>
+		<truncated>1</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>115</xmin>
+			<ymin>2</ymin>
+			<xmax>572</xmax>
+			<ymax>337</ymax>
+		</bndbox>
+	</object>
+</annotation>

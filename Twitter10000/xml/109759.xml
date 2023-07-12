@@ -1,0 +1,26 @@
+<annotation>
+	<folder>4-split</folder>
+	<filename>109759.jpg</filename>
+	<path>C:\Users\lenovo\Documents\【001】准研\work\dataset\Twitter2015\img_split_11\4-split\109759.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>500</width>
+		<height>716</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>Vanessa Hudgens</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>74</xmin>
+			<ymin>103</ymin>
+			<xmax>355</xmax>
+			<ymax>602</ymax>
+		</bndbox>
+	</object>
+</annotation>

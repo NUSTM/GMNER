@@ -1,0 +1,26 @@
+<annotation>
+	<folder>9-split</folder>
+	<filename>942379.jpg</filename>
+	<path>D:\研究生\图片标记\twitter2015\img_split_11\9-split\942379.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>481</width>
+		<height>269</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>Kevin McManigal</name>
+		<pose>Unspecified</pose>
+		<truncated>1</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>26</xmin>
+			<ymin>129</ymin>
+			<xmax>176</xmax>
+			<ymax>269</ymax>
+		</bndbox>
+	</object>
+</annotation>

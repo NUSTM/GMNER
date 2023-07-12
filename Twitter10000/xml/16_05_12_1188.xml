@@ -1,0 +1,26 @@
+<annotation>
+	<folder>10-split</folder>
+	<filename>16_05_12_1188.jpg</filename>
+	<path>D:\研究生\图片标记\twitter2017_split10\img_split_vinvl_10\10-split\16_05_12_1188.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>519</width>
+		<height>445</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>Moritz Böhringer</name>
+		<pose>Unspecified</pose>
+		<truncated>1</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>102</xmin>
+			<ymin>1</ymin>
+			<xmax>518</xmax>
+			<ymax>444</ymax>
+		</bndbox>
+	</object>
+</annotation>

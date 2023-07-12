@@ -1,0 +1,26 @@
+<annotation>
+	<folder>2-split</folder>
+	<filename>O_2537.jpg</filename>
+	<path>C:\Users\lenovo\Documents\【001】准研\work\dataset\Twitter2017\split10\img_split_vinvl_10\2-split\O_2537.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>600</width>
+		<height>840</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>Dakota</name>
+		<pose>Unspecified</pose>
+		<truncated>1</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>146</xmin>
+			<ymin>29</ymin>
+			<xmax>469</xmax>
+			<ymax>840</ymax>
+		</bndbox>
+	</object>
+</annotation>

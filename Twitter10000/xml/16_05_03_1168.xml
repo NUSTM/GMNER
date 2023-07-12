@@ -1,0 +1,26 @@
+<annotation>
+	<folder>10-split</folder>
+	<filename>16_05_03_1168.jpg</filename>
+	<path>D:\研究生\图片标记\twitter2017_split10\img_split_vinvl_10\10-split\16_05_03_1168.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>478</width>
+		<height>358</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>Mike Bull</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>136</xmin>
+			<ymin>5</ymin>
+			<xmax>380</xmax>
+			<ymax>356</ymax>
+		</bndbox>
+	</object>
+</annotation>

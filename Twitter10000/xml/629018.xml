@@ -1,0 +1,38 @@
+<annotation>
+	<folder>7-split</folder>
+	<filename>629018.jpg</filename>
+	<path>D:\研究生\图片标记\twitter2015\img_split_11\7-split\629018.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>598</width>
+		<height>397</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>President McRobbie</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>389</xmin>
+			<ymin>111</ymin>
+			<xmax>516</xmax>
+			<ymax>214</ymax>
+		</bndbox>
+	</object>
+	<object>
+		<name>IU</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>227</xmin>
+			<ymin>7</ymin>
+			<xmax>319</xmax>
+			<ymax>150</ymax>
+		</bndbox>
+	</object>
+</annotation>

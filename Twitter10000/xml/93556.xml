@@ -1,0 +1,26 @@
+<annotation>
+	<folder>1-split</folder>
+	<filename>93556.jpg</filename>
+	<path>D:\Desktop\Document\Postgraduate\NUSTM\数据标注\twitter2015_1114_3\img_split_3\1-split\93556.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>600</width>
+		<height>338</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>Farmers and Merchants Bank</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>163</xmin>
+			<ymin>99</ymin>
+			<xmax>476</xmax>
+			<ymax>305</ymax>
+		</bndbox>
+	</object>
+</annotation>

@@ -1,0 +1,26 @@
+<annotation>
+	<folder>9-split</folder>
+	<filename>964242.jpg</filename>
+	<path>D:\研究生\图片标记\twitter2015\img_split_11\9-split\964242.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>600</width>
+		<height>900</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>Brandy Mariah Vittrekwa</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>7</xmin>
+			<ymin>145</ymin>
+			<xmax>598</xmax>
+			<ymax>746</ymax>
+		</bndbox>
+	</object>
+</annotation>

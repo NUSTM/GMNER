@@ -1,0 +1,26 @@
+<annotation>
+	<folder>11-split</folder>
+	<filename>1873264.jpg</filename>
+	<path>D:\研究生\图片标记\twitter2015\img_split_11\11-split\1873264.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>599</width>
+		<height>337</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>Jeb Bush</name>
+		<pose>Unspecified</pose>
+		<truncated>1</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>11</xmin>
+			<ymin>11</ymin>
+			<xmax>514</xmax>
+			<ymax>337</ymax>
+		</bndbox>
+	</object>
+</annotation>

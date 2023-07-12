@@ -1,0 +1,38 @@
+<annotation>
+	<folder>8-split</folder>
+	<filename>715075.jpg</filename>
+	<path>D:\研究生\图片标记\twitter2015\img_split_11\8-split\715075.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>598</width>
+		<height>448</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>Lana Parrilla</name>
+		<pose>Unspecified</pose>
+		<truncated>1</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>38</xmin>
+			<ymin>5</ymin>
+			<xmax>269</xmax>
+			<ymax>448</ymax>
+		</bndbox>
+	</object>
+	<object>
+		<name>Lana Parrilla</name>
+		<pose>Unspecified</pose>
+		<truncated>1</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>330</xmin>
+			<ymin>16</ymin>
+			<xmax>534</xmax>
+			<ymax>448</ymax>
+		</bndbox>
+	</object>
+</annotation>

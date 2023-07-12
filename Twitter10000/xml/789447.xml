@@ -1,0 +1,26 @@
+<annotation>
+	<folder>8-split</folder>
+	<filename>789447.jpg</filename>
+	<path>D:\研究生\图片标记\twitter2015\img_split_11\8-split\789447.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>467</width>
+		<height>306</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>George Carlin</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>292</xmin>
+			<ymin>35</ymin>
+			<xmax>458</xmax>
+			<ymax>305</ymax>
+		</bndbox>
+	</object>
+</annotation>

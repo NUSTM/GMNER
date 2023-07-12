@@ -1,0 +1,26 @@
+<annotation>
+	<folder>6-split</folder>
+	<filename>17_06_7232.jpg</filename>
+	<path>D:\研究生\图片标记\twitter2017_split10\img_split_vinvl_10\6-split\17_06_7232.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>320</width>
+		<height>180</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>Ryan O ' Callaghan</name>
+		<pose>Unspecified</pose>
+		<truncated>1</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>41</xmin>
+			<ymin>1</ymin>
+			<xmax>294</xmax>
+			<ymax>180</ymax>
+		</bndbox>
+	</object>
+</annotation>

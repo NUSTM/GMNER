@@ -1,0 +1,26 @@
+<annotation>
+	<folder>5-split</folder>
+	<filename>310296.jpg</filename>
+	<path>C:\Users\lenovo\Documents\【001】准研\work\dataset\Twitter2015\img_split_11\5-split\310296.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>600</width>
+		<height>339</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>Ali</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>173</xmin>
+			<ymin>24</ymin>
+			<xmax>399</xmax>
+			<ymax>270</ymax>
+		</bndbox>
+	</object>
+</annotation>

@@ -1,0 +1,26 @@
+<annotation>
+	<folder>3-split</folder>
+	<filename>704917.jpg</filename>
+	<path>C:\Users\lenovo\Documents\work\dataset\twitter2015_1114_4\img_split_4\3-split\704917.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>600</width>
+		<height>414</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>Lindsey Vonn</name>
+		<pose>Unspecified</pose>
+		<truncated>1</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>160</xmin>
+			<ymin>66</ymin>
+			<xmax>588</xmax>
+			<ymax>414</ymax>
+		</bndbox>
+	</object>
+</annotation>

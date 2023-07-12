@@ -1,0 +1,26 @@
+<annotation>
+	<folder>6-split</folder>
+	<filename>515902.jpg</filename>
+	<path>D:\研究生\图片标记\twitter2015\img_split_11\6-split\515902.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>576</width>
+		<height>1024</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>Dobby</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>31</xmin>
+			<ymin>178</ymin>
+			<xmax>561</xmax>
+			<ymax>920</ymax>
+		</bndbox>
+	</object>
+</annotation>

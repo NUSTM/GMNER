@@ -1,0 +1,26 @@
+<annotation>
+	<folder>3-split</folder>
+	<filename>458004.jpg</filename>
+	<path>C:\Users\lenovo\Documents\work\dataset\twitter2015_1114_4\img_split_4\3-split\458004.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>599</width>
+		<height>389</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>Wright Flyer</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>173</xmin>
+			<ymin>126</ymin>
+			<xmax>492</xmax>
+			<ymax>208</ymax>
+		</bndbox>
+	</object>
+</annotation>

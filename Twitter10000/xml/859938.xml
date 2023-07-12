@@ -1,0 +1,38 @@
+<annotation>
+	<folder>8-split</folder>
+	<filename>859938.jpg</filename>
+	<path>D:\研究生\图片标记\twitter2015\img_split_11\8-split\859938.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>600</width>
+		<height>400</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>University of Mary Washington</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>344</xmin>
+			<ymin>261</ymin>
+			<xmax>360</xmax>
+			<ymax>281</ymax>
+		</bndbox>
+	</object>
+	<object>
+		<name>University of Mary Washington</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>72</xmin>
+			<ymin>133</ymin>
+			<xmax>83</xmax>
+			<ymax>145</ymax>
+		</bndbox>
+	</object>
+</annotation>

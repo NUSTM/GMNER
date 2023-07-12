@@ -1,0 +1,26 @@
+<annotation>
+	<folder>3-split</folder>
+	<filename>627893.jpg</filename>
+	<path>C:\Users\lenovo\Documents\work\dataset\twitter2015_1114_4\img_split_4\3-split\627893.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>600</width>
+		<height>450</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>E . Shuswap Rd</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>160</xmin>
+			<ymin>6</ymin>
+			<xmax>402</xmax>
+			<ymax>158</ymax>
+		</bndbox>
+	</object>
+</annotation>

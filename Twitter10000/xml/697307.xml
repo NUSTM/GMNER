@@ -1,0 +1,26 @@
+<annotation>
+	<folder>8-split</folder>
+	<filename>697307.jpg</filename>
+	<path>D:\研究生\图片标记\twitter2015\img_split_11\8-split\697307.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>600</width>
+		<height>338</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>THE GROVE</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>441</xmin>
+			<ymin>265</ymin>
+			<xmax>549</xmax>
+			<ymax>314</ymax>
+		</bndbox>
+	</object>
+</annotation>

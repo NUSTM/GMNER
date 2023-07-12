@@ -1,0 +1,26 @@
+<annotation>
+	<folder>11-split</folder>
+	<filename>1831392.jpg</filename>
+	<path>D:\研究生\图片标记\twitter2015\img_split_11\11-split\1831392.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>600</width>
+		<height>803</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>Bryce Harper</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>204</xmin>
+			<ymin>232</ymin>
+			<xmax>493</xmax>
+			<ymax>792</ymax>
+		</bndbox>
+	</object>
+</annotation>

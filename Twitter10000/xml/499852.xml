@@ -1,0 +1,26 @@
+<annotation>
+	<folder>6-split</folder>
+	<filename>499852.jpg</filename>
+	<path>D:\研究生\图片标记\twitter2015\img_split_11\6-split\499852.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>600</width>
+		<height>384</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>Eric Lamaze</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>283</xmin>
+			<ymin>63</ymin>
+			<xmax>364</xmax>
+			<ymax>169</ymax>
+		</bndbox>
+	</object>
+</annotation>

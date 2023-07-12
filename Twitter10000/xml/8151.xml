@@ -1,0 +1,26 @@
+<annotation>
+	<folder>1-split</folder>
+	<filename>8151.jpg</filename>
+	<path>C:\Users\lenovo\Documents\【001】准研\work\dataset\Twitter2015\img_split_11\1-split\8151.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>600</width>
+		<height>804</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>Bey</name>
+		<pose>Unspecified</pose>
+		<truncated>1</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>70</xmin>
+			<ymin>31</ymin>
+			<xmax>372</xmax>
+			<ymax>804</ymax>
+		</bndbox>
+	</object>
+</annotation>

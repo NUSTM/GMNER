@@ -1,0 +1,26 @@
+<annotation>
+	<folder>8-split</folder>
+	<filename>734995.jpg</filename>
+	<path>D:\研究生\图片标记\twitter2015\img_split_11\8-split\734995.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>600</width>
+		<height>414</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>McKee</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>465</xmin>
+			<ymin>238</ymin>
+			<xmax>568</xmax>
+			<ymax>259</ymax>
+		</bndbox>
+	</object>
+</annotation>
