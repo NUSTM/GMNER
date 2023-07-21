@@ -2,6 +2,12 @@
 
 Here are code and dataset for our ACL2023 paper: [Grounded Multimodal Named Entity Recognition on Social Media](https://aclanthology.org/2023.acl-long.508.pdf)
 
+
+
+## Updates
+
+20230721:  Updated dataset with corrections to some annotation errors.
+
 ## Dataset
 
 Our dataset is built on two benchmark MNER datasets, i.e., Twitter-15 (Zhang

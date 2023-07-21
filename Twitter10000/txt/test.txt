@@ -8767,7 +8767,7 @@ RT	O
 Nike	B-OTHER
 :	O
 Introducing	O
-Nike	O
+Nike	B-OTHER
 SNKRS	I-OTHER
 .	O
 Your	O
