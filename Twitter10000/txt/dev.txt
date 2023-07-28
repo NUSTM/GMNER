@@ -1225,11 +1225,11 @@ Sheeran	I-PER
 s	O
 Face	O
 Was	O
-The	O
+The	B-OTHER
 Best	O
 Thing	O
 At	O
-The	B-OTHER
+The	O
 Victoria	I-OTHER
 '	I-OTHER
 s	I-OTHER
@@ -14017,7 +14017,7 @@ RT	O
 @	O
 Jason	O
 :	O
-The	O
+The	B-OTHER
 first	O
 trailer	O
 for	O
@@ -14025,7 +14025,7 @@ Season	O
 5	O
 of	O
 "	O
-The	B-OTHER
+The	O
 Walking	I-OTHER
 Dead	I-OTHER
 "	O
@@ -20705,13 +20705,13 @@ casos	O
 IMGID:221490
 RT	O
 @	O
-Disney	O
+Disney	B-LOC
 :	O
 Coming	O
 soon	O
 to	O
 a	O
-Disney	B-LOC
+Disney	O
 Park	I-LOC
 not	O
 so	O

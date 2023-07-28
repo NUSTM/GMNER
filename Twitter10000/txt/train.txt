@@ -79047,10 +79047,10 @@ RT	O
 @	O
 faridalvie	O
 :	O
-The	O
+The	B-OTHER
 cover	O
 of	O
-The	B-OTHER
+The	O
 Illustrated	I-OTHER
 Weekly	I-OTHER
 of	I-OTHER
@@ -83120,12 +83120,12 @@ RT	O
 @	O
 SadHappyAmazing	O
 :	O
-The	O
+The	B-OTHER
 cast	O
 and	O
 director	O
 of	O
-The	B-OTHER
+The	O
 Breakfast	I-OTHER
 Club	I-OTHER
 ,	O
@@ -104694,7 +104694,7 @@ India	O
 Q2	O
 .	O
 #	O
-Toyota	B-OTHER
+Toyota	O
 Camry	I-OTHER
 Hybrid	I-OTHER
 is	O
@@ -117938,13 +117938,13 @@ control	O
 IMGID:34965
 RT	O
 @	O
-Disney	O
+Disney	B-LOC
 :	O
 Coming	O
 soon	O
 to	O
 a	O
-Disney	B-LOC
+Disney	O
 Park	I-LOC
 not	O
 so	O
