@@ -1,0 +1,38 @@
+<annotation>
+	<folder>6-split</folder>
+	<filename>506611.jpg</filename>
+	<path>D:\研究生\图片标记\twitter2015\img_split_11\6-split\506611.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>600</width>
+		<height>432</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>Preds</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>423</xmin>
+			<ymin>158</ymin>
+			<xmax>476</xmax>
+			<ymax>201</ymax>
+		</bndbox>
+	</object>
+	<object>
+		<name>Calle Jarnkrok</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>340</xmin>
+			<ymin>86</ymin>
+			<xmax>515</xmax>
+			<ymax>417</ymax>
+		</bndbox>
+	</object>
+</annotation>

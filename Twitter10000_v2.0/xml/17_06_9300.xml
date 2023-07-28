@@ -1,0 +1,26 @@
+<annotation>
+	<folder>dev</folder>
+	<filename>17_06_9300_region.jpg</filename>
+	<path>D:\PyCharm\BERT_NER\data\images\twitter2017_region\dev\17_06_9300_region.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>1024</width>
+		<height>682</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>Cale Makar</name>
+		<pose>Unspecified</pose>
+		<truncated>1</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>214</xmin>
+			<ymin>1</ymin>
+			<xmax>773</xmax>
+			<ymax>680</ymax>
+		</bndbox>
+	</object>
+</annotation>

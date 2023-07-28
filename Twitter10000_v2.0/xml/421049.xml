@@ -1,0 +1,26 @@
+<annotation>
+	<folder>6-split</folder>
+	<filename>421049.jpg</filename>
+	<path>D:\研究生\图片标记\twitter2015\img_split_11\6-split\421049.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>600</width>
+		<height>338</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>FIELD TRIP FRIDAY</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>59</xmin>
+			<ymin>266</ymin>
+			<xmax>98</xmax>
+			<ymax>305</ymax>
+		</bndbox>
+	</object>
+</annotation>

@@ -1,0 +1,26 @@
+<annotation>
+	<folder>dev</folder>
+	<filename>17_01_855_region.jpg</filename>
+	<path>D:\PyCharm\BERT_NER\data\images\twitter2017_region\dev\17_01_855_region.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>576</width>
+		<height>1024</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>amickelthwate</name>
+		<pose>Unspecified</pose>
+		<truncated>1</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>353</xmin>
+			<ymin>201</ymin>
+			<xmax>576</xmax>
+			<ymax>1024</ymax>
+		</bndbox>
+	</object>
+</annotation>

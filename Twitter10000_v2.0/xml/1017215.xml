@@ -1,0 +1,38 @@
+<annotation>
+	<folder>9-split</folder>
+	<filename>1017215.jpg</filename>
+	<path>D:\研究生\图片标记\twitter2015\img_split_11\9-split\1017215.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>600</width>
+		<height>300</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>Demi Lovato</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>131</xmin>
+			<ymin>37</ymin>
+			<xmax>229</xmax>
+			<ymax>282</ymax>
+		</bndbox>
+	</object>
+	<object>
+		<name>Demi Lovato</name>
+		<pose>Unspecified</pose>
+		<truncated>1</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>378</xmin>
+			<ymin>124</ymin>
+			<xmax>542</xmax>
+			<ymax>300</ymax>
+		</bndbox>
+	</object>
+</annotation>

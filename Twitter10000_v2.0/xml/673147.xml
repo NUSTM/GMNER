@@ -1,0 +1,26 @@
+<annotation>
+	<folder>3-split</folder>
+	<filename>673147.jpg</filename>
+	<path>C:\Users\lenovo\Documents\work\dataset\twitter2015_1114_4\img_split_4\3-split\673147.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>452</width>
+		<height>640</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>RCTI</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>87</xmin>
+			<ymin>29</ymin>
+			<xmax>274</xmax>
+			<ymax>85</ymax>
+		</bndbox>
+	</object>
+</annotation>

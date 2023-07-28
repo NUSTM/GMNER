@@ -1,0 +1,26 @@
+<annotation>
+	<folder>4-split</folder>
+	<filename>973387.jpg</filename>
+	<path>C:\Users\lenovo\Documents\work\dataset\twitter2015_1114_4\img_split_4\4-split\973387.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>558</width>
+		<height>558</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>Dzeko</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>104</xmin>
+			<ymin>149</ymin>
+			<xmax>319</xmax>
+			<ymax>465</ymax>
+		</bndbox>
+	</object>
+</annotation>

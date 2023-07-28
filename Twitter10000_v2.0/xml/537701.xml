@@ -1,0 +1,26 @@
+<annotation>
+	<folder>7-split</folder>
+	<filename>537701.jpg</filename>
+	<path>D:\研究生\图片标记\twitter2015\img_split_11\7-split\537701.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>598</width>
+		<height>396</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>Seoraksan National Park</name>
+		<pose>Unspecified</pose>
+		<truncated>1</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>2</xmin>
+			<ymin>105</ymin>
+			<xmax>596</xmax>
+			<ymax>396</ymax>
+		</bndbox>
+	</object>
+</annotation>

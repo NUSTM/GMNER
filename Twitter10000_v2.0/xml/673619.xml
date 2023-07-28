@@ -1,0 +1,26 @@
+<annotation>
+	<folder>8-split</folder>
+	<filename>673619.jpg</filename>
+	<path>D:\研究生\图片标记\twitter2015\img_split_11\8-split\673619.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>600</width>
+		<height>338</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>PM</name>
+		<pose>Unspecified</pose>
+		<truncated>1</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>260</xmin>
+			<ymin>48</ymin>
+			<xmax>498</xmax>
+			<ymax>338</ymax>
+		</bndbox>
+	</object>
+</annotation>

@@ -1,0 +1,38 @@
+<annotation>
+	<folder>9-split</folder>
+	<filename>1038311.jpg</filename>
+	<path>D:\研究生\图片标记\twitter2015\img_split_11\9-split\1038311.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>600</width>
+		<height>338</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>Margaret Kenyatta</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>161</xmin>
+			<ymin>89</ymin>
+			<xmax>258</xmax>
+			<ymax>274</ymax>
+		</bndbox>
+	</object>
+	<object>
+		<name>President Kenyatta</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>75</xmin>
+			<ymin>46</ymin>
+			<xmax>170</xmax>
+			<ymax>269</ymax>
+		</bndbox>
+	</object>
+</annotation>

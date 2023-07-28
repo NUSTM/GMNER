@@ -1,0 +1,38 @@
+<annotation>
+	<folder>11-split</folder>
+	<filename>2059196.jpg</filename>
+	<path>D:\研究生\图片标记\twitter2015\img_split_11\11-split\2059196.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>600</width>
+		<height>470</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>Tita Cory</name>
+		<pose>Unspecified</pose>
+		<truncated>1</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>333</xmin>
+			<ymin>1</ymin>
+			<xmax>600</xmax>
+			<ymax>470</ymax>
+		</bndbox>
+	</object>
+	<object>
+		<name>Tita Cory</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>220</xmin>
+			<ymin>278</ymin>
+			<xmax>292</xmax>
+			<ymax>465</ymax>
+		</bndbox>
+	</object>
+</annotation>

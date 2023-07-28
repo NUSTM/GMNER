@@ -1,0 +1,26 @@
+<annotation>
+	<folder>6-split</folder>
+	<filename>17_06_6614.jpg</filename>
+	<path>D:\研究生\图片标记\twitter2017_split10\img_split_vinvl_10\6-split\17_06_6614.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>680</width>
+		<height>960</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>Thai Taste Festival</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>73</xmin>
+			<ymin>119</ymin>
+			<xmax>541</xmax>
+			<ymax>363</ymax>
+		</bndbox>
+	</object>
+</annotation>

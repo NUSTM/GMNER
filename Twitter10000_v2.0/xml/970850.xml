@@ -1,0 +1,38 @@
+<annotation>
+	<folder>9-split</folder>
+	<filename>970850.jpg</filename>
+	<path>D:\研究生\图片标记\twitter2015\img_split_11\9-split\970850.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>600</width>
+		<height>386</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>James Dean</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>341</xmin>
+			<ymin>2</ymin>
+			<xmax>524</xmax>
+			<ymax>141</ymax>
+		</bndbox>
+	</object>
+	<object>
+		<name>Porsche 550 Spyder</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>4</xmin>
+			<ymin>61</ymin>
+			<xmax>599</xmax>
+			<ymax>384</ymax>
+		</bndbox>
+	</object>
+</annotation>

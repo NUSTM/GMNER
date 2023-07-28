@@ -1,0 +1,26 @@
+<annotation>
+	<folder>1-split</folder>
+	<filename>13985.jpg</filename>
+	<path>C:\Users\lenovo\Documents\【001】准研\work\dataset\Twitter2015\img_split_11\1-split\13985.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>600</width>
+		<height>600</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>Bruce Arians</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>92</xmin>
+			<ymin>12</ymin>
+			<xmax>395</xmax>
+			<ymax>296</ymax>
+		</bndbox>
+	</object>
+</annotation>

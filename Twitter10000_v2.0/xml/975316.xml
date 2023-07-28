@@ -1,0 +1,26 @@
+<annotation>
+	<folder>9-split</folder>
+	<filename>975316.jpg</filename>
+	<path>D:\研究生\图片标记\twitter2015\img_split_11\9-split\975316.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>600</width>
+		<height>580</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>Jay Z</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>49</xmin>
+			<ymin>127</ymin>
+			<xmax>394</xmax>
+			<ymax>450</ymax>
+		</bndbox>
+	</object>
+</annotation>

@@ -1,0 +1,26 @@
+<annotation>
+	<folder>5-split</folder>
+	<filename>16_05_01_36.jpg</filename>
+	<path>C:\Users\lenovo\Documents\【001】准研\work\dataset\Twitter2017\split10\img_split_vinvl_10\5-split\16_05_01_36.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>656</width>
+		<height>500</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>Louis Van Gaal</name>
+		<pose>Unspecified</pose>
+		<truncated>1</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>75</xmin>
+			<ymin>55</ymin>
+			<xmax>455</xmax>
+			<ymax>500</ymax>
+		</bndbox>
+	</object>
+</annotation>

@@ -1,0 +1,26 @@
+<annotation>
+	<folder>1-split</folder>
+	<filename>70861.jpg</filename>
+	<path>D:\研究生\图片标记\twitter2015_1114_4\img_split_4\1-split\70861.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>600</width>
+		<height>417</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>Corey Crawford</name>
+		<pose>Unspecified</pose>
+		<truncated>1</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>314</xmin>
+			<ymin>1</ymin>
+			<xmax>459</xmax>
+			<ymax>214</ymax>
+		</bndbox>
+	</object>
+</annotation>

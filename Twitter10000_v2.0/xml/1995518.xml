@@ -1,0 +1,26 @@
+<annotation>
+	<folder>11-split</folder>
+	<filename>1995518.jpg</filename>
+	<path>D:\研究生\图片标记\twitter2015\img_split_11\11-split\1995518.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>600</width>
+		<height>750</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>Richard Horsfield</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>505</xmin>
+			<ymin>6</ymin>
+			<xmax>597</xmax>
+			<ymax>70</ymax>
+		</bndbox>
+	</object>
+</annotation>

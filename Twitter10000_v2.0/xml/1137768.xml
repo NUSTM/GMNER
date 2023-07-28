@@ -1,0 +1,38 @@
+<annotation>
+	<folder>10-split</folder>
+	<filename>1137768.jpg</filename>
+	<path>D:\研究生\图片标记\twitter2015\img_split_11\10-split\1137768.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>599</width>
+		<height>443</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>Adam Lind</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>302</xmin>
+			<ymin>62</ymin>
+			<xmax>546</xmax>
+			<ymax>356</ymax>
+		</bndbox>
+	</object>
+	<object>
+		<name>Adam Lind</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>39</xmin>
+			<ymin>63</ymin>
+			<xmax>280</xmax>
+			<ymax>354</ymax>
+		</bndbox>
+	</object>
+</annotation>

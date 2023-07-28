@@ -1,0 +1,26 @@
+<annotation>
+	<folder>2-split</folder>
+	<filename>94438.jpg</filename>
+	<path>D:\研究生\图片标记\twitter2015_1114_4\img_split_4\2-split\94438.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>600</width>
+		<height>858</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>Kate Moss</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>29</xmin>
+			<ymin>58</ymin>
+			<xmax>519</xmax>
+			<ymax>840</ymax>
+		</bndbox>
+	</object>
+</annotation>

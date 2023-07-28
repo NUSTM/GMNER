@@ -1,0 +1,26 @@
+<annotation>
+	<folder>3-split</folder>
+	<filename>576657.jpg</filename>
+	<path>C:\Users\lenovo\Documents\work\dataset\twitter2015_1114_4\img_split_4\3-split\576657.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>600</width>
+		<height>448</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>Angie McCullough</name>
+		<pose>Unspecified</pose>
+		<truncated>1</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>385</xmin>
+			<ymin>155</ymin>
+			<xmax>524</xmax>
+			<ymax>448</ymax>
+		</bndbox>
+	</object>
+</annotation>

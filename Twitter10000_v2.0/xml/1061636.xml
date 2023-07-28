@@ -1,0 +1,38 @@
+<annotation>
+	<folder>9-split</folder>
+	<filename>1061636.jpg</filename>
+	<path>D:\研究生\图片标记\twitter2015\img_split_11\9-split\1061636.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>600</width>
+		<height>300</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>Cristo Redentor</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>99</xmin>
+			<ymin>6</ymin>
+			<xmax>349</xmax>
+			<ymax>209</ymax>
+		</bndbox>
+	</object>
+	<object>
+		<name>Dynamo</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>196</xmin>
+			<ymin>105</ymin>
+			<xmax>303</xmax>
+			<ymax>214</ymax>
+		</bndbox>
+	</object>
+</annotation>

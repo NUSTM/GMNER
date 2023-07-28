@@ -1,0 +1,26 @@
+<annotation>
+	<folder>1-split</folder>
+	<filename>45825.jpg</filename>
+	<path>D:\Desktop\Document\Postgraduate\NUSTM\数据标注\twitter2015_1114_3\img_split_3\1-split\45825.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>500</width>
+		<height>286</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>NBAFinals</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>298</xmin>
+			<ymin>126</ymin>
+			<xmax>471</xmax>
+			<ymax>177</ymax>
+		</bndbox>
+	</object>
+</annotation>

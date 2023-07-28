@@ -1,0 +1,38 @@
+<annotation>
+	<folder>6-split</folder>
+	<filename>410665.jpg</filename>
+	<path>D:\研究生\图片标记\twitter2015\img_split_11\6-split\410665.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>480</width>
+		<height>300</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>Clint Dempsey</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>166</xmin>
+			<ymin>162</ymin>
+			<xmax>311</xmax>
+			<ymax>205</ymax>
+		</bndbox>
+	</object>
+	<object>
+		<name>Marcelo Sarvas</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>144</xmin>
+			<ymin>85</ymin>
+			<xmax>235</xmax>
+			<ymax>202</ymax>
+		</bndbox>
+	</object>
+</annotation>

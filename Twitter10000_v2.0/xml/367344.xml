@@ -1,0 +1,38 @@
+<annotation>
+	<folder>6-split</folder>
+	<filename>367344.jpg</filename>
+	<path>D:\研究生\图片标记\twitter2015\img_split_11\6-split\367344.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>600</width>
+		<height>431</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>Pope Francis</name>
+		<pose>Unspecified</pose>
+		<truncated>1</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>228</xmin>
+			<ymin>143</ymin>
+			<xmax>392</xmax>
+			<ymax>431</ymax>
+		</bndbox>
+	</object>
+	<object>
+		<name>Harlem Globetrotters</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>45</xmin>
+			<ymin>211</ymin>
+			<xmax>128</xmax>
+			<ymax>258</ymax>
+		</bndbox>
+	</object>
+</annotation>

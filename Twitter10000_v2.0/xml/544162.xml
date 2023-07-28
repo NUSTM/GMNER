@@ -1,0 +1,38 @@
+<annotation>
+	<folder>7-split</folder>
+	<filename>544162.jpg</filename>
+	<path>D:\研究生\图片标记\twitter2015\img_split_11\7-split\544162.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>504</width>
+		<height>504</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>Kendall Jenner</name>
+		<pose>Unspecified</pose>
+		<truncated>1</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>180</xmin>
+			<ymin>7</ymin>
+			<xmax>498</xmax>
+			<ymax>504</ymax>
+		</bndbox>
+	</object>
+	<object>
+		<name>Hailey Baldwin</name>
+		<pose>Unspecified</pose>
+		<truncated>1</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>4</xmin>
+			<ymin>78</ymin>
+			<xmax>226</xmax>
+			<ymax>504</ymax>
+		</bndbox>
+	</object>
+</annotation>

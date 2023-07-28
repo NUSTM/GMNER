@@ -1,0 +1,26 @@
+<annotation>
+	<folder>2-split</folder>
+	<filename>112960.jpg</filename>
+	<path>D:\研究生\图片标记\twitter2015_1114_4\img_split_4\2-split\112960.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>600</width>
+		<height>400</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>EMC</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>169</xmin>
+			<ymin>255</ymin>
+			<xmax>363</xmax>
+			<ymax>330</ymax>
+		</bndbox>
+	</object>
+</annotation>

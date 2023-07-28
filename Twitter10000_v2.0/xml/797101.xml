@@ -1,0 +1,50 @@
+<annotation>
+	<folder>8-split</folder>
+	<filename>797101.jpg</filename>
+	<path>D:\研究生\图片标记\twitter2015\img_split_11\8-split\797101.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>600</width>
+		<height>600</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>Dean Winchester</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>26</xmin>
+			<ymin>3</ymin>
+			<xmax>271</xmax>
+			<ymax>197</ymax>
+		</bndbox>
+	</object>
+	<object>
+		<name>Dean Winchester</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>301</xmin>
+			<ymin>197</ymin>
+			<xmax>599</xmax>
+			<ymax>398</ymax>
+		</bndbox>
+	</object>
+	<object>
+		<name>Dean Winchester</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>3</xmin>
+			<ymin>396</ymin>
+			<xmax>278</xmax>
+			<ymax>598</ymax>
+		</bndbox>
+	</object>
+</annotation>

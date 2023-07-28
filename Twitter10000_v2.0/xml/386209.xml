@@ -1,0 +1,26 @@
+<annotation>
+	<folder>6-split</folder>
+	<filename>386209.jpg</filename>
+	<path>D:\研究生\图片标记\twitter2015\img_split_11\6-split\386209.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>236</width>
+		<height>330</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>Bob Marley</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>54</xmin>
+			<ymin>29</ymin>
+			<xmax>176</xmax>
+			<ymax>301</ymax>
+		</bndbox>
+	</object>
+</annotation>

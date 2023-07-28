@@ -1,0 +1,26 @@
+<annotation>
+	<folder>6-split</folder>
+	<filename>461811.jpg</filename>
+	<path>D:\研究生\图片标记\twitter2015\img_split_11\6-split\461811.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>459</width>
+		<height>451</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>Coach Daisy Madras</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>39</xmin>
+			<ymin>20</ymin>
+			<xmax>416</xmax>
+			<ymax>441</ymax>
+		</bndbox>
+	</object>
+</annotation>

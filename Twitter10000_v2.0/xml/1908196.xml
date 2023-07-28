@@ -1,0 +1,26 @@
+<annotation>
+	<folder>11-split</folder>
+	<filename>1908196.jpg</filename>
+	<path>D:\研究生\图片标记\twitter2015\img_split_11\11-split\1908196.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>600</width>
+		<height>900</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>H . Jackson Brown , Jr</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>195</xmin>
+			<ymin>731</ymin>
+			<xmax>478</xmax>
+			<ymax>768</ymax>
+		</bndbox>
+	</object>
+</annotation>

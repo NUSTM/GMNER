@@ -1,0 +1,26 @@
+<annotation>
+	<folder>3-split</folder>
+	<filename>479837.jpg</filename>
+	<path>C:\Users\lenovo\Documents\work\dataset\twitter2015_1114_4\img_split_4\3-split\479837.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>600</width>
+		<height>450</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>Jena</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>200</xmin>
+			<ymin>21</ymin>
+			<xmax>525</xmax>
+			<ymax>374</ymax>
+		</bndbox>
+	</object>
+</annotation>

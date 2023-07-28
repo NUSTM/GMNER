@@ -1,0 +1,26 @@
+<annotation>
+	<folder>2-split</folder>
+	<filename>322129.jpg</filename>
+	<path>D:\研究生\图片标记\twitter2015_1114_4\img_split_4\2-split\322129.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>600</width>
+		<height>600</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>Noam Chomsky</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>226</xmin>
+			<ymin>32</ymin>
+			<xmax>310</xmax>
+			<ymax>123</ymax>
+		</bndbox>
+	</object>
+</annotation>

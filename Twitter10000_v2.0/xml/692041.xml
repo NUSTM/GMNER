@@ -1,0 +1,26 @@
+<annotation>
+	<folder>8-split</folder>
+	<filename>692041.jpg</filename>
+	<path>D:\研究生\图片标记\twitter2015\img_split_11\8-split\692041.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>600</width>
+		<height>338</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>Reddit</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>319</xmin>
+			<ymin>223</ymin>
+			<xmax>338</xmax>
+			<ymax>242</ymax>
+		</bndbox>
+	</object>
+</annotation>

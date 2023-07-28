@@ -1,0 +1,26 @@
+<annotation>
+	<folder>6-split</folder>
+	<filename>17_06_6187.jpg</filename>
+	<path>D:\研究生\图片标记\twitter2017_split10\img_split_vinvl_10\6-split\17_06_6187.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>1200</width>
+		<height>900</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>Singletary26_2</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>38</xmin>
+			<ymin>390</ymin>
+			<xmax>161</xmax>
+			<ymax>700</ymax>
+		</bndbox>
+	</object>
+</annotation>

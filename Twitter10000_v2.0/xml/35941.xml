@@ -1,0 +1,26 @@
+<annotation>
+	<folder>2-split</folder>
+	<filename>35941.jpg</filename>
+	<path>C:\Users\lenovo\Documents\【001】准研\work\dataset\Twitter2015\img_split_11\2-split\35941.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>381</width>
+		<height>500</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>Alex Trebek</name>
+		<pose>Unspecified</pose>
+		<truncated>1</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>13</xmin>
+			<ymin>247</ymin>
+			<xmax>270</xmax>
+			<ymax>500</ymax>
+		</bndbox>
+	</object>
+</annotation>

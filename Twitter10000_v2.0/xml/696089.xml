@@ -1,0 +1,38 @@
+<annotation>
+	<folder>8-split</folder>
+	<filename>696089.jpg</filename>
+	<path>D:\研究生\图片标记\twitter2015\img_split_11\8-split\696089.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>600</width>
+		<height>398</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>Michael Jackson</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>232</xmin>
+			<ymin>34</ymin>
+			<xmax>363</xmax>
+			<ymax>286</ymax>
+		</bndbox>
+	</object>
+	<object>
+		<name>Stevie Wonder</name>
+		<pose>Unspecified</pose>
+		<truncated>1</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>125</xmin>
+			<ymin>125</ymin>
+			<xmax>567</xmax>
+			<ymax>398</ymax>
+		</bndbox>
+	</object>
+</annotation>

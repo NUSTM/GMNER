@@ -1,0 +1,26 @@
+<annotation>
+	<folder>6-split</folder>
+	<filename>509041.jpg</filename>
+	<path>D:\研究生\图片标记\twitter2015\img_split_11\6-split\509041.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>600</width>
+		<height>336</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>Super Mario 64</name>
+		<pose>Unspecified</pose>
+		<truncated>1</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>78</xmin>
+			<ymin>7</ymin>
+			<xmax>570</xmax>
+			<ymax>336</ymax>
+		</bndbox>
+	</object>
+</annotation>

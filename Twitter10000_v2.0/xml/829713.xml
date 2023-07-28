@@ -1,0 +1,38 @@
+<annotation>
+	<folder>8-split</folder>
+	<filename>829713.jpg</filename>
+	<path>D:\研究生\图片标记\twitter2015\img_split_11\8-split\829713.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>522</width>
+		<height>391</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>tesla</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>2</xmin>
+			<ymin>155</ymin>
+			<xmax>384</xmax>
+			<ymax>390</ymax>
+		</bndbox>
+	</object>
+	<object>
+		<name>Jeff W</name>
+		<pose>Unspecified</pose>
+		<truncated>1</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>126</xmin>
+			<ymin>181</ymin>
+			<xmax>209</xmax>
+			<ymax>391</ymax>
+		</bndbox>
+	</object>
+</annotation>

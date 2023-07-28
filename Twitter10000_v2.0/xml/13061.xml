@@ -1,0 +1,26 @@
+<annotation>
+	<folder>1-split</folder>
+	<filename>13061.jpg</filename>
+	<path>D:\Desktop\Document\Postgraduate\NUSTM\数据标注\twitter2015_1114_3\img_split_3\1-split\13061.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>576</width>
+		<height>1024</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>CaptainSparklez</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>187</xmin>
+			<ymin>311</ymin>
+			<xmax>344</xmax>
+			<ymax>656</ymax>
+		</bndbox>
+	</object>
+</annotation>

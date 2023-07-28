@@ -1,0 +1,26 @@
+<annotation>
+	<folder>4-split</folder>
+	<filename>93885.jpg</filename>
+	<path>C:\Users\lenovo\Documents\【001】准研\work\dataset\Twitter2015\img_split_11\4-split\93885.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>600</width>
+		<height>734</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>Jim Thorpe</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>183</xmin>
+			<ymin>200</ymin>
+			<xmax>336</xmax>
+			<ymax>682</ymax>
+		</bndbox>
+	</object>
+</annotation>

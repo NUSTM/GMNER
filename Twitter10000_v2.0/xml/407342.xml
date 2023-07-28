@@ -1,0 +1,26 @@
+<annotation>
+	<folder>6-split</folder>
+	<filename>407342.jpg</filename>
+	<path>D:\研究生\图片标记\twitter2015\img_split_11\6-split\407342.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>594</width>
+		<height>410</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>Alex Oxlade-Chamberlain</name>
+		<pose>Unspecified</pose>
+		<truncated>1</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>41</xmin>
+			<ymin>65</ymin>
+			<xmax>287</xmax>
+			<ymax>410</ymax>
+		</bndbox>
+	</object>
+</annotation>

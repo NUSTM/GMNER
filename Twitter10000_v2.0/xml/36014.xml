@@ -1,0 +1,26 @@
+<annotation>
+	<folder>1-split</folder>
+	<filename>36014.jpg</filename>
+	<path>D:\研究生\图片标记\twitter2015_1114_4\img_split_4\1-split\36014.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>600</width>
+		<height>393</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>Kroger</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>24</xmin>
+			<ymin>115</ymin>
+			<xmax>105</xmax>
+			<ymax>182</ymax>
+		</bndbox>
+	</object>
+</annotation>

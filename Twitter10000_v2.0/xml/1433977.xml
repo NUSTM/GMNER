@@ -1,0 +1,26 @@
+<annotation>
+	<folder>10-split</folder>
+	<filename>1433977.jpg</filename>
+	<path>D:\研究生\图片标记\twitter2015\img_split_11\10-split\1433977.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>599</width>
+		<height>803</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>Manoj Bhargava</name>
+		<pose>Unspecified</pose>
+		<truncated>1</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>255</xmin>
+			<ymin>212</ymin>
+			<xmax>576</xmax>
+			<ymax>803</ymax>
+		</bndbox>
+	</object>
+</annotation>

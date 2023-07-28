@@ -1,0 +1,38 @@
+<annotation>
+	<folder>6-split</folder>
+	<filename>507921.jpg</filename>
+	<path>D:\研究生\图片标记\twitter2015\img_split_11\6-split\507921.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>600</width>
+		<height>379</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>Preds</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>296</xmin>
+			<ymin>176</ymin>
+			<xmax>391</xmax>
+			<ymax>247</ymax>
+		</bndbox>
+	</object>
+	<object>
+		<name>Taylor Beck</name>
+		<pose>Unspecified</pose>
+		<truncated>1</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>172</xmin>
+			<ymin>63</ymin>
+			<xmax>540</xmax>
+			<ymax>379</ymax>
+		</bndbox>
+	</object>
+</annotation>

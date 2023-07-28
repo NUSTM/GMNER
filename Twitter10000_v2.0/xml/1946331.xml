@@ -1,0 +1,26 @@
+<annotation>
+	<folder>11-split</folder>
+	<filename>1946331.jpg</filename>
+	<path>D:\研究生\图片标记\twitter2015\img_split_11\11-split\1946331.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>600</width>
+		<height>413</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>Benni McCarthy</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>17</xmin>
+			<ymin>257</ymin>
+			<xmax>170</xmax>
+			<ymax>404</ymax>
+		</bndbox>
+	</object>
+</annotation>

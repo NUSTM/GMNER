@@ -1,0 +1,26 @@
+<annotation>
+	<folder>2-split</folder>
+	<filename>67077.jpg</filename>
+	<path>C:\Users\lenovo\Documents\【001】准研\work\dataset\Twitter2015\img_split_11\2-split\67077.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>600</width>
+		<height>776</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>Harry Potter</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>207</xmin>
+			<ymin>340</ymin>
+			<xmax>587</xmax>
+			<ymax>756</ymax>
+		</bndbox>
+	</object>
+</annotation>

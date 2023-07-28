@@ -1,0 +1,26 @@
+<annotation>
+	<folder>2-split</folder>
+	<filename>195497.jpg</filename>
+	<path>D:\研究生\图片标记\twitter2015_1114_4\img_split_4\2-split\195497.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>600</width>
+		<height>400</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>Startup Alley</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>198</xmin>
+			<ymin>9</ymin>
+			<xmax>393</xmax>
+			<ymax>73</ymax>
+		</bndbox>
+	</object>
+</annotation>

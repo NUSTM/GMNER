@@ -1,0 +1,26 @@
+<annotation>
+	<folder>9-split</folder>
+	<filename>1040724.jpg</filename>
+	<path>D:\研究生\图片标记\twitter2015\img_split_11\9-split\1040724.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>409</width>
+		<height>230</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>Zach Braff</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>55</xmin>
+			<ymin>8</ymin>
+			<xmax>203</xmax>
+			<ymax>184</ymax>
+		</bndbox>
+	</object>
+</annotation>

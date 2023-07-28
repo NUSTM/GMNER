@@ -1,0 +1,26 @@
+<annotation>
+	<folder>8-split</folder>
+	<filename>787425.jpg</filename>
+	<path>D:\研究生\图片标记\twitter2015\img_split_11\8-split\787425.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>598</width>
+		<height>360</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>4th of July</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>272</xmin>
+			<ymin>17</ymin>
+			<xmax>586</xmax>
+			<ymax>226</ymax>
+		</bndbox>
+	</object>
+</annotation>

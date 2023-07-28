@@ -1,0 +1,26 @@
+<annotation>
+	<folder>2-split</folder>
+	<filename>73565.jpg</filename>
+	<path>D:\研究生\图片标记\twitter2015_1114_4\img_split_4\2-split\73565.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>600</width>
+		<height>373</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>Kelvin Hayden</name>
+		<pose>Unspecified</pose>
+		<truncated>1</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>195</xmin>
+			<ymin>2</ymin>
+			<xmax>508</xmax>
+			<ymax>373</ymax>
+		</bndbox>
+	</object>
+</annotation>

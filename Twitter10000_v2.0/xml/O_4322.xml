@@ -1,0 +1,26 @@
+<annotation>
+	<folder>4-split</folder>
+	<filename>O_4322.jpg</filename>
+	<path>C:\Users\lenovo\Documents\【001】准研\work\dataset\Twitter2017\split10\img_split_vinvl_10\4-split\O_4322.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>379</width>
+		<height>500</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>Chris Bosh</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>49</xmin>
+			<ymin>57</ymin>
+			<xmax>318</xmax>
+			<ymax>426</ymax>
+		</bndbox>
+	</object>
+</annotation>

@@ -1,0 +1,26 @@
+<annotation>
+	<folder>6-split</folder>
+	<filename>406845.jpg</filename>
+	<path>D:\研究生\图片标记\twitter2015\img_split_11\6-split\406845.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>497</width>
+		<height>293</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>Ferrari</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>34</xmin>
+			<ymin>76</ymin>
+			<xmax>430</xmax>
+			<ymax>291</ymax>
+		</bndbox>
+	</object>
+</annotation>

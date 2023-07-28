@@ -1,0 +1,26 @@
+<annotation>
+	<folder>3-split</folder>
+	<filename>805777.jpg</filename>
+	<path>C:\Users\lenovo\Documents\work\dataset\twitter2015_1114_4\img_split_4\3-split\805777.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>450</width>
+		<height>691</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>Adolf Hitler</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>128</xmin>
+			<ymin>139</ymin>
+			<xmax>437</xmax>
+			<ymax>538</ymax>
+		</bndbox>
+	</object>
+</annotation>

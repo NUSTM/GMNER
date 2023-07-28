@@ -1,0 +1,38 @@
+<annotation>
+	<folder>8-split</folder>
+	<filename>800646.jpg</filename>
+	<path>D:\研究生\图片标记\twitter2015\img_split_11\8-split\800646.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>600</width>
+		<height>800</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>Eddie Brown</name>
+		<pose>Unspecified</pose>
+		<truncated>1</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>5</xmin>
+			<ymin>165</ymin>
+			<xmax>287</xmax>
+			<ymax>800</ymax>
+		</bndbox>
+	</object>
+	<object>
+		<name>David Warnock</name>
+		<pose>Unspecified</pose>
+		<truncated>1</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>359</xmin>
+			<ymin>107</ymin>
+			<xmax>600</xmax>
+			<ymax>800</ymax>
+		</bndbox>
+	</object>
+</annotation>

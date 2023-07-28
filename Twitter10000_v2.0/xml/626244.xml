@@ -1,0 +1,26 @@
+<annotation>
+	<folder>7-split</folder>
+	<filename>626244.jpg</filename>
+	<path>D:\研究生\图片标记\twitter2015\img_split_11\7-split\626244.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>600</width>
+		<height>305</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>Steve Jobs</name>
+		<pose>Unspecified</pose>
+		<truncated>1</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>53</xmin>
+			<ymin>20</ymin>
+			<xmax>201</xmax>
+			<ymax>305</ymax>
+		</bndbox>
+	</object>
+</annotation>

@@ -1,0 +1,26 @@
+<annotation>
+	<folder>2-split</folder>
+	<filename>653976.jpg</filename>
+	<path>D:\Desktop\Document\Postgraduate\NUSTM\数据标注\twitter2015_1114_3\img_split_3\2-split\653976.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>577</width>
+		<height>1024</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>EXO M</name>
+		<pose>Unspecified</pose>
+		<truncated>1</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>39</xmin>
+			<ymin>22</ymin>
+			<xmax>508</xmax>
+			<ymax>1024</ymax>
+		</bndbox>
+	</object>
+</annotation>

@@ -1,0 +1,38 @@
+<annotation>
+	<folder>6-split</folder>
+	<filename>474833.jpg</filename>
+	<path>D:\研究生\图片标记\twitter2015\img_split_11\6-split\474833.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>299</width>
+		<height>513</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>USA Archer</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>173</xmin>
+			<ymin>399</ymin>
+			<xmax>245</xmax>
+			<ymax>468</ymax>
+		</bndbox>
+	</object>
+	<object>
+		<name>Michelle Gilbert</name>
+		<pose>Unspecified</pose>
+		<truncated>1</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>1</xmin>
+			<ymin>69</ymin>
+			<xmax>299</xmax>
+			<ymax>513</ymax>
+		</bndbox>
+	</object>
+</annotation>

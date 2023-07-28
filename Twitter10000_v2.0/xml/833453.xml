@@ -1,0 +1,26 @@
+<annotation>
+	<folder>8-split</folder>
+	<filename>833453.jpg</filename>
+	<path>D:\研究生\图片标记\twitter2015\img_split_11\8-split\833453.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>584</width>
+		<height>502</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>Harry Styles</name>
+		<pose>Unspecified</pose>
+		<truncated>1</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>229</xmin>
+			<ymin>100</ymin>
+			<xmax>372</xmax>
+			<ymax>502</ymax>
+		</bndbox>
+	</object>
+</annotation>

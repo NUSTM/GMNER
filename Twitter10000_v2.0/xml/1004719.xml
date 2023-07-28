@@ -1,0 +1,26 @@
+<annotation>
+	<folder>9-split</folder>
+	<filename>1004719.jpg</filename>
+	<path>D:\研究生\图片标记\twitter2015\img_split_11\9-split\1004719.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>450</width>
+		<height>450</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>Kodak Lens Folding Reading Glasses</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>30</xmin>
+			<ymin>23</ymin>
+			<xmax>374</xmax>
+			<ymax>434</ymax>
+		</bndbox>
+	</object>
+</annotation>

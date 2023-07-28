@@ -1,0 +1,26 @@
+<annotation>
+	<folder>6-split</folder>
+	<filename>510946.jpg</filename>
+	<path>D:\研究生\图片标记\twitter2015\img_split_11\6-split\510946.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>600</width>
+		<height>400</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>Venus</name>
+		<pose>Unspecified</pose>
+		<truncated>1</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>83</xmin>
+			<ymin>21</ymin>
+			<xmax>286</xmax>
+			<ymax>400</ymax>
+		</bndbox>
+	</object>
+</annotation>

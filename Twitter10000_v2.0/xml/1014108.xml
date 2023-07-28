@@ -1,0 +1,26 @@
+<annotation>
+	<folder>9-split</folder>
+	<filename>1014108.jpg</filename>
+	<path>D:\研究生\图片标记\twitter2015\img_split_11\9-split\1014108.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>600</width>
+		<height>594</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>Jonathan Toews</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>4</xmin>
+			<ymin>51</ymin>
+			<xmax>470</xmax>
+			<ymax>553</ymax>
+		</bndbox>
+	</object>
+</annotation>

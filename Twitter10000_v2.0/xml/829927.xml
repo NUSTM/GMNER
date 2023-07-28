@@ -1,0 +1,38 @@
+<annotation>
+	<folder>8-split</folder>
+	<filename>829927.jpg</filename>
+	<path>D:\研究生\图片标记\twitter2015\img_split_11\8-split\829927.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>600</width>
+		<height>400</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>Nigel Hayes</name>
+		<pose>Unspecified</pose>
+		<truncated>1</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>96</xmin>
+			<ymin>51</ymin>
+			<xmax>279</xmax>
+			<ymax>400</ymax>
+		</bndbox>
+	</object>
+	<object>
+		<name>Josh Gasser</name>
+		<pose>Unspecified</pose>
+		<truncated>1</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>321</xmin>
+			<ymin>59</ymin>
+			<xmax>503</xmax>
+			<ymax>400</ymax>
+		</bndbox>
+	</object>
+</annotation>

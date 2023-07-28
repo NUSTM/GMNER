@@ -1,0 +1,26 @@
+<annotation>
+	<folder>8-split</folder>
+	<filename>16_05_23_583.jpg</filename>
+	<path>D:\研究生\图片标记\twitter2017_split10\img_split_vinvl_10\8-split\16_05_23_583.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>639</width>
+		<height>627</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>Asia Model Festival</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>236</xmin>
+			<ymin>420</ymin>
+			<xmax>368</xmax>
+			<ymax>505</ymax>
+		</bndbox>
+	</object>
+</annotation>

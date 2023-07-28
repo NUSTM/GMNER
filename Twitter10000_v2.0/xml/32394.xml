@@ -1,0 +1,26 @@
+<annotation>
+	<folder>2-split</folder>
+	<filename>32394.jpg</filename>
+	<path>C:\Users\lenovo\Documents\【001】准研\work\dataset\Twitter2015\img_split_11\2-split\32394.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>576</width>
+		<height>1024</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>Keith urban</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>171</xmin>
+			<ymin>90</ymin>
+			<xmax>330</xmax>
+			<ymax>350</ymax>
+		</bndbox>
+	</object>
+</annotation>

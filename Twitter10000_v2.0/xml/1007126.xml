@@ -1,0 +1,26 @@
+<annotation>
+	<folder>2-split</folder>
+	<filename>1007126.jpg</filename>
+	<path>D:\Desktop\Document\Postgraduate\NUSTM\数据标注\twitter2015_1114_3\img_split_3\2-split\1007126.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>600</width>
+		<height>847</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>Ugandan Parliament</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>62</xmin>
+			<ymin>36</ymin>
+			<xmax>144</xmax>
+			<ymax>127</ymax>
+		</bndbox>
+	</object>
+</annotation>

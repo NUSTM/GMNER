@@ -1,0 +1,26 @@
+<annotation>
+	<folder>2-split</folder>
+	<filename>417429.jpg</filename>
+	<path>D:\研究生\图片标记\twitter2015_1114_4\img_split_4\2-split\417429.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>600</width>
+		<height>250</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>Spock</name>
+		<pose>Unspecified</pose>
+		<truncated>1</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>86</xmin>
+			<ymin>2</ymin>
+			<xmax>386</xmax>
+			<ymax>250</ymax>
+		</bndbox>
+	</object>
+</annotation>

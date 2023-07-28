@@ -1,0 +1,26 @@
+<annotation>
+	<folder>11-split</folder>
+	<filename>2058152.jpg</filename>
+	<path>D:\研究生\图片标记\twitter2015\img_split_11\11-split\2058152.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>491</width>
+		<height>700</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>Arctic River</name>
+		<pose>Unspecified</pose>
+		<truncated>1</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>109</xmin>
+			<ymin>120</ymin>
+			<xmax>447</xmax>
+			<ymax>700</ymax>
+		</bndbox>
+	</object>
+</annotation>

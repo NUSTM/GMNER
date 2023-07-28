@@ -1,0 +1,26 @@
+<annotation>
+	<folder>1-split</folder>
+	<filename>74214.jpg</filename>
+	<path>D:\Desktop\Document\Postgraduate\NUSTM\数据标注\twitter2015_1114_3\img_split_3\1-split\74214.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>599</width>
+		<height>299</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>Al Jazeera English</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>437</xmin>
+			<ymin>238</ymin>
+			<xmax>462</xmax>
+			<ymax>277</ymax>
+		</bndbox>
+	</object>
+</annotation>

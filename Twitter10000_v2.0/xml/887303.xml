@@ -1,0 +1,26 @@
+<annotation>
+	<folder>9-split</folder>
+	<filename>887303.jpg</filename>
+	<path>D:\研究生\图片标记\twitter2015\img_split_11\9-split\887303.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>363</width>
+		<height>321</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>Alexander</name>
+		<pose>Unspecified</pose>
+		<truncated>1</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>218</xmin>
+			<ymin>16</ymin>
+			<xmax>363</xmax>
+			<ymax>159</ymax>
+		</bndbox>
+	</object>
+</annotation>

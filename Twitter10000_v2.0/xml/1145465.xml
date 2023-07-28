@@ -1,0 +1,38 @@
+<annotation>
+	<folder>10-split</folder>
+	<filename>1145465.jpg</filename>
+	<path>D:\研究生\图片标记\twitter2015\img_split_11\10-split\1145465.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>600</width>
+		<height>600</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>Marley Gang</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>200</xmin>
+			<ymin>301</ymin>
+			<xmax>381</xmax>
+			<ymax>561</ymax>
+		</bndbox>
+	</object>
+	<object>
+		<name>DJ Skroog Mkduk</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>103</xmin>
+			<ymin>54</ymin>
+			<xmax>225</xmax>
+			<ymax>316</ymax>
+		</bndbox>
+	</object>
+</annotation>

@@ -1,0 +1,26 @@
+<annotation>
+	<folder>7-split</folder>
+	<filename>651171.jpg</filename>
+	<path>D:\研究生\图片标记\twitter2015\img_split_11\7-split\651171.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>465</width>
+		<height>768</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>Luhan</name>
+		<pose>Unspecified</pose>
+		<truncated>1</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>72</xmin>
+			<ymin>231</ymin>
+			<xmax>421</xmax>
+			<ymax>768</ymax>
+		</bndbox>
+	</object>
+</annotation>

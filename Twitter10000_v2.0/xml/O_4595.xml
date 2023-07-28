@@ -1,0 +1,26 @@
+<annotation>
+	<folder>4-split</folder>
+	<filename>O_4595.jpg</filename>
+	<path>C:\Users\lenovo\Documents\【001】准研\work\dataset\Twitter2017\split10\img_split_vinvl_10\4-split\O_4595.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>500</width>
+		<height>750</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>Calvin Klein</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>171</xmin>
+			<ymin>433</ymin>
+			<xmax>280</xmax>
+			<ymax>470</ymax>
+		</bndbox>
+	</object>
+</annotation>

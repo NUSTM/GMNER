@@ -1,0 +1,38 @@
+<annotation>
+	<folder>6-split</folder>
+	<filename>488056.jpg</filename>
+	<path>D:\研究生\图片标记\twitter2015\img_split_11\6-split\488056.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>590</width>
+		<height>421</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>David Blatt</name>
+		<pose>Unspecified</pose>
+		<truncated>1</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>2</xmin>
+			<ymin>3</ymin>
+			<xmax>301</xmax>
+			<ymax>421</ymax>
+		</bndbox>
+	</object>
+	<object>
+		<name>Steve Kerr</name>
+		<pose>Unspecified</pose>
+		<truncated>1</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>190</xmin>
+			<ymin>2</ymin>
+			<xmax>590</xmax>
+			<ymax>421</ymax>
+		</bndbox>
+	</object>
+</annotation>

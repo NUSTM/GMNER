@@ -1,0 +1,38 @@
+<annotation>
+	<folder>8-split</folder>
+	<filename>783238.jpg</filename>
+	<path>D:\研究生\图片标记\twitter2015\img_split_11\8-split\783238.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>600</width>
+		<height>600</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>Nike Air Max 90</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>215</xmin>
+			<ymin>115</ymin>
+			<xmax>480</xmax>
+			<ymax>335</ymax>
+		</bndbox>
+	</object>
+	<object>
+		<name>Nike Air Max 90</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>158</xmin>
+			<ymin>345</ymin>
+			<xmax>484</xmax>
+			<ymax>562</ymax>
+		</bndbox>
+	</object>
+</annotation>

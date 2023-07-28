@@ -1,0 +1,26 @@
+<annotation>
+	<folder>2-split</folder>
+	<filename>284015.jpg</filename>
+	<path>D:\研究生\图片标记\twitter2015_1114_4\img_split_4\2-split\284015.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>600</width>
+		<height>359</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>quiet river</name>
+		<pose>Unspecified</pose>
+		<truncated>1</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>20</xmin>
+			<ymin>122</ymin>
+			<xmax>596</xmax>
+			<ymax>359</ymax>
+		</bndbox>
+	</object>
+</annotation>

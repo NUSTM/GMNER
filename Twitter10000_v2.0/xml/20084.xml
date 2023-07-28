@@ -1,0 +1,26 @@
+<annotation>
+	<folder>1-split</folder>
+	<filename>20084.jpg</filename>
+	<path>D:\研究生\图片标记\twitter2015_1114_4\img_split_4\1-split\20084.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>599</width>
+		<height>447</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>Whoopi Goldberg</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>280</xmin>
+			<ymin>162</ymin>
+			<xmax>343</xmax>
+			<ymax>301</ymax>
+		</bndbox>
+	</object>
+</annotation>

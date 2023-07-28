@@ -1,0 +1,26 @@
+<annotation>
+	<folder>6-split</folder>
+	<filename>451175.jpg</filename>
+	<path>D:\研究生\图片标记\twitter2015\img_split_11\6-split\451175.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>600</width>
+		<height>600</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>Mike Vick</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>239</xmin>
+			<ymin>231</ymin>
+			<xmax>301</xmax>
+			<ymax>308</ymax>
+		</bndbox>
+	</object>
+</annotation>

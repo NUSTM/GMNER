@@ -1,0 +1,26 @@
+<annotation>
+	<folder>2-split</folder>
+	<filename>50693.jpg</filename>
+	<path>C:\Users\lenovo\Documents\【001】准研\work\dataset\Twitter2015\img_split_11\2-split\50693.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>524</width>
+		<height>370</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>Taylor Heinicke</name>
+		<pose>Unspecified</pose>
+		<truncated>1</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>213</xmin>
+			<ymin>92</ymin>
+			<xmax>338</xmax>
+			<ymax>370</ymax>
+		</bndbox>
+	</object>
+</annotation>

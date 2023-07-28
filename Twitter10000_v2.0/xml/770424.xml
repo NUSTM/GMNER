@@ -1,0 +1,26 @@
+<annotation>
+	<folder>8-split</folder>
+	<filename>770424.jpg</filename>
+	<path>D:\研究生\图片标记\twitter2015\img_split_11\8-split\770424.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>600</width>
+		<height>398</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>Mr . John</name>
+		<pose>Unspecified</pose>
+		<truncated>1</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>238</xmin>
+			<ymin>11</ymin>
+			<xmax>452</xmax>
+			<ymax>398</ymax>
+		</bndbox>
+	</object>
+</annotation>

@@ -1,0 +1,26 @@
+<annotation>
+	<folder>1-split</folder>
+	<filename>14593.jpg</filename>
+	<path>D:\研究生\图片标记\twitter2015_1114_4\img_split_4\1-split\14593.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>600</width>
+		<height>600</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>Andrew Luck</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>419</xmin>
+			<ymin>8</ymin>
+			<xmax>586</xmax>
+			<ymax>296</ymax>
+		</bndbox>
+	</object>
+</annotation>

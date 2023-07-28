@@ -2,6 +2,12 @@
 
 Here are code and dataset for our ACL2023 paper: [Grounded Multimodal Named Entity Recognition on Social Media](https://aclanthology.org/2023.acl-long.508.pdf)
 
+## Updates
+
+### 20230728: Twitter10000 v2.0
+
+We have made some revisions to the Twitter10000 dataset.  In Twitter10000 v2.0, we made several detailed revisions to the BIO tagging and bounding box annotations, improving the alignment between the two to ensure a more accurate and consistent relationship.
+
 ## Dataset
 
 Our dataset is built on two benchmark MNER datasets, i.e., Twitter-15 (Zhang

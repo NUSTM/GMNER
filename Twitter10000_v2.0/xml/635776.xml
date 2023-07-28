@@ -1,0 +1,26 @@
+<annotation>
+	<folder>7-split</folder>
+	<filename>635776.jpg</filename>
+	<path>D:\研究生\图片标记\twitter2015\img_split_11\7-split\635776.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>600</width>
+		<height>800</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>Cornbury</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>40</xmin>
+			<ymin>217</ymin>
+			<xmax>565</xmax>
+			<ymax>398</ymax>
+		</bndbox>
+	</object>
+</annotation>

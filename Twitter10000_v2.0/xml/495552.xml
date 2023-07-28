@@ -1,0 +1,26 @@
+<annotation>
+	<folder>6-split</folder>
+	<filename>495552.jpg</filename>
+	<path>D:\研究生\图片标记\twitter2015\img_split_11\6-split\495552.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>400</width>
+		<height>400</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>Rihanna</name>
+		<pose>Unspecified</pose>
+		<truncated>1</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>117</xmin>
+			<ymin>1</ymin>
+			<xmax>346</xmax>
+			<ymax>381</ymax>
+		</bndbox>
+	</object>
+</annotation>

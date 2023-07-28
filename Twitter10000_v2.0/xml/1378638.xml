@@ -1,0 +1,38 @@
+<annotation>
+	<folder>10-split</folder>
+	<filename>1378638.jpg</filename>
+	<path>D:\研究生\图片标记\twitter2015\img_split_11\10-split\1378638.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>600</width>
+		<height>338</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>Martin St . Louis</name>
+		<pose>Unspecified</pose>
+		<truncated>1</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>107</xmin>
+			<ymin>1</ymin>
+			<xmax>446</xmax>
+			<ymax>338</ymax>
+		</bndbox>
+	</object>
+	<object>
+		<name>National Hockey League</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>310</xmin>
+			<ymin>209</ymin>
+			<xmax>327</xmax>
+			<ymax>229</ymax>
+		</bndbox>
+	</object>
+</annotation>

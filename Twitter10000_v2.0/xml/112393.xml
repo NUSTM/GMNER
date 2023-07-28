@@ -1,0 +1,26 @@
+<annotation>
+	<folder>2-split</folder>
+	<filename>112393.jpg</filename>
+	<path>D:\研究生\图片标记\twitter2015_1114_4\img_split_4\2-split\112393.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>435</width>
+		<height>352</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>EMC Mobile 2</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>87</xmin>
+			<ymin>97</ymin>
+			<xmax>348</xmax>
+			<ymax>228</ymax>
+		</bndbox>
+	</object>
+</annotation>

@@ -1,0 +1,26 @@
+<annotation>
+	<folder>3-split</folder>
+	<filename>73096.jpg</filename>
+	<path>C:\Users\lenovo\Documents\【001】准研\work\dataset\Twitter2015\img_split_11\3-split\73096.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>600</width>
+		<height>398</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>Lance Briggs</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>280</xmin>
+			<ymin>94</ymin>
+			<xmax>374</xmax>
+			<ymax>325</ymax>
+		</bndbox>
+	</object>
+</annotation>

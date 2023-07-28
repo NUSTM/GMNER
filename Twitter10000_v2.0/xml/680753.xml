@@ -1,0 +1,26 @@
+<annotation>
+	<folder>3-split</folder>
+	<filename>680753.jpg</filename>
+	<path>C:\Users\lenovo\Documents\work\dataset\twitter2015_1114_4\img_split_4\3-split\680753.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>600</width>
+		<height>600</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>Pitbull</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>161</xmin>
+			<ymin>226</ymin>
+			<xmax>422</xmax>
+			<ymax>502</ymax>
+		</bndbox>
+	</object>
+</annotation>

@@ -1,0 +1,38 @@
+<annotation>
+	<folder>11-split</folder>
+	<filename>1979297.jpg</filename>
+	<path>D:\研究生\图片标记\twitter2015\img_split_11\11-split\1979297.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>592</width>
+		<height>394</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>Christian Bale</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>382</xmin>
+			<ymin>6</ymin>
+			<xmax>591</xmax>
+			<ymax>259</ymax>
+		</bndbox>
+	</object>
+	<object>
+		<name>Heath Ledger</name>
+		<pose>Unspecified</pose>
+		<truncated>1</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>3</xmin>
+			<ymin>18</ymin>
+			<xmax>219</xmax>
+			<ymax>394</ymax>
+		</bndbox>
+	</object>
+</annotation>

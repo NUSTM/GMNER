@@ -1,0 +1,38 @@
+<annotation>
+	<folder>10-split</folder>
+	<filename>1704997.jpg</filename>
+	<path>D:\研究生\图片标记\twitter2015\img_split_11\10-split\1704997.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>526</width>
+		<height>1024</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>Britt Robertson</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>315</xmin>
+			<ymin>369</ymin>
+			<xmax>505</xmax>
+			<ymax>674</ymax>
+		</bndbox>
+	</object>
+	<object>
+		<name>Shelley Hennig</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>37</xmin>
+			<ymin>328</ymin>
+			<xmax>240</xmax>
+			<ymax>670</ymax>
+		</bndbox>
+	</object>
+</annotation>

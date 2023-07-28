@@ -1,0 +1,26 @@
+<annotation>
+	<folder>9-split</folder>
+	<filename>1060397.jpg</filename>
+	<path>D:\研究生\图片标记\twitter2015\img_split_11\9-split\1060397.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>600</width>
+		<height>391</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>Andrew Harrison</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>162</xmin>
+			<ymin>24</ymin>
+			<xmax>544</xmax>
+			<ymax>380</ymax>
+		</bndbox>
+	</object>
+</annotation>

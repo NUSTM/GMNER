@@ -1,0 +1,26 @@
+<annotation>
+	<folder>5-split</folder>
+	<filename>17_06_4011.jpg</filename>
+	<path>C:\Users\lenovo\Documents\【001】准研\work\dataset\Twitter2017\split10\img_split_vinvl_10\5-split\17_06_4011.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>798</width>
+		<height>455</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>Henri Jokiharju</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>322</xmin>
+			<ymin>7</ymin>
+			<xmax>616</xmax>
+			<ymax>436</ymax>
+		</bndbox>
+	</object>
+</annotation>

@@ -1,0 +1,26 @@
+<annotation>
+	<folder>5-split</folder>
+	<filename>254440.jpg</filename>
+	<path>C:\Users\lenovo\Documents\【001】准研\work\dataset\Twitter2015\img_split_11\5-split\254440.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>600</width>
+		<height>479</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>David Beckham</name>
+		<pose>Unspecified</pose>
+		<truncated>1</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>18</xmin>
+			<ymin>25</ymin>
+			<xmax>461</xmax>
+			<ymax>479</ymax>
+		</bndbox>
+	</object>
+</annotation>

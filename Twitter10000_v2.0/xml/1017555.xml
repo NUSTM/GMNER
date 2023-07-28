@@ -1,0 +1,26 @@
+<annotation>
+	<folder>9-split</folder>
+	<filename>1017555.jpg</filename>
+	<path>D:\研究生\图片标记\twitter2015\img_split_11\9-split\1017555.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>600</width>
+		<height>794</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>AUSTIN BUTLER</name>
+		<pose>Unspecified</pose>
+		<truncated>1</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>312</xmin>
+			<ymin>14</ymin>
+			<xmax>556</xmax>
+			<ymax>794</ymax>
+		</bndbox>
+	</object>
+</annotation>

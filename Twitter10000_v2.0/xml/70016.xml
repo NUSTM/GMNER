@@ -1,0 +1,26 @@
+<annotation>
+	<folder>1-split</folder>
+	<filename>70016.jpg</filename>
+	<path>D:\研究生\图片标记\twitter2015_1114_4\img_split_4\1-split\70016.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>600</width>
+		<height>510</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>Jennifer Lawrence</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>271</xmin>
+			<ymin>136</ymin>
+			<xmax>338</xmax>
+			<ymax>188</ymax>
+		</bndbox>
+	</object>
+</annotation>

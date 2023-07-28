@@ -1,0 +1,26 @@
+<annotation>
+	<folder>6-split</folder>
+	<filename>480032.jpg</filename>
+	<path>D:\研究生\图片标记\twitter2015\img_split_11\6-split\480032.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>600</width>
+		<height>401</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>Mount Fuji</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>15</xmin>
+			<ymin>130</ymin>
+			<xmax>598</xmax>
+			<ymax>275</ymax>
+		</bndbox>
+	</object>
+</annotation>

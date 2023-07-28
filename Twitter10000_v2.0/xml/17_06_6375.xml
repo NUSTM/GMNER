@@ -1,0 +1,26 @@
+<annotation>
+	<folder>6-split</folder>
+	<filename>17_06_6375.jpg</filename>
+	<path>D:\研究生\图片标记\twitter2017_split10\img_split_vinvl_10\6-split\17_06_6375.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>938</width>
+		<height>626</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>Brompton</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>324</xmin>
+			<ymin>147</ymin>
+			<xmax>435</xmax>
+			<ymax>171</ymax>
+		</bndbox>
+	</object>
+</annotation>

@@ -1,0 +1,26 @@
+<annotation>
+	<folder>6-split</folder>
+	<filename>17_06_9452.jpg</filename>
+	<path>D:\研究生\图片标记\twitter2017_split10\img_split_vinvl_10\6-split\17_06_9452.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>890</width>
+		<height>501</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>NBA</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>463</xmin>
+			<ymin>417</ymin>
+			<xmax>482</xmax>
+			<ymax>451</ymax>
+		</bndbox>
+	</object>
+</annotation>

@@ -1,0 +1,26 @@
+<annotation>
+	<folder>7-split</folder>
+	<filename>656889.jpg</filename>
+	<path>D:\研究生\图片标记\twitter2015\img_split_11\7-split\656889.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>592</width>
+		<height>504</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>Disneyland</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>238</xmin>
+			<ymin>298</ymin>
+			<xmax>284</xmax>
+			<ymax>374</ymax>
+		</bndbox>
+	</object>
+</annotation>

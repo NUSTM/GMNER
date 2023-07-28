@@ -1,0 +1,26 @@
+<annotation>
+	<folder>7-split</folder>
+	<filename>527443.jpg</filename>
+	<path>D:\研究生\图片标记\twitter2015\img_split_11\7-split\527443.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>600</width>
+		<height>400</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>David Zayas</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>218</xmin>
+			<ymin>304</ymin>
+			<xmax>255</xmax>
+			<ymax>383</ymax>
+		</bndbox>
+	</object>
+</annotation>

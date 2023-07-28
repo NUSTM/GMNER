@@ -1,0 +1,26 @@
+<annotation>
+	<folder>1-split</folder>
+	<filename>10625.jpg</filename>
+	<path>C:\Users\lenovo\Documents\【001】准研\work\dataset\Twitter2015\img_split_11\1-split\10625.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>600</width>
+		<height>398</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>Lana Del</name>
+		<pose>Unspecified</pose>
+		<truncated>1</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>19</xmin>
+			<ymin>69</ymin>
+			<xmax>255</xmax>
+			<ymax>398</ymax>
+		</bndbox>
+	</object>
+</annotation>

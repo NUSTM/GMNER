@@ -1,0 +1,26 @@
+<annotation>
+	<folder>8-split</folder>
+	<filename>886055.jpg</filename>
+	<path>D:\研究生\图片标记\twitter2015\img_split_11\8-split\886055.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>420</width>
+		<height>590</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>Baseball</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>3</xmin>
+			<ymin>60</ymin>
+			<xmax>419</xmax>
+			<ymax>585</ymax>
+		</bndbox>
+	</object>
+</annotation>

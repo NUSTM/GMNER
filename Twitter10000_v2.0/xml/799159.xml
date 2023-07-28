@@ -1,0 +1,26 @@
+<annotation>
+	<folder>8-split</folder>
+	<filename>799159.jpg</filename>
+	<path>D:\研究生\图片标记\twitter2015\img_split_11\8-split\799159.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>599</width>
+		<height>416</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>Neil Gaiman Reimagines Hansel &amp;amp ; Gretel</name>
+		<pose>Unspecified</pose>
+		<truncated>1</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>2</xmin>
+			<ymin>1</ymin>
+			<xmax>599</xmax>
+			<ymax>414</ymax>
+		</bndbox>
+	</object>
+</annotation>

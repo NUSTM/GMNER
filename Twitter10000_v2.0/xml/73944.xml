@@ -1,0 +1,26 @@
+<annotation>
+	<folder>4-split</folder>
+	<filename>73944.jpg</filename>
+	<path>C:\Users\lenovo\Documents\【001】准研\work\dataset\Twitter2015\img_split_11\4-split\73944.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>598</width>
+		<height>380</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>Emma Roberts</name>
+		<pose>Unspecified</pose>
+		<truncated>1</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>98</xmin>
+			<ymin>73</ymin>
+			<xmax>286</xmax>
+			<ymax>380</ymax>
+		</bndbox>
+	</object>
+</annotation>

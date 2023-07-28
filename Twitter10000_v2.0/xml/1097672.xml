@@ -1,0 +1,26 @@
+<annotation>
+	<folder>9-split</folder>
+	<filename>1097672.jpg</filename>
+	<path>D:\研究生\图片标记\twitter2015\img_split_11\9-split\1097672.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>507</width>
+		<height>366</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>Hillary</name>
+		<pose>Unspecified</pose>
+		<truncated>1</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>23</xmin>
+			<ymin>51</ymin>
+			<xmax>376</xmax>
+			<ymax>366</ymax>
+		</bndbox>
+	</object>
+</annotation>

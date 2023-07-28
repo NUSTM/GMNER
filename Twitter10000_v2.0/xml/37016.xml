@@ -1,0 +1,26 @@
+<annotation>
+	<folder>2-split</folder>
+	<filename>37016.jpg</filename>
+	<path>C:\Users\lenovo\Documents\【001】准研\work\dataset\Twitter2015\img_split_11\2-split\37016.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>480</width>
+		<height>360</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>Quanel X</name>
+		<pose>Unspecified</pose>
+		<truncated>1</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>47</xmin>
+			<ymin>102</ymin>
+			<xmax>242</xmax>
+			<ymax>360</ymax>
+		</bndbox>
+	</object>
+</annotation>

@@ -1,0 +1,26 @@
+<annotation>
+	<folder>10-split</folder>
+	<filename>1324831.jpg</filename>
+	<path>D:\研究生\图片标记\twitter2015\img_split_11\10-split\1324831.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>435</width>
+		<height>291</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>Jimmy Carter</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>294</xmin>
+			<ymin>17</ymin>
+			<xmax>386</xmax>
+			<ymax>289</ymax>
+		</bndbox>
+	</object>
+</annotation>

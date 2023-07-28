@@ -1,0 +1,26 @@
+<annotation>
+	<folder>6-split</folder>
+	<filename>416021.jpg</filename>
+	<path>D:\研究生\图片标记\twitter2015\img_split_11\6-split\416021.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>555</width>
+		<height>557</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>Hillary Clinton</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>220</xmin>
+			<ymin>45</ymin>
+			<xmax>554</xmax>
+			<ymax>484</ymax>
+		</bndbox>
+	</object>
+</annotation>

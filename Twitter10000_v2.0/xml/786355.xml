@@ -1,0 +1,38 @@
+<annotation>
+	<folder>8-split</folder>
+	<filename>786355.jpg</filename>
+	<path>D:\研究生\图片标记\twitter2015\img_split_11\8-split\786355.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>600</width>
+		<height>450</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>Walter Smith</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>288</xmin>
+			<ymin>100</ymin>
+			<xmax>423</xmax>
+			<ymax>398</ymax>
+		</bndbox>
+	</object>
+	<object>
+		<name>Murdo McLeod</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>129</xmin>
+			<ymin>93</ymin>
+			<xmax>342</xmax>
+			<ymax>432</ymax>
+		</bndbox>
+	</object>
+</annotation>

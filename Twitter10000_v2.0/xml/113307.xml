@@ -1,0 +1,26 @@
+<annotation>
+	<folder>4-split</folder>
+	<filename>113307.jpg</filename>
+	<path>C:\Users\lenovo\Documents\【001】准研\work\dataset\Twitter2015\img_split_11\4-split\113307.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>535</width>
+		<height>722</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>Jean Auguste Dominique Ingres</name>
+		<pose>Unspecified</pose>
+		<truncated>1</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>2</xmin>
+			<ymin>95</ymin>
+			<xmax>443</xmax>
+			<ymax>722</ymax>
+		</bndbox>
+	</object>
+</annotation>

@@ -1,0 +1,26 @@
+<annotation>
+	<folder>10-split</folder>
+	<filename>1450983.jpg</filename>
+	<path>D:\研究生\图片标记\twitter2015\img_split_11\10-split\1450983.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>480</width>
+		<height>270</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>Mario</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>175</xmin>
+			<ymin>105</ymin>
+			<xmax>252</xmax>
+			<ymax>149</ymax>
+		</bndbox>
+	</object>
+</annotation>

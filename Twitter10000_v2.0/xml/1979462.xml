@@ -1,0 +1,26 @@
+<annotation>
+	<folder>11-split</folder>
+	<filename>1979462.jpg</filename>
+	<path>D:\研究生\图片标记\twitter2015\img_split_11\11-split\1979462.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>600</width>
+		<height>450</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>Mayor Kadokawa</name>
+		<pose>Unspecified</pose>
+		<truncated>1</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>288</xmin>
+			<ymin>114</ymin>
+			<xmax>473</xmax>
+			<ymax>450</ymax>
+		</bndbox>
+	</object>
+</annotation>

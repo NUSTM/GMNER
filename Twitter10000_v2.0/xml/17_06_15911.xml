@@ -1,0 +1,26 @@
+<annotation>
+	<folder>10-split</folder>
+	<filename>17_06_15911.jpg</filename>
+	<path>D:\研究生\图片标记\twitter2017_split10\img_split_vinvl_10\10-split\17_06_15911.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>1000</width>
+		<height>675</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>Kevin Stefanski</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>7</xmin>
+			<ymin>61</ymin>
+			<xmax>514</xmax>
+			<ymax>667</ymax>
+		</bndbox>
+	</object>
+</annotation>

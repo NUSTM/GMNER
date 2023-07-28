@@ -1,0 +1,38 @@
+<annotation>
+	<folder>6-split</folder>
+	<filename>474742.jpg</filename>
+	<path>D:\研究生\图片标记\twitter2015\img_split_11\6-split\474742.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>600</width>
+		<height>536</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>cheryl</name>
+		<pose>Unspecified</pose>
+		<truncated>1</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>440</xmin>
+			<ymin>192</ymin>
+			<xmax>600</xmax>
+			<ymax>536</ymax>
+		</bndbox>
+	</object>
+	<object>
+		<name>Steven Tyler</name>
+		<pose>Unspecified</pose>
+		<truncated>1</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>317</xmin>
+			<ymin>122</ymin>
+			<xmax>461</xmax>
+			<ymax>536</ymax>
+		</bndbox>
+	</object>
+</annotation>

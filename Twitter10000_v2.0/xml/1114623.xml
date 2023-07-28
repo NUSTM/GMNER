@@ -1,0 +1,26 @@
+<annotation>
+	<folder>9-split</folder>
+	<filename>1114623.jpg</filename>
+	<path>D:\研究生\图片标记\twitter2015\img_split_11\9-split\1114623.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>599</width>
+		<height>407</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>Juliana Werner</name>
+		<pose>Unspecified</pose>
+		<truncated>1</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>20</xmin>
+			<ymin>38</ymin>
+			<xmax>396</xmax>
+			<ymax>407</ymax>
+		</bndbox>
+	</object>
+</annotation>

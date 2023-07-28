@@ -1,0 +1,38 @@
+<annotation>
+	<folder>7-split</folder>
+	<filename>573061.jpg</filename>
+	<path>D:\研究生\图片标记\twitter2015\img_split_11\7-split\573061.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>436</width>
+		<height>322</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>Tyrion Lannister</name>
+		<pose>Unspecified</pose>
+		<truncated>1</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>1</xmin>
+			<ymin>62</ymin>
+			<xmax>257</xmax>
+			<ymax>322</ymax>
+		</bndbox>
+	</object>
+	<object>
+		<name>Peter Dinklage</name>
+		<pose>Unspecified</pose>
+		<truncated>1</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>1</xmin>
+			<ymin>63</ymin>
+			<xmax>253</xmax>
+			<ymax>322</ymax>
+		</bndbox>
+	</object>
+</annotation>

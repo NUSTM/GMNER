@@ -1,0 +1,26 @@
+<annotation>
+	<folder>6-split</folder>
+	<filename>346279.jpg</filename>
+	<path>D:\研究生\图片标记\twitter2015\img_split_11\6-split\346279.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>600</width>
+		<height>335</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>Lou Williams</name>
+		<pose>Unspecified</pose>
+		<truncated>1</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>162</xmin>
+			<ymin>16</ymin>
+			<xmax>525</xmax>
+			<ymax>335</ymax>
+		</bndbox>
+	</object>
+</annotation>

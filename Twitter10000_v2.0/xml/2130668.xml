@@ -1,0 +1,26 @@
+<annotation>
+	<folder>11-split</folder>
+	<filename>2130668.jpg</filename>
+	<path>D:\研究生\图片标记\twitter2015\img_split_11\11-split\2130668.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>600</width>
+		<height>397</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>Brooklyn Bridge</name>
+		<pose>Unspecified</pose>
+		<truncated>1</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>3</xmin>
+			<ymin>5</ymin>
+			<xmax>600</xmax>
+			<ymax>397</ymax>
+		</bndbox>
+	</object>
+</annotation>

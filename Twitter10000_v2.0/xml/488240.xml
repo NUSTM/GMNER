@@ -1,0 +1,26 @@
+<annotation>
+	<folder>3-split</folder>
+	<filename>488240.jpg</filename>
+	<path>C:\Users\lenovo\Documents\work\dataset\twitter2015_1114_4\img_split_4\3-split\488240.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>599</width>
+		<height>400</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>Belfast City Hall</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>16</xmin>
+			<ymin>68</ymin>
+			<xmax>535</xmax>
+			<ymax>304</ymax>
+		</bndbox>
+	</object>
+</annotation>

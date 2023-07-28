@@ -1,0 +1,26 @@
+<annotation>
+	<folder>8-split</folder>
+	<filename>750200.jpg</filename>
+	<path>D:\研究生\图片标记\twitter2015\img_split_11\8-split\750200.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>340</width>
+		<height>340</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>MIGUEL</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>15</xmin>
+			<ymin>74</ymin>
+			<xmax>322</xmax>
+			<ymax>292</ymax>
+		</bndbox>
+	</object>
+</annotation>

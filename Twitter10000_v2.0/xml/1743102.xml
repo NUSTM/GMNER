@@ -1,0 +1,26 @@
+<annotation>
+	<folder>10-split</folder>
+	<filename>1743102.jpg</filename>
+	<path>D:\研究生\图片标记\twitter2015\img_split_11\10-split\1743102.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>400</width>
+		<height>220</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>Kobe</name>
+		<pose>Unspecified</pose>
+		<truncated>1</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>59</xmin>
+			<ymin>10</ymin>
+			<xmax>366</xmax>
+			<ymax>220</ymax>
+		</bndbox>
+	</object>
+</annotation>

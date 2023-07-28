@@ -1,0 +1,26 @@
+<annotation>
+	<folder>8-split</folder>
+	<filename>714670.jpg</filename>
+	<path>D:\研究生\图片标记\twitter2015\img_split_11\8-split\714670.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>599</width>
+		<height>404</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>Lana</name>
+		<pose>Unspecified</pose>
+		<truncated>1</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>1</xmin>
+			<ymin>8</ymin>
+			<xmax>597</xmax>
+			<ymax>404</ymax>
+		</bndbox>
+	</object>
+</annotation>

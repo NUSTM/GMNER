@@ -1,0 +1,26 @@
+<annotation>
+	<folder>2-split</folder>
+	<filename>94081.jpg</filename>
+	<path>D:\研究生\图片标记\twitter2015_1114_4\img_split_4\2-split\94081.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>600</width>
+		<height>334</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>Clayton Kershaw</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>315</xmin>
+			<ymin>87</ymin>
+			<xmax>387</xmax>
+			<ymax>158</ymax>
+		</bndbox>
+	</object>
+</annotation>

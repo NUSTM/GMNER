@@ -1,0 +1,26 @@
+<annotation>
+	<folder>8-split</folder>
+	<filename>875874.jpg</filename>
+	<path>D:\研究生\图片标记\twitter2015\img_split_11\8-split\875874.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>500</width>
+		<height>344</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>Takis Fuego</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>10</xmin>
+			<ymin>6</ymin>
+			<xmax>494</xmax>
+			<ymax>337</ymax>
+		</bndbox>
+	</object>
+</annotation>

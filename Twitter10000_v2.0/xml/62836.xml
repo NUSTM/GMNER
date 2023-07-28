@@ -1,0 +1,26 @@
+<annotation>
+	<folder>2-split</folder>
+	<filename>62836.jpg</filename>
+	<path>C:\Users\lenovo\Documents\【001】准研\work\dataset\Twitter2015\img_split_11\2-split\62836.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>600</width>
+		<height>292</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>Jerome Boateng</name>
+		<pose>Unspecified</pose>
+		<truncated>1</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>360</xmin>
+			<ymin>99</ymin>
+			<xmax>585</xmax>
+			<ymax>292</ymax>
+		</bndbox>
+	</object>
+</annotation>

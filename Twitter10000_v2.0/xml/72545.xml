@@ -1,0 +1,26 @@
+<annotation>
+	<folder>2-split</folder>
+	<filename>72545.jpg</filename>
+	<path>D:\研究生\图片标记\twitter2015_1114_4\img_split_4\2-split\72545.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>600</width>
+		<height>388</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>Pat Quinn</name>
+		<pose>Unspecified</pose>
+		<truncated>1</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>140</xmin>
+			<ymin>67</ymin>
+			<xmax>300</xmax>
+			<ymax>388</ymax>
+		</bndbox>
+	</object>
+</annotation>

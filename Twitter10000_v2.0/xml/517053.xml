@@ -1,0 +1,26 @@
+<annotation>
+	<folder>7-split</folder>
+	<filename>517053.jpg</filename>
+	<path>D:\研究生\图片标记\twitter2015\img_split_11\7-split\517053.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>599</width>
+		<height>1030</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>UFV</name>
+		<pose>Unspecified</pose>
+		<truncated>1</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>17</xmin>
+			<ymin>515</ymin>
+			<xmax>599</xmax>
+			<ymax>1030</ymax>
+		</bndbox>
+	</object>
+</annotation>

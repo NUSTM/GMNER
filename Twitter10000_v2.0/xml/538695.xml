@@ -1,0 +1,26 @@
+<annotation>
+	<folder>7-split</folder>
+	<filename>538695.jpg</filename>
+	<path>D:\研究生\图片标记\twitter2015\img_split_11\7-split\538695.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>598</width>
+		<height>439</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>Doug</name>
+		<pose>Unspecified</pose>
+		<truncated>1</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>136</xmin>
+			<ymin>36</ymin>
+			<xmax>458</xmax>
+			<ymax>439</ymax>
+		</bndbox>
+	</object>
+</annotation>

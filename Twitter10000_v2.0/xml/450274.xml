@@ -1,0 +1,38 @@
+<annotation>
+	<folder>6-split</folder>
+	<filename>450274.jpg</filename>
+	<path>D:\研究生\图片标记\twitter2015\img_split_11\6-split\450274.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>500</width>
+		<height>653</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>Al Pacino</name>
+		<pose>Unspecified</pose>
+		<truncated>1</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>29</xmin>
+			<ymin>1</ymin>
+			<xmax>484</xmax>
+			<ymax>653</ymax>
+		</bndbox>
+	</object>
+	<object>
+		<name>Robert DeNiro</name>
+		<pose>Unspecified</pose>
+		<truncated>1</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>164</xmin>
+			<ymin>424</ymin>
+			<xmax>429</xmax>
+			<ymax>653</ymax>
+		</bndbox>
+	</object>
+</annotation>

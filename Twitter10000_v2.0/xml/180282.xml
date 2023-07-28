@@ -1,0 +1,26 @@
+<annotation>
+	<folder>5-split</folder>
+	<filename>180282.jpg</filename>
+	<path>C:\Users\lenovo\Documents\【001】准研\work\dataset\Twitter2015\img_split_11\5-split\180282.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>300</width>
+		<height>275</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>Dinorah Figuera</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>26</xmin>
+			<ymin>15</ymin>
+			<xmax>296</xmax>
+			<ymax>259</ymax>
+		</bndbox>
+	</object>
+</annotation>

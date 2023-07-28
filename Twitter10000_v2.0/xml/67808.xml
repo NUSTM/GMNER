@@ -1,0 +1,26 @@
+<annotation>
+	<folder>3-split</folder>
+	<filename>67808.jpg</filename>
+	<path>C:\Users\lenovo\Documents\【001】准研\work\dataset\Twitter2015\img_split_11\3-split\67808.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>600</width>
+		<height>300</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>Derrick Rose</name>
+		<pose>Unspecified</pose>
+		<truncated>1</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>49</xmin>
+			<ymin>6</ymin>
+			<xmax>354</xmax>
+			<ymax>300</ymax>
+		</bndbox>
+	</object>
+</annotation>

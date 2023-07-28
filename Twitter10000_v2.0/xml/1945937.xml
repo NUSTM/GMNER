@@ -1,0 +1,26 @@
+<annotation>
+	<folder>11-split</folder>
+	<filename>1945937.jpg</filename>
+	<path>D:\研究生\图片标记\twitter2015\img_split_11\11-split\1945937.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>580</width>
+		<height>473</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>Dikgacoi</name>
+		<pose>Unspecified</pose>
+		<truncated>1</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>196</xmin>
+			<ymin>26</ymin>
+			<xmax>393</xmax>
+			<ymax>473</ymax>
+		</bndbox>
+	</object>
+</annotation>

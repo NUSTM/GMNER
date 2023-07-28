@@ -1,0 +1,26 @@
+<annotation>
+	<folder>5-split</folder>
+	<filename>16_05_15_10.jpg</filename>
+	<path>C:\Users\lenovo\Documents\【001】准研\work\dataset\Twitter2017\split10\img_split_vinvl_10\5-split\16_05_15_10.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>959</width>
+		<height>637</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>Gonzalo Higuaín</name>
+		<pose>Unspecified</pose>
+		<truncated>1</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>368</xmin>
+			<ymin>38</ymin>
+			<xmax>909</xmax>
+			<ymax>637</ymax>
+		</bndbox>
+	</object>
+</annotation>
