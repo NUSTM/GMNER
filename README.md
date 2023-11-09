@@ -15,7 +15,7 @@ et al., 2018) and Twitter-17 (Yu et al., 2020).
 
 - The preprocessed CoNLL format files are provided in this repo. For each tweet, the first line is its image id, and the following lines are its textual contents.
 - Step 1：Download each tweet's associated images via this link (<https://drive.google.com/file/d/1PpvvncnQkgDNeBMKVgG2zFYuRhbL873g/view>)
-- Step 2:  Use [VinVL](https://github.com/pzzhang/VinVL) to identify all the candidate objects, and put them under the folder named "Twitter10000_VinVL"
+- Step 2:  Use [VinVL](https://github.com/pzzhang/VinVL) to identify all the candidate objects, and put them under the folder named "Twitter10000_VinVL". We have uploaded the features extracted by VinVL to [Google Drive](https://drive.google.com/file/d/1wJltKcB2IVfNkH5hmjc2Dz1dlH1hndEM/view?usp=sharing) and [Baidu Netdisk](https://pan.baidu.com/s/1QqjOlAAjCqAk_qL6ejeARw?pwd=TwVi) (code: TwVi).
 
 ## Requirement
 
